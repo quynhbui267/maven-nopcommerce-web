@@ -1,0 +1,136 @@
+[2022-07-25 18:55:24,408] -------STARTED TEST Run on Firefox------
+[2022-07-25 18:55:36,797] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[2022-07-25 18:55:37,683] Register - Step 2: Input first name= Alfredo
+[2022-07-25 18:55:37,867] Register - Step 3: Input last name= Bruen
+[2022-07-25 18:55:39,700] ------------TC_03_Register_With_Valid_Data is FAILED ------------
+[2022-07-25 18:55:39,701] Please refer screenshot in Extent Test Report
+[2022-07-25 18:55:40,529] ------------TC_03_Register_With_Valid_Data is FAILED ------------
+[2022-07-25 18:55:40,535] Please refer screenshot in Extent Test Report
+[2022-07-25 18:55:40,589] OS name = windows 10
+[2022-07-25 18:55:40,589] Driver instance name = firefoxdriver: firefox on windows (46adcb56-0898-4e8e-a1e2-1aa2a2222452)
+[2022-07-25 18:55:42,208] -------FINISHED TEST Run on Firefox------
+[utilities.ExtentTestListener.onStart(ExtentTestListener.java:18)evel][2022-07-25 19:10:18,674] -------STARTED TEST Run on Firefox------
+[utilities.ExtentTestListener.onTestStart(ExtentTestListener.java:30)evel][2022-07-25 19:10:30,927] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[com.nopcommerce.user.Register.TC_03_Register_With_Valid_Data(Register.java:38)evel][2022-07-25 19:10:32,686] Register - Step 2: Input first name= Ena
+[com.nopcommerce.user.Register.TC_03_Register_With_Valid_Data(Register.java:41)evel][2022-07-25 19:10:32,878] Register - Step 3: Input last name= Wisoky
+[utilities.ExtentTestListener.onTestFailure(ExtentTestListener.java:40)evel][2022-07-25 19:10:34,427] ------------TC_03_Register_With_Valid_Data is FAILED ------------
+[utilities.ExtentTestListener.onTestFailure(ExtentTestListener.java:41)evel][2022-07-25 19:10:34,427] Please refer screenshot in Extent Test Report
+[utilities.ExtentTestListener.onTestFailure(ExtentTestListener.java:40)evel][2022-07-25 19:10:35,611] ------------TC_03_Register_With_Valid_Data is FAILED ------------
+[utilities.ExtentTestListener.onTestFailure(ExtentTestListener.java:41)evel][2022-07-25 19:10:35,612] Please refer screenshot in Extent Test Report
+[commons.BaseTest.closeBrowserAndDriver(BaseTest.java:132)evel][2022-07-25 19:10:35,685] OS name = windows 10
+[commons.BaseTest.closeBrowserAndDriver(BaseTest.java:135)evel][2022-07-25 19:10:35,685] Driver instance name = firefoxdriver: firefox on windows (92476765-4bd4-4ff8-a161-156f09d4d1ba)
+[utilities.ExtentTestListener.onFinish(ExtentTestListener.java:24)evel][2022-07-25 19:10:37,001] -------FINISHED TEST Run on Firefox------
+[INFO][2022-07-25 19:15:57,445] -------STARTED TEST Run on Firefox------
+[INFO][2022-07-25 19:16:08,394] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[INFO][2022-07-25 19:16:09,465] Register - Step 2: Input first name= Dung
+[INFO][2022-07-25 19:16:09,627] Register - Step 3: Input last name= O'Conner
+[INFO][2022-07-25 19:16:11,871] ------------TC_03_Register_With_Valid_Data is FAILED ------------
+[INFO][2022-07-25 19:16:11,872] Please refer screenshot in Extent Test Report
+[INFO][2022-07-25 19:16:12,775] ------------TC_03_Register_With_Valid_Data is FAILED ------------
+[INFO][2022-07-25 19:16:12,776] Please refer screenshot in Extent Test Report
+[INFO][2022-07-25 19:16:12,849] OS name = windows 10
+[INFO][2022-07-25 19:16:12,849] Driver instance name = firefoxdriver: firefox on windows (05759869-1100-402e-9f1b-4cc6019be36f)
+[INFO][2022-07-25 19:16:13,973] -------FINISHED TEST Run on Firefox------
+[INFO][2022-07-25 19:19:30,103] -------STARTED TEST Run on Firefox------
+[INFO][2022-07-25 19:19:41,430] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[INFO][2022-07-25 19:19:42,389] Register - Step 2: Input first name= Rolland
+[INFO][2022-07-25 19:19:42,590] Register - Step 3: Input last name= Wisoky
+[ERROR][2022-07-25 19:19:44,456] ------------TC_03_Register_With_Valid_Data is FAILED ------------
+[INFO][2022-07-25 19:19:44,456] Please refer screenshot in Extent Test Report
+[ERROR][2022-07-25 19:19:45,346] ------------TC_03_Register_With_Valid_Data is FAILED ------------
+[INFO][2022-07-25 19:19:45,346] Please refer screenshot in Extent Test Report
+[INFO][2022-07-25 19:19:45,413] OS name = windows 10
+[INFO][2022-07-25 19:19:45,414] Driver instance name = firefoxdriver: firefox on windows (a0ee0479-c049-443a-9266-eee8a8511812)
+[INFO][2022-07-25 19:19:46,714] -------FINISHED TEST Run on Firefox------
+[INFO][2022-07-25 19:24:15,310] -------STARTED TEST Run on Firefox------
+[INFO][2022-07-25 19:24:28,827] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[INFO][2022-07-25 19:24:29,795] Register - Step 2: Input first name= Angel
+[INFO][2022-07-25 19:24:30,000] Register - Step 3: Input last name= Rau
+[ERROR][2022-07-25 19:24:31,789] ------------TC_03_Register_With_Valid_Data is FAILED ------------
+[INFO][2022-07-25 19:24:31,790] Please refer screenshot in Extent Test Report
+[ERROR][2022-07-25 19:24:32,689] ------------TC_03_Register_With_Valid_Data is FAILED ------------
+[INFO][2022-07-25 19:24:32,690] Please refer screenshot in Extent Test Report
+[INFO][2022-07-25 19:24:32,734] OS name = windows 10
+[INFO][2022-07-25 19:24:32,734] Driver instance name = firefoxdriver: firefox on windows (984119f8-d4d8-43de-a864-f95b9b993cfb)
+[INFO][2022-07-25 19:24:34,073] -------FINISHED TEST Run on Firefox------
+[INFO][2022-07-25 19:25:11,918] -------STARTED TEST Run on Firefox------
+[INFO][2022-07-25 19:25:25,440] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[INFO][2022-07-25 19:25:26,443] Register - Step 2: Input first name= Nick
+[INFO][2022-07-25 19:25:26,667] Register - Step 3: Input last name= Wiza
+[ERROR][2022-07-25 19:25:28,593] ------------TC_03_Register_With_Valid_Data is FAILED ------------
+[INFO][2022-07-25 19:25:28,593] Please refer screenshot in Extent Test Report
+[ERROR][2022-07-25 19:25:29,574] ------------TC_03_Register_With_Valid_Data is FAILED ------------
+[INFO][2022-07-25 19:25:29,574] Please refer screenshot in Extent Test Report
+[INFO][2022-07-25 19:25:29,627] OS name = windows 10
+[INFO][2022-07-25 19:25:29,628] Driver instance name = firefoxdriver: firefox on windows (95d8dac0-4715-49b1-b668-a79de48b9f1d)
+[INFO][2022-07-25 19:25:30,967] -------FINISHED TEST Run on Firefox------
+[INFO][2022-07-25 21:22:44,364] -------STARTED TEST Run on Firefox------
+[INFO][2022-07-25 21:22:58,212] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[INFO][2022-07-25 21:22:59,079] Register - Step 2: Input first name= Bambi
+[INFO][2022-07-25 21:22:59,228] Register - Step 3: Input last name= Runolfsson
+[ERROR][2022-07-25 21:23:01,053] ------------TC_03_Register_With_Valid_Data is FAILED ------------
+[INFO][2022-07-25 21:23:01,054] Please refer screenshot in Extent Test Report
+[INFO][2022-07-25 21:23:01,057] OS name = windows 10
+[INFO][2022-07-25 21:23:01,057] Driver instance name = firefoxdriver: firefox on windows (6d3ef11a-12fa-4516-96f3-e5d2a956375f)
+[INFO][2022-07-25 21:23:02,948] -------FINISHED TEST Run on Firefox------
+[INFO][2022-07-25 21:34:36,268] -------STARTED TEST Run on Firefox------
+[INFO][2022-07-25 21:34:47,867] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[INFO][2022-07-25 21:34:48,876] Register - Step 2: Input first name= Loralee
+[INFO][2022-07-25 21:34:49,066] Register - Step 3: Input last name= Casper
+[ERROR][2022-07-25 21:34:50,661] ------------TC_03_Register_With_Valid_Data is FAILED ------------
+[INFO][2022-07-25 21:34:50,662] Please refer screenshot in Extent Test Report
+[INFO][2022-07-25 21:34:51,395] OS name = windows 10
+[INFO][2022-07-25 21:34:51,396] Driver instance name = firefoxdriver: firefox on windows (53fffa0f-8675-4e81-a228-bbdf036c85cf)
+[INFO][2022-07-25 21:34:53,165] -------FINISHED TEST Run on Firefox------
+[INFO][2022-07-25 21:44:13,632] -------STARTED TEST Run on Firefox------
+[INFO][2022-07-25 21:44:27,414] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[INFO][2022-07-25 21:44:30,474] Register - Step 2: Input first name= Love
+[INFO][2022-07-25 21:44:30,672] Register - Step 3: Input last name= Trantow
+[ERROR][2022-07-25 21:44:32,960] ------------TC_03_Register_With_Valid_Data is FAILED ------------
+[INFO][2022-07-25 21:44:32,961] Please refer screenshot in Extent Test Report
+[INFO][2022-07-25 21:44:32,963] OS name = windows 10
+[INFO][2022-07-25 21:44:32,964] Driver instance name = firefoxdriver: firefox on windows (e90c34a6-7725-46dc-b883-4c64b36a76ff)
+[INFO][2022-07-25 21:44:34,423] -------FINISHED TEST Run on Firefox------
+[INFO][2022-07-25 21:48:34,569] -------STARTED TEST Run on Firefox------
+[INFO][2022-07-25 21:48:47,750] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[INFO][2022-07-25 21:48:49,716] Register - Step 2: Input first name= Dyan
+[INFO][2022-07-25 21:48:49,848] Register - Step 3: Input last name= Heaney
+[ERROR][2022-07-25 21:48:51,378] ------------TC_03_Register_With_Valid_Data is FAILED ------------
+[INFO][2022-07-25 21:48:51,378] Please refer screenshot in Extent Test Report
+[INFO][2022-07-25 21:48:51,695] OS name = windows 10
+[INFO][2022-07-25 21:48:51,695] Driver instance name = firefoxdriver: firefox on windows (4fdf8c30-bd6c-4b72-804e-b3192305625e)
+[INFO][2022-07-25 21:48:53,257] -------FINISHED TEST Run on Firefox------
+[INFO][2022-07-25 22:06:51,657] -------STARTED TEST Run on Firefox------
+[INFO][2022-07-25 22:07:04,187] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[INFO][2022-07-25 22:07:06,001] Register - Step 2: Input first name= Nolan
+[INFO][2022-07-25 22:07:06,151] Register - Step 3: Input last name= Huel
+[ERROR][2022-07-25 22:07:08,105] ------------TC_03_Register_With_Valid_Data is FAILED ------------
+[INFO][2022-07-25 22:07:08,106] Please refer screenshot in Extent Test Report
+[INFO][2022-07-25 22:07:08,221] OS name = windows 10
+[INFO][2022-07-25 22:07:08,222] Driver instance name = firefoxdriver: firefox on windows (d8ed6264-399c-4430-81d8-e10a2c8aa911)
+[INFO][2022-07-25 22:07:09,656] -------FINISHED TEST Run on Firefox------
+[INFO][2022-07-25 22:11:39,127] -------STARTED TEST Run on Firefox------
+[INFO][2022-07-25 22:11:52,477] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[ERROR][2022-07-25 22:11:56,472] ------------TC_03_Register_With_Valid_Data is FAILED ------------
+[INFO][2022-07-25 22:11:56,473] Please refer screenshot in Extent Test Report
+[INFO][2022-07-25 22:11:56,570] OS name = windows 10
+[INFO][2022-07-25 22:11:56,571] Driver instance name = firefoxdriver: firefox on windows (1cda3ca9-d7d9-4591-8cdd-438b6094a3d5)
+[INFO][2022-07-25 22:11:57,844] -------FINISHED TEST Run on Firefox------
+[INFO][2022-07-25 22:16:23,161] -------STARTED TEST Run on Firefox------
+[INFO][2022-07-25 22:16:36,334] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[ERROR][2022-07-25 22:16:40,992] ------------TC_03_Register_With_Valid_Data is FAILED ------------
+[INFO][2022-07-25 22:16:40,993] Please refer screenshot in Extent Test Report
+[INFO][2022-07-25 22:16:41,089] ------------TC_04_pass is STARTED ------------
+[INFO][2022-07-25 22:16:41,097] ------------TC_04_pass is PASSED ------------
+[INFO][2022-07-25 22:16:41,102] OS name = windows 10
+[INFO][2022-07-25 22:16:41,103] Driver instance name = firefoxdriver: firefox on windows (f2517797-dbb0-4ed6-b4ef-65b24523e5ef)
+[INFO][2022-07-25 22:16:42,470] -------FINISHED TEST Run on Firefox------
+[INFO][2022-07-25 22:20:01,646] -------STARTED TEST Run on Firefox------
+[INFO][2022-07-25 22:20:15,942] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[ERROR][2022-07-25 22:20:19,962] ------------TC_03_Register_With_Valid_Data is FAILED ------------
+[INFO][2022-07-25 22:20:19,962] Please refer screenshot in Extent Test Report
+[INFO][2022-07-25 22:20:20,044] ------------TC_04_pass is STARTED ------------
+[INFO][2022-07-25 22:20:20,050] ------------TC_04_pass is PASSED ------------
+[INFO][2022-07-25 22:20:20,059] OS name = windows 10
+[INFO][2022-07-25 22:20:20,059] Driver instance name = firefoxdriver: firefox on windows (3bc0da3f-c326-4188-98f8-70789bdd868e)
+[INFO][2022-07-25 22:20:21,584] -------FINISHED TEST Run on Firefox------

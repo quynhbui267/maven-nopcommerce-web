@@ -1,0 +1,9 @@
+[2022-07-25 17:37:41,970] -------STARTED TEST------
+[2022-07-25 17:37:53,871] ------------TC_03_Register_With_Valid_Data STARTED test ------------
+[2022-07-25 17:37:54,800] Register - Step 2: Input first name= Alfred
+[2022-07-25 17:37:54,944] Register - Step 3: Input last name= Friesen
+[2022-07-25 17:37:56,459] ------------TC_03_Register_With_Valid_Data FAILED test ------------
+[2022-07-25 17:37:56,606] Take screenshot for failed test case and saved in D:\1QUYNH_AUTOTEST\Eclipse-java\workspace\maven-nopcommerce-web/src/test/resources/screenshot/TC_03_Register_With_Valid_Data_25_07_2022_05_37_56.png
+[2022-07-25 17:37:56,925] OS name = windows 10
+[2022-07-25 17:37:56,926] Driver instance name = firefoxdriver: firefox on windows (67f795eb-1fbb-4bcb-81b6-612bc7610544)
+[2022-07-25 17:37:58,350] -------FINISHED TEST------

@@ -1,0 +1,13 @@
+1658762406169	geckodriver	INFO	Listening on 127.0.0.1:29653
+1658762407764	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Quynh\\AppData\\Local\\Temp\\rust_mozprofile5eH9V9"
+1658762408541	Marionette	INFO	Marionette enabled
+1658762408551	Marionette	INFO	Listening on port 58273
+Read port: 58273
+1658762408892	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Quynh\\AppData\\Local\\Temp\\rust_mozprofile5eH9V9\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.nopcommerce.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.nopcommerce.com"J
+avaScript error: resource:c/o/ngsroel/em.owdaurlens/LoginManag:erP aLroegnitn.Rjescmi,p elsi:n e"g e1t3R6e: cTiyppees: fallinEgr rboar:c gRecipeManager is nulkl t
+oJ aav asSycnrcihprto neorurso rm:e srsage for:"e "https://demo.nospcommerce.ocom"
+urce://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1658762420090	Marionette	INFO	Stopped listening on port 58273

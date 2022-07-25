@@ -1,0 +1,9 @@
+[INFO][2022-07-25 22:20:01,646] -------STARTED TEST Run on Firefox------
+[INFO][2022-07-25 22:20:15,942] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[ERROR][2022-07-25 22:20:19,962] ------------TC_03_Register_With_Valid_Data is FAILED ------------
+[INFO][2022-07-25 22:20:19,962] Please refer screenshot in Extent Test Report
+[INFO][2022-07-25 22:20:20,044] ------------TC_04_pass is STARTED ------------
+[INFO][2022-07-25 22:20:20,050] ------------TC_04_pass is PASSED ------------
+[INFO][2022-07-25 22:20:20,059] OS name = windows 10
+[INFO][2022-07-25 22:20:20,059] Driver instance name = firefoxdriver: firefox on windows (3bc0da3f-c326-4188-98f8-70789bdd868e)
+[INFO][2022-07-25 22:20:21,584] -------FINISHED TEST Run on Firefox------
