@@ -9,6 +9,8 @@ import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.testng.Assert;
+import org.testng.Reporter;
 import org.testng.annotations.BeforeSuite;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
@@ -50,52 +52,6 @@ public class BaseTest {
 	public WebDriver getDriverInstance() {
 		return this.driver;
 	}
-
-	// // Custom Hart Assert
-	// public boolean verifyEquals(String actual, String expected) {
-	// boolean status = true;
-	// try {
-	// Assert.assertEquals(actual, expected);
-	// log.info("-----------PASSED----------");
-	// // Throwable thì chạy xong hết mới dừng, còn Exception thì sẽ dừng luôn
-	// } catch (Throwable e) {
-	// log.info("-----------FAILED----------");
-	// status = false;
-	// VerificationFailures.getFailures().addFailureForTest(Reporter.getCurrentTestResult(),
-	// e);
-	// Reporter.getCurrentTestResult().setThrowable(e);
-	// }
-	// return status;
-	// }
-
-	// public boolean verifyTrue(boolean condition) {
-	// boolean status = true;
-	// try {
-	// Assert.assertTrue(condition);
-	// log.info("-----------PASSED----------");
-	// } catch (Throwable e) {
-	// log.info("-----------FAILED----------");
-	// status = false;
-	// VerificationFailures.getFailures().addFailureForTest(Reporter.getCurrentTestResult(),
-	// e);
-	// Reporter.getCurrentTestResult().setThrowable(e);
-	// }
-	// return status;
-	// }
-	//
-	// public boolean verifyFalse(boolean condition) {
-	// boolean status = true;
-	// try {
-	// Assert.assertFalse(condition);
-	// log.info("-----------PASSED----------");
-	// } catch (Throwable e) {
-	// status = false;
-	// VerificationFailures.getFailures().addFailureForTest(Reporter.getCurrentTestResult(),
-	// e);
-	// Reporter.getCurrentTestResult().setThrowable(e);
-	// }
-	// return status;
-	// }
 
 	public static int getRandomNumber(int maxValue) {
 		Random rd = new Random();

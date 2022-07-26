@@ -34,4 +34,8 @@ public class HomePageObject extends BasePage {
 		clickToElement(UserHomePageUI.REGISTER_LINK);
 		return PageGeneratorManager.getRegisterPage(driver);
 	}
+	public void clickLogoutLink() {
+		waitForElementClickable(UserHomePageUI.LOGOUT_LINK);
+		clickToElement(UserHomePageUI.LOGOUT_LINK);
+	}
 }

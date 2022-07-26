@@ -3,6 +3,7 @@ package pageObjects;
 import org.openqa.selenium.WebDriver;
 import commons.BasePage;
 import pageUIs.RegisterPageUI;
+import pageUIs.UserHomePageUI;
 
 public class RegisterPageObject extends BasePage {
 	WebDriver driver;
@@ -11,30 +12,10 @@ public class RegisterPageObject extends BasePage {
 		super(driver);
 		this.driver = driver;
 	}
-
-	public void inputFirstNameTextbox(String firstName) {
-		waitForElementVisible(RegisterPageUI.FIRSTNAME_TXTBOX);
-		sendKeyToElement(RegisterPageUI.FIRSTNAME_TXTBOX, firstName);
-	}
-
-	public void inputLastNameTextbox(String lastName) {
-		waitForElementVisible(RegisterPageUI.LASTNAME_TXTBOX);
-		sendKeyToElement(RegisterPageUI.LASTNAME_TXTBOX, lastName);
-	}
-
-	public void inputEmailTextbox(String email) {
-		waitForElementVisible(RegisterPageUI.EMAIL_TXTBOX);
-		sendKeyToElement(RegisterPageUI.EMAIL_TXTBOX, email);
-	}
-
-	public void inputPasswordTextbox(String password) {
-		waitForElementVisible( RegisterPageUI.PASSWORD_TXTBOX);
-		sendKeyToElement(RegisterPageUI.PASSWORD_TXTBOX, password);
-	}
-
-	public void inputConfirmPasswordTextbox(String password) {
-		waitForElementVisible(RegisterPageUI.CPASSWORD_TXTBOX);
-		sendKeyToElement(RegisterPageUI.CPASSWORD_TXTBOX, password);
+	
+	public void inputRegisterField(String inputValue, String fieldName) {
+		waitForElementVisible(RegisterPageUI.REGISTER_FIELD_TXTBOX, fieldName );
+		sendKeyToElement(RegisterPageUI.REGISTER_FIELD_TXTBOX, inputValue, fieldName );
 	}
 
 	public void clickToRegisterButton() {
@@ -47,4 +28,18 @@ public class RegisterPageObject extends BasePage {
 		return getElementText(RegisterPageUI.REGISTER_SUCCESS_MSG);
 	}
 
+	public String getErrorMessageByFieldName(String fieldName) {
+		waitForElementVisible(RegisterPageUI.ERROR_MSG_BY_FIELDNAME, fieldName );
+		return getElementText(RegisterPageUI.ERROR_MSG_BY_FIELDNAME, fieldName);
+			}
+
+	public HomePageObject clickLogoutLink() {
+		waitForElementClickable(getRegisterSuccessfulMsgText());
+		return null;
+	}
+
+	public String getEmailErrorMessage() {
+		waitForAllElementVisible(RegisterPageUI.EMAIL_ERROR_MSG);
+		return getElementText(RegisterPageUI.EMAIL_ERROR_MSG);
+	}
 }

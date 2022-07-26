@@ -134,3 +134,226 @@
 [INFO][2022-07-25 22:20:20,059] OS name = windows 10
 [INFO][2022-07-25 22:20:20,059] Driver instance name = firefoxdriver: firefox on windows (3bc0da3f-c326-4188-98f8-70789bdd868e)
 [INFO][2022-07-25 22:20:21,584] -------FINISHED TEST Run on Firefox------
+[INFO][2022-07-25 22:29:43,187] -------STARTED TEST Run on Firefox------
+[INFO][2022-07-25 22:29:58,867] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[ERROR][2022-07-25 22:30:02,793] ------------TC_03_Register_With_Valid_Data is FAILED ------------
+[INFO][2022-07-25 22:30:02,793] Please refer screenshot in Extent Test Report
+[INFO][2022-07-25 22:30:02,892] OS name = windows 10
+[INFO][2022-07-25 22:30:02,892] Driver instance name = firefoxdriver: firefox on windows (2fc45a58-007f-47aa-abd8-d8e31798ed1a)
+[INFO][2022-07-25 22:30:04,199] -------FINISHED TEST Run on Firefox------
+[INFO][2022-07-25 22:33:48,445] -------STARTED TEST Run on Firefox------
+[INFO][2022-07-25 22:33:57,498] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[ERROR][2022-07-25 22:34:00,562] ------------TC_03_Register_With_Valid_Data is FAILED ------------
+[INFO][2022-07-25 22:34:00,563] Please refer screenshot in Extent Test Report
+[INFO][2022-07-25 22:34:00,636] OS name = windows 10
+[INFO][2022-07-25 22:34:00,636] Driver instance name = firefoxdriver: firefox on windows (62dfe8ea-bdd3-4d79-af02-b2e04738afc5)
+[INFO][2022-07-25 22:34:01,821] -------FINISHED TEST Run on Firefox------
+[INFO][2022-07-26 10:56:18,557] -------STARTED TEST Run on Firefox------
+[INFO][2022-07-26 10:56:28,923] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[ERROR][2022-07-26 10:56:31,781] ------------TC_03_Register_With_Valid_Data is FAILED ------------
+[INFO][2022-07-26 10:56:31,782] Please refer screenshot in Extent Test Report
+[INFO][2022-07-26 10:56:31,865] OS name = windows 10
+[INFO][2022-07-26 10:56:31,866] Driver instance name = firefoxdriver: firefox on windows (7e350a1c-e891-480a-892c-dfcbc146dfaf)
+[INFO][2022-07-26 10:56:33,148] -------FINISHED TEST Run on Firefox------
+[INFO][2022-07-26 10:59:02,499] -------STARTED TEST Run on Firefox------
+[INFO][2022-07-26 10:59:12,405] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[ERROR][2022-07-26 10:59:15,354] ------------TC_03_Register_With_Valid_Data is FAILED ------------
+[INFO][2022-07-26 10:59:15,355] Please refer screenshot in Extent Test Report
+[INFO][2022-07-26 10:59:15,441] OS name = windows 10
+[INFO][2022-07-26 10:59:15,441] Driver instance name = firefoxdriver: firefox on windows (55723fca-c77c-4cea-a682-8ce088b4eb2d)
+[INFO][2022-07-26 10:59:16,962] -------FINISHED TEST Run on Firefox------
+[INFO][2022-07-26 11:01:12,996] -------STARTED TEST Run on Firefox------
+[INFO][2022-07-26 11:01:23,435] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[ERROR][2022-07-26 11:01:23,852] ------------TC_03_Register_With_Valid_Data is FAILED ------------
+[INFO][2022-07-26 11:01:23,852] Please refer screenshot in Extent Test Report
+[ERROR][2022-07-26 11:01:24,010] ------------TC_03_Register_With_Valid_Data is FAILED ------------
+[INFO][2022-07-26 11:01:24,012] Please refer screenshot in Extent Test Report
+[INFO][2022-07-26 11:01:24,161] OS name = windows 10
+[INFO][2022-07-26 11:01:24,161] Driver instance name = firefoxdriver: firefox on windows (a5fec607-7570-49e5-b83d-243a868a2648)
+[INFO][2022-07-26 11:01:25,413] -------FINISHED TEST Run on Firefox------
+[INFO][2022-07-26 11:02:30,893] -------STARTED TEST Run on Firefox------
+[INFO][2022-07-26 11:02:41,081] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[ERROR][2022-07-26 11:02:43,833] ------------TC_03_Register_With_Valid_Data is FAILED ------------
+[INFO][2022-07-26 11:02:43,834] Please refer screenshot in Extent Test Report
+[INFO][2022-07-26 11:02:43,919] OS name = windows 10
+[INFO][2022-07-26 11:02:43,919] Driver instance name = firefoxdriver: firefox on windows (c4a58333-fb04-428d-a67d-2adc99f8bb0b)
+[INFO][2022-07-26 11:02:45,177] -------FINISHED TEST Run on Firefox------
+[INFO][2022-07-26 11:04:44,797] -------STARTED TEST Run on Firefox------
+[INFO][2022-07-26 11:04:54,595] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[ERROR][2022-07-26 11:04:57,395] ------------TC_03_Register_With_Valid_Data is FAILED ------------
+[INFO][2022-07-26 11:04:57,396] Please refer screenshot in Extent Test Report
+[INFO][2022-07-26 11:04:57,485] OS name = windows 10
+[INFO][2022-07-26 11:04:57,485] Driver instance name = firefoxdriver: firefox on windows (a745486e-941e-471e-9602-3f7523993bde)
+[INFO][2022-07-26 11:04:58,722] -------FINISHED TEST Run on Firefox------
+[INFO][2022-07-26 14:45:52,379] -------STARTED TEST Run on Firefox------
+[INFO][2022-07-26 14:46:03,377] ------------TC_01_Register_With_Empty_Required_Data is STARTED ------------
+[ERROR][2022-07-26 14:46:05,056] ------------TC_01_Register_With_Empty_Required_Data is FAILED ------------
+[INFO][2022-07-26 14:46:05,057] Please refer screenshot in Extent Test Report
+[INFO][2022-07-26 14:46:05,139] ------------TC_02_Register_With_Invalid_Email is STARTED ------------
+[ERROR][2022-07-26 14:46:35,719] ------------TC_02_Register_With_Invalid_Email is FAILED ------------
+[INFO][2022-07-26 14:46:35,720] Please refer screenshot in Extent Test Report
+[INFO][2022-07-26 14:46:35,769] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[ERROR][2022-07-26 14:47:06,597] ------------TC_03_Register_With_Valid_Data is FAILED ------------
+[INFO][2022-07-26 14:47:06,597] Please refer screenshot in Extent Test Report
+[INFO][2022-07-26 14:47:06,648] ------------TC_04_Register_With_Existing_Email is STARTED ------------
+[ERROR][2022-07-26 14:47:38,282] ------------TC_04_Register_With_Existing_Email is FAILED ------------
+[INFO][2022-07-26 14:47:38,283] Please refer screenshot in Extent Test Report
+[INFO][2022-07-26 14:47:38,325] ------------TC_05_Register_With_Invalid_Confirm_Password is STARTED ------------
+[ERROR][2022-07-26 14:48:09,104] ------------TC_05_Register_With_Invalid_Confirm_Password is FAILED ------------
+[INFO][2022-07-26 14:48:09,104] Please refer screenshot in Extent Test Report
+[INFO][2022-07-26 14:48:09,146] ------------TC_05_Register_With_Invalid_Password is STARTED ------------
+[ERROR][2022-07-26 14:48:40,034] ------------TC_05_Register_With_Invalid_Password is FAILED ------------
+[INFO][2022-07-26 14:48:40,034] Please refer screenshot in Extent Test Report
+[INFO][2022-07-26 14:48:40,085] OS name = windows 10
+[INFO][2022-07-26 14:48:40,085] Driver instance name = firefoxdriver: firefox on windows (311223b6-4c93-4fb1-8be6-0dbfa7eb1e28)
+[INFO][2022-07-26 14:48:41,387] -------FINISHED TEST Run on Firefox------
+[INFO][2022-07-26 14:52:26,578] -------STARTED TEST Run on Firefox------
+[INFO][2022-07-26 14:52:35,760] ------------TC_01_Register_With_Empty_Required_Data is STARTED ------------
+[ERROR][2022-07-26 14:53:07,830] ------------TC_01_Register_With_Empty_Required_Data is FAILED ------------
+[INFO][2022-07-26 14:53:07,831] Please refer screenshot in Extent Test Report
+[INFO][2022-07-26 14:53:07,894] ------------TC_02_Register_With_Invalid_Email is STARTED ------------
+[ERROR][2022-07-26 14:54:08,530] ------------TC_02_Register_With_Invalid_Email is FAILED ------------
+[INFO][2022-07-26 14:54:08,530] Please refer screenshot in Extent Test Report
+[INFO][2022-07-26 14:54:08,590] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[ERROR][2022-07-26 14:55:09,194] ------------TC_03_Register_With_Valid_Data is FAILED ------------
+[INFO][2022-07-26 14:55:09,195] Please refer screenshot in Extent Test Report
+[INFO][2022-07-26 14:55:09,256] ------------TC_04_Register_With_Existing_Email is STARTED ------------
+[INFO][2022-07-26 14:55:29,730] -------STARTED TEST Run on Firefox------
+[INFO][2022-07-26 14:55:39,453] ------------TC_01_Register_With_Empty_Required_Data is STARTED ------------
+[ERROR][2022-07-26 14:55:41,160] ------------TC_01_Register_With_Empty_Required_Data is FAILED ------------
+[INFO][2022-07-26 14:55:41,160] Please refer screenshot in Extent Test Report
+[INFO][2022-07-26 14:55:41,224] ------------TC_02_Register_With_Invalid_Email is STARTED ------------
+[ERROR][2022-07-26 14:56:11,838] ------------TC_02_Register_With_Invalid_Email is FAILED ------------
+[INFO][2022-07-26 14:56:11,838] Please refer screenshot in Extent Test Report
+[INFO][2022-07-26 14:56:11,906] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[ERROR][2022-07-26 14:56:42,581] ------------TC_03_Register_With_Valid_Data is FAILED ------------
+[INFO][2022-07-26 14:56:42,581] Please refer screenshot in Extent Test Report
+[INFO][2022-07-26 14:56:42,643] ------------TC_04_Register_With_Existing_Email is STARTED ------------
+[ERROR][2022-07-26 14:57:14,197] ------------TC_04_Register_With_Existing_Email is FAILED ------------
+[INFO][2022-07-26 14:57:14,198] Please refer screenshot in Extent Test Report
+[INFO][2022-07-26 14:57:14,259] ------------TC_05_Register_With_Invalid_Confirm_Password is STARTED ------------
+[ERROR][2022-07-26 14:57:44,824] ------------TC_05_Register_With_Invalid_Confirm_Password is FAILED ------------
+[INFO][2022-07-26 14:57:44,825] Please refer screenshot in Extent Test Report
+[INFO][2022-07-26 14:57:44,887] ------------TC_05_Register_With_Invalid_Password is STARTED ------------
+[ERROR][2022-07-26 14:58:15,423] ------------TC_05_Register_With_Invalid_Password is FAILED ------------
+[INFO][2022-07-26 14:58:15,423] Please refer screenshot in Extent Test Report
+[INFO][2022-07-26 14:58:15,479] OS name = windows 10
+[INFO][2022-07-26 14:58:15,479] Driver instance name = firefoxdriver: firefox on windows (8f186e57-572e-4fa4-b36e-6788a5703291)
+[INFO][2022-07-26 14:58:16,449] -------FINISHED TEST Run on Firefox------
+[INFO][2022-07-26 14:58:54,059] -------STARTED TEST Run on Firefox------
+[INFO][2022-07-26 14:59:02,178] ------------TC_01_Register_With_Empty_Required_Data is STARTED ------------
+[ERROR][2022-07-26 14:59:03,926] ------------TC_01_Register_With_Empty_Required_Data is FAILED ------------
+[INFO][2022-07-26 14:59:03,926] Please refer screenshot in Extent Test Report
+[INFO][2022-07-26 14:59:03,987] ------------TC_02_Register_With_Invalid_Email is STARTED ------------
+[ERROR][2022-07-26 14:59:35,771] ------------TC_02_Register_With_Invalid_Email is FAILED ------------
+[INFO][2022-07-26 14:59:35,772] Please refer screenshot in Extent Test Report
+[INFO][2022-07-26 14:59:35,832] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[INFO][2022-07-26 14:59:38,008] ------------TC_03_Register_With_Valid_Data is PASSED ------------
+[INFO][2022-07-26 14:59:38,011] ------------TC_04_Register_With_Existing_Email is STARTED ------------
+[ERROR][2022-07-26 15:00:08,055] ------------TC_04_Register_With_Existing_Email is FAILED ------------
+[INFO][2022-07-26 15:00:08,055] Please refer screenshot in Extent Test Report
+[INFO][2022-07-26 15:00:08,109] ------------TC_05_Register_With_Invalid_Confirm_Password is STARTED ------------
+[INFO][2022-07-26 15:00:32,059] ------------TC_05_Register_With_Invalid_Confirm_Password is PASSED ------------
+[INFO][2022-07-26 15:00:32,061] ------------TC_05_Register_With_Invalid_Password is STARTED ------------
+[ERROR][2022-07-26 15:00:33,693] ------------TC_05_Register_With_Invalid_Password is FAILED ------------
+[INFO][2022-07-26 15:00:33,693] Please refer screenshot in Extent Test Report
+[INFO][2022-07-26 15:00:33,746] OS name = windows 10
+[INFO][2022-07-26 15:00:33,746] Driver instance name = firefoxdriver: firefox on windows (ff695389-905e-4315-b1d3-1467e618cd0a)
+[INFO][2022-07-26 15:00:34,990] -------FINISHED TEST Run on Firefox------
+[INFO][2022-07-26 15:09:35,236] -------STARTED TEST Run on Firefox------
+[INFO][2022-07-26 15:09:44,771] ------------TC_01_Register_With_Empty_Required_Data is STARTED ------------
+[INFO][2022-07-26 15:09:46,718] ------------TC_01_Register_With_Empty_Required_Data is PASSED ------------
+[INFO][2022-07-26 15:09:46,725] ------------TC_02_Register_With_Invalid_Email is STARTED ------------
+[ERROR][2022-07-26 15:09:48,496] ------------TC_02_Register_With_Invalid_Email is FAILED ------------
+[INFO][2022-07-26 15:09:48,496] Please refer screenshot in Extent Test Report
+[INFO][2022-07-26 15:09:48,559] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[INFO][2022-07-26 15:09:50,800] ------------TC_03_Register_With_Valid_Data is PASSED ------------
+[INFO][2022-07-26 15:09:50,803] ------------TC_04_Register_With_Existing_Email is STARTED ------------
+[INFO][2022-07-26 15:09:53,414] ------------TC_04_Register_With_Existing_Email is PASSED ------------
+[INFO][2022-07-26 15:09:53,416] ------------TC_05_Register_With_Invalid_Confirm_Password is STARTED ------------
+[INFO][2022-07-26 15:09:55,378] ------------TC_05_Register_With_Invalid_Confirm_Password is PASSED ------------
+[INFO][2022-07-26 15:09:55,380] ------------TC_05_Register_With_Invalid_Password is STARTED ------------
+[INFO][2022-07-26 15:09:56,914] ------------TC_05_Register_With_Invalid_Password is PASSED ------------
+[INFO][2022-07-26 15:09:56,915] OS name = windows 10
+[INFO][2022-07-26 15:09:56,916] Driver instance name = firefoxdriver: firefox on windows (3abef11d-f982-44f6-a515-07d2d0d4a781)
+[INFO][2022-07-26 15:09:58,195] -------FINISHED TEST Run on Firefox------
+[INFO][2022-07-26 15:14:42,120] -------STARTED TEST Run on Firefox------
+[INFO][2022-07-26 15:14:51,648] ------------TC_01_Register_With_Empty_Required_Data is STARTED ------------
+[INFO][2022-07-26 15:14:53,600] ------------TC_01_Register_With_Empty_Required_Data is PASSED ------------
+[INFO][2022-07-26 15:14:53,603] ------------TC_02_Register_With_Invalid_Email is STARTED ------------
+[INFO][2022-07-26 15:14:55,347] ------------TC_02_Register_With_Invalid_Email is PASSED ------------
+[INFO][2022-07-26 15:14:55,350] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[INFO][2022-07-26 15:14:57,476] ------------TC_03_Register_With_Valid_Data is PASSED ------------
+[INFO][2022-07-26 15:14:57,479] ------------TC_04_Register_With_Existing_Email is STARTED ------------
+[INFO][2022-07-26 15:14:59,965] ------------TC_04_Register_With_Existing_Email is PASSED ------------
+[INFO][2022-07-26 15:14:59,967] ------------TC_05_Register_With_Invalid_Password is STARTED ------------
+[INFO][2022-07-26 15:15:01,521] ------------TC_05_Register_With_Invalid_Password is PASSED ------------
+[INFO][2022-07-26 15:15:01,524] ------------TC_06_Register_With_Invalid_Confirm_Password is STARTED ------------
+[INFO][2022-07-26 15:15:03,532] ------------TC_06_Register_With_Invalid_Confirm_Password is PASSED ------------
+[INFO][2022-07-26 15:15:03,534] OS name = windows 10
+[INFO][2022-07-26 15:15:03,534] Driver instance name = firefoxdriver: firefox on windows (ce640627-0ea1-46ae-a8e2-7815adc79eee)
+[INFO][2022-07-26 15:15:04,879] -------FINISHED TEST Run on Firefox------
+[INFO][2022-07-26 15:26:50,344] -------STARTED TEST Run on Firefox------
+[INFO][2022-07-26 15:26:59,379] ------------TC_01_Register_With_Empty_Required_Data is STARTED ------------
+[INFO][2022-07-26 15:27:01,268] ------------TC_01_Register_With_Empty_Required_Data is PASSED ------------
+[INFO][2022-07-26 15:27:01,270] ------------TC_02_Register_With_Invalid_Email is STARTED ------------
+[INFO][2022-07-26 15:27:03,017] ------------TC_02_Register_With_Invalid_Email is PASSED ------------
+[INFO][2022-07-26 15:27:03,020] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[INFO][2022-07-26 15:27:05,133] ------------TC_03_Register_With_Valid_Data is PASSED ------------
+[INFO][2022-07-26 15:27:05,135] ------------TC_04_Register_With_Existing_Email is STARTED ------------
+[INFO][2022-07-26 15:27:07,802] ------------TC_04_Register_With_Existing_Email is PASSED ------------
+[INFO][2022-07-26 15:27:07,804] ------------TC_05_Register_With_Invalid_Password is STARTED ------------
+[INFO][2022-07-26 15:27:09,271] ------------TC_05_Register_With_Invalid_Password is PASSED ------------
+[INFO][2022-07-26 15:27:09,274] ------------TC_06_Register_With_Invalid_Confirm_Password is STARTED ------------
+[INFO][2022-07-26 15:27:11,216] ------------TC_06_Register_With_Invalid_Confirm_Password is PASSED ------------
+[INFO][2022-07-26 15:27:11,217] OS name = windows 10
+[INFO][2022-07-26 15:27:11,218] Driver instance name = firefoxdriver: firefox on windows (e5f606ef-8150-464f-9ea8-bd5547b75a20)
+[INFO][2022-07-26 15:27:13,955] -------FINISHED TEST Run on Firefox------
+[INFO][2022-07-26 15:28:05,646] -------STARTED TEST Run on Firefox------
+[INFO][2022-07-26 15:28:14,320] ------------TC_01_Register_With_Empty_Required_Data is STARTED ------------
+[INFO][2022-07-26 15:28:16,312] ------------TC_01_Register_With_Empty_Required_Data is PASSED ------------
+[INFO][2022-07-26 15:28:16,315] ------------TC_02_Register_With_Invalid_Email is STARTED ------------
+[INFO][2022-07-26 15:28:18,175] ------------TC_02_Register_With_Invalid_Email is PASSED ------------
+[INFO][2022-07-26 15:28:18,179] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[INFO][2022-07-26 15:28:20,394] ------------TC_03_Register_With_Valid_Data is PASSED ------------
+[INFO][2022-07-26 15:28:20,396] ------------TC_04_Register_With_Existing_Email is STARTED ------------
+[INFO][2022-07-26 15:28:23,182] ------------TC_04_Register_With_Existing_Email is PASSED ------------
+[INFO][2022-07-26 15:28:23,184] ------------TC_05_Register_With_Invalid_Password is STARTED ------------
+[INFO][2022-07-26 15:28:24,630] ------------TC_05_Register_With_Invalid_Password is PASSED ------------
+[INFO][2022-07-26 15:28:24,646] ------------TC_06_Register_With_Invalid_Confirm_Password is STARTED ------------
+[INFO][2022-07-26 15:28:26,578] ------------TC_06_Register_With_Invalid_Confirm_Password is PASSED ------------
+[INFO][2022-07-26 15:28:26,579] OS name = windows 10
+[INFO][2022-07-26 15:28:26,579] Driver instance name = firefoxdriver: firefox on windows (2e466a09-1edc-437e-9d03-f30ddad1f925)
+[INFO][2022-07-26 15:28:27,828] -------FINISHED TEST Run on Firefox------
+[INFO][2022-07-26 15:44:13,231] -------STARTED TEST Run on Firefox------
+[INFO][2022-07-26 15:44:23,368] ------------TC_01_Register_With_Empty_Required_Data is STARTED ------------
+[INFO][2022-07-26 15:44:25,680] ------------TC_01_Register_With_Empty_Required_Data is PASSED ------------
+[INFO][2022-07-26 15:44:25,683] ------------TC_02_Register_With_Invalid_Email is STARTED ------------
+[INFO][2022-07-26 15:44:27,589] ------------TC_02_Register_With_Invalid_Email is PASSED ------------
+[INFO][2022-07-26 15:44:27,592] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[INFO][2022-07-26 15:44:29,922] ------------TC_03_Register_With_Valid_Data is PASSED ------------
+[INFO][2022-07-26 15:44:29,924] ------------TC_04_Register_With_Existing_Email is STARTED ------------
+[INFO][2022-07-26 15:44:32,547] ------------TC_04_Register_With_Existing_Email is PASSED ------------
+[INFO][2022-07-26 15:44:32,549] ------------TC_05_Register_With_Invalid_Password is STARTED ------------
+[INFO][2022-07-26 15:44:34,097] ------------TC_05_Register_With_Invalid_Password is PASSED ------------
+[INFO][2022-07-26 15:44:34,099] ------------TC_06_Register_With_Invalid_Confirm_Password is STARTED ------------
+[INFO][2022-07-26 15:44:36,031] ------------TC_06_Register_With_Invalid_Confirm_Password is PASSED ------------
+[INFO][2022-07-26 15:44:36,032] OS name = windows 10
+[INFO][2022-07-26 15:44:36,032] Driver instance name = firefoxdriver: firefox on windows (ce59e553-edb8-40a8-83a5-af5c8b8a4e38)
+[INFO][2022-07-26 15:44:37,267] -------FINISHED TEST Run on Firefox------
+[INFO][2022-07-26 15:52:56,239] -------STARTED TEST Run on Firefox------
+[INFO][2022-07-26 15:53:08,206] ------------TC_01_Register_With_Empty_Required_Data is STARTED ------------
+[INFO][2022-07-26 15:53:10,838] ------------TC_01_Register_With_Empty_Required_Data is PASSED ------------
+[INFO][2022-07-26 15:53:10,841] ------------TC_02_Register_With_Invalid_Email is STARTED ------------
+[INFO][2022-07-26 15:53:12,852] ------------TC_02_Register_With_Invalid_Email is PASSED ------------
+[INFO][2022-07-26 15:53:12,856] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[INFO][2022-07-26 15:53:15,241] ------------TC_03_Register_With_Valid_Data is PASSED ------------
+[INFO][2022-07-26 15:53:15,245] ------------TC_04_Register_With_Existing_Email is STARTED ------------
+[INFO][2022-07-26 15:53:18,066] ------------TC_04_Register_With_Existing_Email is PASSED ------------
+[INFO][2022-07-26 15:53:18,070] ------------TC_05_Register_With_Invalid_Password is STARTED ------------
+[INFO][2022-07-26 15:53:19,579] ------------TC_05_Register_With_Invalid_Password is PASSED ------------
+[INFO][2022-07-26 15:53:19,581] ------------TC_06_Register_With_Invalid_Confirm_Password is STARTED ------------
+[INFO][2022-07-26 15:53:21,980] ------------TC_06_Register_With_Invalid_Confirm_Password is PASSED ------------
+[INFO][2022-07-26 15:53:21,981] OS name = windows 10
+[INFO][2022-07-26 15:53:21,982] Driver instance name = firefoxdriver: firefox on windows (44b9673d-8c95-4919-989c-d64950f53268)
+[INFO][2022-07-26 15:53:24,211] -------FINISHED TEST Run on Firefox------
