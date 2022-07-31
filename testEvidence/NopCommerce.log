@@ -1224,3 +1224,9 @@ Driver info: driver.version: RemoteWebDriver
 [INFO][2022-07-29 15:46:51,748] ------------TC_01_Search_With_Not_Existing_Data is STARTED ------------
 [INFO][2022-07-29 15:46:51,879] ------------TC_01_Search_With_Not_Existing_Data is FAILED ------------
 [INFO][2022-07-29 15:46:52,036] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-31 15:57:32,927] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-31 15:58:15,078] ------------TC_01_Search_With_Empty_Data is STARTED ------------
+[INFO][2022-07-31 15:58:15,985] ------------TC_01_Search_With_Empty_Data is PASSED ------------
+[INFO][2022-07-31 15:58:15,990] ------------TC_01_Search_With_Not_Existing_Data is STARTED ------------
+[INFO][2022-07-31 15:58:16,813] ------------TC_01_Search_With_Not_Existing_Data is PASSED ------------
+[INFO][2022-07-31 15:58:16,867] -------FINISHED TEST Run on Chrome------
