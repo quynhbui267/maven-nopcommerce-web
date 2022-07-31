@@ -11,7 +11,6 @@
 		
 			<class name="com.nopcommerce.precondition.Precondition" />
 			<class name="com.nopcommerce.user.Search" />
-			<class name="com.nopcommerce.user.Login" />
 		</classes>
 	</test> <!-- Test -->
 
