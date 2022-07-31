@@ -5,12 +5,13 @@
 	<listener class-name = 'utilities.AllureTestListener'/>
 
 	</listeners>
-	<test name="Run on Chrome">
+	<test name="Run on Firefox">
 		<parameter name="browser" value="firefox" />
 		<classes>
 		
 			<class name="com.nopcommerce.precondition.Precondition" />
 			<class name="com.nopcommerce.user.Search" />
+			<class name="com.nopcommerce.user.Login" />
 		</classes>
 	</test> <!-- Test -->
 
