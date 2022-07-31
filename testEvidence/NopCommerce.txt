@@ -1,16 +1,6 @@
-[INFO][2022-07-26 15:52:56,239] -------STARTED TEST Run on Firefox------
-[INFO][2022-07-26 15:53:08,206] ------------TC_01_Register_With_Empty_Required_Data is STARTED ------------
-[INFO][2022-07-26 15:53:10,838] ------------TC_01_Register_With_Empty_Required_Data is PASSED ------------
-[INFO][2022-07-26 15:53:10,841] ------------TC_02_Register_With_Invalid_Email is STARTED ------------
-[INFO][2022-07-26 15:53:12,852] ------------TC_02_Register_With_Invalid_Email is PASSED ------------
-[INFO][2022-07-26 15:53:12,856] ------------TC_03_Register_With_Valid_Data is STARTED ------------
-[INFO][2022-07-26 15:53:15,241] ------------TC_03_Register_With_Valid_Data is PASSED ------------
-[INFO][2022-07-26 15:53:15,245] ------------TC_04_Register_With_Existing_Email is STARTED ------------
-[INFO][2022-07-26 15:53:18,066] ------------TC_04_Register_With_Existing_Email is PASSED ------------
-[INFO][2022-07-26 15:53:18,070] ------------TC_05_Register_With_Invalid_Password is STARTED ------------
-[INFO][2022-07-26 15:53:19,579] ------------TC_05_Register_With_Invalid_Password is PASSED ------------
-[INFO][2022-07-26 15:53:19,581] ------------TC_06_Register_With_Invalid_Confirm_Password is STARTED ------------
-[INFO][2022-07-26 15:53:21,980] ------------TC_06_Register_With_Invalid_Confirm_Password is PASSED ------------
-[INFO][2022-07-26 15:53:21,981] OS name = windows 10
-[INFO][2022-07-26 15:53:21,982] Driver instance name = firefoxdriver: firefox on windows (44b9673d-8c95-4919-989c-d64950f53268)
-[INFO][2022-07-26 15:53:24,211] -------FINISHED TEST Run on Firefox------
+[INFO][2022-07-29 15:46:12,780] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-29 15:46:50,570] ------------TC_01_Search_With_Empty_Data is STARTED ------------
+[INFO][2022-07-29 15:46:51,473] ------------TC_01_Search_With_Empty_Data is PASSED ------------
+[INFO][2022-07-29 15:46:51,748] ------------TC_01_Search_With_Not_Existing_Data is STARTED ------------
+[INFO][2022-07-29 15:46:51,879] ------------TC_01_Search_With_Not_Existing_Data is FAILED ------------
+[INFO][2022-07-29 15:46:52,036] -------FINISHED TEST Run on Chrome------

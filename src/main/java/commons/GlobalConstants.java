@@ -33,6 +33,7 @@ public class GlobalConstants {
 		
 		//HTML report folders
 		public static final String EXTENT_REPORTING_PATH = PROJECT_PATH + "/testEvidence/extentReportV5.html";
+		public static final String ALLURE_REPORTING_PATH = PROJECT_PATH + "/testEvidence/allure-results";
 	
 		
 }

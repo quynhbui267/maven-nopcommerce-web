@@ -10,9 +10,7 @@ import org.testng.ITestResult;
 import com.aventstack.extentreports.Status;
 import commons.BaseTest;
 import commons.GlobalConstants;
-
 import static utilities.ExtentTestManager.*;
-
 import java.io.File;
 import java.io.IOException;
 import java.text.SimpleDateFormat;
@@ -52,9 +50,11 @@ public class ExtentTestListener extends BaseTest implements ITestListener {
 		Object testClass = iTestResult.getInstance();
 		WebDriver driver = ((BaseTest) testClass).getDriverInstance();
 		captureScreenshot(driver, iTestResult.getName());
-//	    Take screenshot to Extent report
-//		String base64Screenshot = "data:image/png;base64," + ((TakesScreenshot) driver).getScreenshotAs(OutputType.BASE64);
-//		getTest().log(Status.FAIL, "Test Failed", getTest().addScreenCaptureFromBase64String(base64Screenshot).getModel().getMedia().get(0));
+		// Take screenshot to Extent report
+		// String base64Screenshot = "data:image/png;base64," + ((TakesScreenshot)
+		// driver).getScreenshotAs(OutputType.BASE64);
+		// getTest().log(Status.FAIL, "Test Failed",
+		// getTest().addScreenCaptureFromBase64String(base64Screenshot).getModel().getMedia().get(0));
 
 	}
 

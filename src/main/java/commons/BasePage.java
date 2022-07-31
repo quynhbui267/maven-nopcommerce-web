@@ -285,10 +285,21 @@ public class BasePage {
 			getWebElement(locator).click();
 		}
 	}
-
+	public void checkToCheckboxRadio(String locator, String... dynamicValues) {
+		if (!getWebElement(castRestParameter(locator, dynamicValues)).isSelected()) {
+			getWebElement(locator).click();
+		}
+	}
+	
 	public void unscheckToCheckboxRadio(String locator) {
 		if (getWebElement(locator).isSelected()) {
 			getWebElement(locator).click();
+		}
+	}
+
+	public void unscheckToCheckboxRadio(String locator, String... dynamicValues) {
+		if (getWebElement(castRestParameter(locator, dynamicValues)).isSelected()) {
+			getWebElement(castRestParameter(locator, dynamicValues)).click();
 		}
 	}
 
@@ -338,6 +349,11 @@ public class BasePage {
 	public void hoverMouseToElement(String locator) {
 		Actions action = new Actions(driver);
 		action.moveToElement(getWebElement(locator)).perform();
+	}
+	
+	public void hoverMouseToElement(String locator, String... dynamicValues) {
+		Actions action = new Actions(driver);
+		action.moveToElement(getWebElement(castRestParameter(locator, dynamicValues))).perform();
 	}
 
 	public void doubleClick(String locator) {

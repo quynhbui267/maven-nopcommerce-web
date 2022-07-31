@@ -357,3 +357,870 @@
 [INFO][2022-07-26 15:53:21,981] OS name = windows 10
 [INFO][2022-07-26 15:53:21,982] Driver instance name = firefoxdriver: firefox on windows (44b9673d-8c95-4919-989c-d64950f53268)
 [INFO][2022-07-26 15:53:24,211] -------FINISHED TEST Run on Firefox------
+[INFO][2022-07-26 16:21:07,233] -------STARTED TEST Run on Firefox------
+[INFO][2022-07-26 16:21:16,924] ------------TC_01_Register_With_Empty_Required_Data is STARTED ------------
+[INFO][2022-07-26 16:21:18,852] ------------TC_01_Register_With_Empty_Required_Data is PASSED ------------
+[INFO][2022-07-26 16:21:18,856] ------------TC_02_Register_With_Invalid_Email is STARTED ------------
+[INFO][2022-07-26 16:21:20,629] ------------TC_02_Register_With_Invalid_Email is PASSED ------------
+[INFO][2022-07-26 16:21:20,631] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[INFO][2022-07-26 16:21:22,840] ------------TC_03_Register_With_Valid_Data is PASSED ------------
+[INFO][2022-07-26 16:21:22,844] ------------TC_04_Register_With_Existing_Email is STARTED ------------
+[INFO][2022-07-26 16:21:25,485] ------------TC_04_Register_With_Existing_Email is PASSED ------------
+[INFO][2022-07-26 16:21:25,487] ------------TC_05_Register_With_Invalid_Password is STARTED ------------
+[INFO][2022-07-26 16:21:27,021] ------------TC_05_Register_With_Invalid_Password is PASSED ------------
+[INFO][2022-07-26 16:21:27,024] ------------TC_06_Register_With_Invalid_Confirm_Password is STARTED ------------
+[INFO][2022-07-26 16:21:28,979] ------------TC_06_Register_With_Invalid_Confirm_Password is PASSED ------------
+[INFO][2022-07-26 16:21:28,980] OS name = windows 10
+[INFO][2022-07-26 16:21:28,980] Driver instance name = firefoxdriver: firefox on windows (96615261-84b4-40d8-ae55-5a952db2a1c9)
+[INFO][2022-07-26 16:21:30,509] -------FINISHED TEST Run on Firefox------
+[INFO][2022-07-26 16:21:31,482] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-26 16:21:45,412] ------------TC_01_Register_With_Empty_Required_Data is STARTED ------------
+[INFO][2022-07-26 16:21:46,816] ------------TC_01_Register_With_Empty_Required_Data is PASSED ------------
+[INFO][2022-07-26 16:21:46,818] ------------TC_02_Register_With_Invalid_Email is STARTED ------------
+[INFO][2022-07-26 16:21:49,067] ------------TC_02_Register_With_Invalid_Email is PASSED ------------
+[INFO][2022-07-26 16:21:49,069] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[INFO][2022-07-26 16:21:52,107] ------------TC_03_Register_With_Valid_Data is PASSED ------------
+[INFO][2022-07-26 16:21:52,109] ------------TC_04_Register_With_Existing_Email is STARTED ------------
+[INFO][2022-07-26 16:21:55,969] ------------TC_04_Register_With_Existing_Email is PASSED ------------
+[INFO][2022-07-26 16:21:55,971] ------------TC_05_Register_With_Invalid_Password is STARTED ------------
+[INFO][2022-07-26 16:21:57,826] ------------TC_05_Register_With_Invalid_Password is PASSED ------------
+[INFO][2022-07-26 16:21:57,828] ------------TC_06_Register_With_Invalid_Confirm_Password is STARTED ------------
+[INFO][2022-07-26 16:22:00,150] ------------TC_06_Register_With_Invalid_Confirm_Password is PASSED ------------
+[INFO][2022-07-26 16:22:00,151] OS name = windows 10
+[INFO][2022-07-26 16:22:00,151] Driver instance name = chromedriver: chrome on windows (770d276487b644608d83eb243ef8c805)
+[INFO][2022-07-26 16:22:01,037] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-26 16:26:51,603] -------STARTED TEST Run on Firefox------
+[INFO][2022-07-26 16:27:02,569] ------------TC_01_Register_With_Empty_Required_Data is STARTED ------------
+[INFO][2022-07-26 16:27:04,334] ------------TC_01_Register_With_Empty_Required_Data is PASSED ------------
+[INFO][2022-07-26 16:27:04,337] ------------TC_02_Register_With_Invalid_Email is STARTED ------------
+[INFO][2022-07-26 16:27:06,203] ------------TC_02_Register_With_Invalid_Email is PASSED ------------
+[INFO][2022-07-26 16:27:06,206] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[INFO][2022-07-26 16:27:08,570] ------------TC_03_Register_With_Valid_Data is PASSED ------------
+[INFO][2022-07-26 16:27:08,578] ------------TC_04_Register_With_Existing_Email is STARTED ------------
+[INFO][2022-07-26 16:27:11,632] ------------TC_04_Register_With_Existing_Email is PASSED ------------
+[INFO][2022-07-26 16:27:11,634] ------------TC_05_Register_With_Invalid_Password is STARTED ------------
+[INFO][2022-07-26 16:27:13,117] ------------TC_05_Register_With_Invalid_Password is PASSED ------------
+[INFO][2022-07-26 16:27:13,120] ------------TC_06_Register_With_Invalid_Confirm_Password is STARTED ------------
+[INFO][2022-07-26 16:27:15,732] ------------TC_06_Register_With_Invalid_Confirm_Password is PASSED ------------
+[INFO][2022-07-26 16:27:15,733] OS name = windows 10
+[INFO][2022-07-26 16:27:15,734] Driver instance name = firefoxdriver: firefox on windows (64f0a221-9fb2-49cc-b6c6-6c751331df94)
+[INFO][2022-07-26 16:27:17,486] -------FINISHED TEST Run on Firefox------
+[INFO][2022-07-26 16:27:18,256] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-26 16:27:21,999] ------------TC_01_Register_With_Empty_Required_Data is STARTED ------------
+[INFO][2022-07-26 16:27:23,422] ------------TC_01_Register_With_Empty_Required_Data is PASSED ------------
+[INFO][2022-07-26 16:27:23,424] ------------TC_02_Register_With_Invalid_Email is STARTED ------------
+[INFO][2022-07-26 16:27:25,837] ------------TC_02_Register_With_Invalid_Email is PASSED ------------
+[INFO][2022-07-26 16:27:25,852] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[INFO][2022-07-26 16:27:28,741] ------------TC_03_Register_With_Valid_Data is PASSED ------------
+[INFO][2022-07-26 16:27:28,742] ------------TC_04_Register_With_Existing_Email is STARTED ------------
+[INFO][2022-07-26 16:27:32,773] ------------TC_04_Register_With_Existing_Email is PASSED ------------
+[INFO][2022-07-26 16:27:32,775] ------------TC_05_Register_With_Invalid_Password is STARTED ------------
+[INFO][2022-07-26 16:27:34,786] ------------TC_05_Register_With_Invalid_Password is PASSED ------------
+[INFO][2022-07-26 16:27:34,787] ------------TC_06_Register_With_Invalid_Confirm_Password is STARTED ------------
+[INFO][2022-07-26 16:27:37,273] ------------TC_06_Register_With_Invalid_Confirm_Password is PASSED ------------
+[INFO][2022-07-26 16:27:37,274] OS name = windows 10
+[INFO][2022-07-26 16:27:37,274] Driver instance name = chromedriver: chrome on windows (c2c87fbffc014db63b0ffa202a64bbc5)
+[INFO][2022-07-26 16:27:38,197] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-26 16:40:44,134] -------STARTED TEST Run on Firefox------
+[INFO][2022-07-26 16:40:53,604] ------------TC_01_Register_With_Empty_Required_Data is STARTED ------------
+[INFO][2022-07-26 16:40:55,587] ------------TC_01_Register_With_Empty_Required_Data is PASSED ------------
+[INFO][2022-07-26 16:40:55,592] ------------TC_02_Register_With_Invalid_Email is STARTED ------------
+[INFO][2022-07-26 16:40:57,435] ------------TC_02_Register_With_Invalid_Email is PASSED ------------
+[INFO][2022-07-26 16:40:57,437] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[INFO][2022-07-26 16:40:59,700] ------------TC_03_Register_With_Valid_Data is PASSED ------------
+[INFO][2022-07-26 16:40:59,702] ------------TC_04_Register_With_Existing_Email is STARTED ------------
+[INFO][2022-07-26 16:41:02,477] ------------TC_04_Register_With_Existing_Email is PASSED ------------
+[INFO][2022-07-26 16:41:02,481] ------------TC_05_Register_With_Invalid_Password is STARTED ------------
+[INFO][2022-07-26 16:41:04,071] ------------TC_05_Register_With_Invalid_Password is PASSED ------------
+[INFO][2022-07-26 16:41:04,073] ------------TC_06_Register_With_Invalid_Confirm_Password is STARTED ------------
+[INFO][2022-07-26 16:41:06,041] ------------TC_06_Register_With_Invalid_Confirm_Password is PASSED ------------
+[INFO][2022-07-26 16:41:06,042] OS name = windows 10
+[INFO][2022-07-26 16:41:06,042] Driver instance name = firefoxdriver: firefox on windows (8f39bbef-9b21-4067-8e08-169bfc468cab)
+[INFO][2022-07-26 16:41:07,337] -------FINISHED TEST Run on Firefox------
+[INFO][2022-07-26 16:41:08,059] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-26 16:41:12,506] ------------TC_01_Register_With_Empty_Required_Data is STARTED ------------
+[INFO][2022-07-26 16:41:14,176] ------------TC_01_Register_With_Empty_Required_Data is PASSED ------------
+[INFO][2022-07-26 16:41:14,178] ------------TC_02_Register_With_Invalid_Email is STARTED ------------
+[INFO][2022-07-26 16:41:16,491] ------------TC_02_Register_With_Invalid_Email is PASSED ------------
+[INFO][2022-07-26 16:41:16,493] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[INFO][2022-07-26 16:41:19,564] ------------TC_03_Register_With_Valid_Data is PASSED ------------
+[INFO][2022-07-26 16:41:19,566] ------------TC_04_Register_With_Existing_Email is STARTED ------------
+[INFO][2022-07-26 16:41:22,675] ------------TC_04_Register_With_Existing_Email is PASSED ------------
+[INFO][2022-07-26 16:41:22,676] ------------TC_05_Register_With_Invalid_Password is STARTED ------------
+[INFO][2022-07-26 16:41:24,499] ------------TC_05_Register_With_Invalid_Password is PASSED ------------
+[INFO][2022-07-26 16:41:24,501] ------------TC_06_Register_With_Invalid_Confirm_Password is STARTED ------------
+[INFO][2022-07-26 16:41:26,616] ------------TC_06_Register_With_Invalid_Confirm_Password is PASSED ------------
+[INFO][2022-07-26 16:41:26,618] OS name = windows 10
+[INFO][2022-07-26 16:41:26,618] Driver instance name = chromedriver: chrome on windows (82e38bf33164acbbfec73e2c6629d9d0)
+[INFO][2022-07-26 16:41:27,757] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-26 17:42:21,147] -------STARTED TEST Run on Chrome------
+[WARN][2022-07-26 17:42:29,518] ------------TC_01_Login_With_Empty_Data is SKIPPED ------------
+[ERROR][2022-07-26 17:42:29,942] ------------TC_01_Login_With_Empty_Data is FAILED ------------
+[INFO][2022-07-26 17:42:29,942] Please refer screenshot in Extent Test Report
+[WARN][2022-07-26 17:42:30,213] ------------TC_02_Login_With_Invalid_Email is SKIPPED ------------
+[ERROR][2022-07-26 17:42:30,216] ------------TC_02_Login_With_Invalid_Email is FAILED ------------
+[INFO][2022-07-26 17:42:30,216] Please refer screenshot in Extent Test Report
+[WARN][2022-07-26 17:42:30,394] ------------TC_03_Login_With_Not_Registerd_Email is SKIPPED ------------
+[ERROR][2022-07-26 17:42:30,396] ------------TC_03_Login_With_Not_Registerd_Email is FAILED ------------
+[INFO][2022-07-26 17:42:30,396] Please refer screenshot in Extent Test Report
+[WARN][2022-07-26 17:42:30,560] ------------TC_4_Login_With_Empty_Password is SKIPPED ------------
+[ERROR][2022-07-26 17:42:30,562] ------------TC_4_Login_With_Empty_Password is FAILED ------------
+[INFO][2022-07-26 17:42:30,562] Please refer screenshot in Extent Test Report
+[WARN][2022-07-26 17:42:30,685] ------------TC_5_Login_With_Wrong_Password is SKIPPED ------------
+[ERROR][2022-07-26 17:42:30,687] ------------TC_5_Login_With_Wrong_Password is FAILED ------------
+[INFO][2022-07-26 17:42:30,687] Please refer screenshot in Extent Test Report
+[WARN][2022-07-26 17:42:30,827] ------------TC_6_Login_With_Valid_Credential is SKIPPED ------------
+[ERROR][2022-07-26 17:42:30,828] ------------TC_6_Login_With_Valid_Credential is FAILED ------------
+[INFO][2022-07-26 17:42:30,829] Please refer screenshot in Extent Test Report
+[INFO][2022-07-26 17:42:30,973] OS name = windows 10
+[INFO][2022-07-26 17:42:30,974] Driver instance name = firefoxdriver: firefox on windows (5b722a15-9f8c-4a90-8d28-2a8625cb1f7a)
+[INFO][2022-07-26 17:42:32,501] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-26 17:43:17,274] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-26 17:43:27,444] ------------TC_01_Login_With_Empty_Data is STARTED ------------
+[INFO][2022-07-26 17:43:28,319] ------------TC_01_Login_With_Empty_Data is PASSED ------------
+[INFO][2022-07-26 17:43:28,324] ------------TC_02_Login_With_Invalid_Email is STARTED ------------
+[ERROR][2022-07-26 17:44:00,314] ------------TC_02_Login_With_Invalid_Email is FAILED ------------
+[INFO][2022-07-26 17:44:00,314] Please refer screenshot in Extent Test Report
+[INFO][2022-07-26 17:44:00,410] ------------TC_03_Login_With_Not_Registerd_Email is STARTED ------------
+[ERROR][2022-07-26 17:44:00,602] ------------TC_03_Login_With_Not_Registerd_Email is FAILED ------------
+[INFO][2022-07-26 17:44:00,602] Please refer screenshot in Extent Test Report
+[INFO][2022-07-26 17:44:00,699] ------------TC_4_Login_With_Empty_Password is STARTED ------------
+[ERROR][2022-07-26 17:44:00,817] ------------TC_4_Login_With_Empty_Password is FAILED ------------
+[INFO][2022-07-26 17:44:00,817] Please refer screenshot in Extent Test Report
+[INFO][2022-07-26 17:44:00,878] ------------TC_5_Login_With_Wrong_Password is STARTED ------------
+[ERROR][2022-07-26 17:44:00,985] ------------TC_5_Login_With_Wrong_Password is FAILED ------------
+[INFO][2022-07-26 17:44:00,985] Please refer screenshot in Extent Test Report
+[INFO][2022-07-26 17:44:01,058] ------------TC_6_Login_With_Valid_Credential is STARTED ------------
+[ERROR][2022-07-26 17:44:01,166] ------------TC_6_Login_With_Valid_Credential is FAILED ------------
+[INFO][2022-07-26 17:44:01,166] Please refer screenshot in Extent Test Report
+[INFO][2022-07-26 17:44:01,220] OS name = windows 10
+[INFO][2022-07-26 17:44:01,221] Driver instance name = firefoxdriver: firefox on windows (1f725242-05ad-4ef9-9baa-56d5626fe961)
+[INFO][2022-07-26 17:44:02,606] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-26 17:44:34,723] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-26 17:44:44,269] ------------TC_01_Login_With_Empty_Data is STARTED ------------
+[INFO][2022-07-26 17:44:45,095] ------------TC_01_Login_With_Empty_Data is PASSED ------------
+[INFO][2022-07-26 17:44:45,098] ------------TC_02_Login_With_Invalid_Email is STARTED ------------
+[INFO][2022-07-26 17:44:47,402] ------------TC_02_Login_With_Invalid_Email is PASSED ------------
+[INFO][2022-07-26 17:44:47,405] ------------TC_03_Login_With_Not_Registerd_Email is STARTED ------------
+[INFO][2022-07-26 17:44:48,789] ------------TC_03_Login_With_Not_Registerd_Email is PASSED ------------
+[INFO][2022-07-26 17:44:48,791] ------------TC_4_Login_With_Empty_Password is STARTED ------------
+[ERROR][2022-07-26 17:44:49,006] ------------TC_4_Login_With_Empty_Password is FAILED ------------
+[INFO][2022-07-26 17:44:49,006] Please refer screenshot in Extent Test Report
+[INFO][2022-07-26 17:44:49,088] ------------TC_5_Login_With_Wrong_Password is STARTED ------------
+[ERROR][2022-07-26 17:44:49,185] ------------TC_5_Login_With_Wrong_Password is FAILED ------------
+[INFO][2022-07-26 17:44:49,185] Please refer screenshot in Extent Test Report
+[INFO][2022-07-26 17:44:49,253] ------------TC_6_Login_With_Valid_Credential is STARTED ------------
+[ERROR][2022-07-26 17:44:49,383] ------------TC_6_Login_With_Valid_Credential is FAILED ------------
+[INFO][2022-07-26 17:44:49,384] Please refer screenshot in Extent Test Report
+[INFO][2022-07-26 17:44:49,450] OS name = windows 10
+[INFO][2022-07-26 17:44:49,451] Driver instance name = firefoxdriver: firefox on windows (10f6a6ab-9e91-41ff-9b20-b84032f1ff74)
+[INFO][2022-07-26 17:44:50,784] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-26 17:46:08,113] -------STARTED TEST Run on Chrome------
+[WARN][2022-07-26 17:46:18,300] ------------TC_01_Login_With_Empty_Data is SKIPPED ------------
+[ERROR][2022-07-26 17:46:18,658] ------------TC_01_Login_With_Empty_Data is FAILED ------------
+[INFO][2022-07-26 17:46:18,658] Please refer screenshot in Extent Test Report
+[WARN][2022-07-26 17:46:18,789] ------------TC_02_Login_With_Invalid_Email is SKIPPED ------------
+[ERROR][2022-07-26 17:46:18,801] ------------TC_02_Login_With_Invalid_Email is FAILED ------------
+[INFO][2022-07-26 17:46:18,801] Please refer screenshot in Extent Test Report
+[WARN][2022-07-26 17:46:18,883] ------------TC_03_Login_With_Not_Registerd_Email is SKIPPED ------------
+[ERROR][2022-07-26 17:46:18,886] ------------TC_03_Login_With_Not_Registerd_Email is FAILED ------------
+[INFO][2022-07-26 17:46:18,886] Please refer screenshot in Extent Test Report
+[WARN][2022-07-26 17:46:18,957] ------------TC_4_Login_With_Empty_Password is SKIPPED ------------
+[ERROR][2022-07-26 17:46:18,960] ------------TC_4_Login_With_Empty_Password is FAILED ------------
+[INFO][2022-07-26 17:46:18,960] Please refer screenshot in Extent Test Report
+[WARN][2022-07-26 17:46:19,023] ------------TC_5_Login_With_Wrong_Password is SKIPPED ------------
+[ERROR][2022-07-26 17:46:19,025] ------------TC_5_Login_With_Wrong_Password is FAILED ------------
+[INFO][2022-07-26 17:46:19,025] Please refer screenshot in Extent Test Report
+[WARN][2022-07-26 17:46:19,094] ------------TC_6_Login_With_Valid_Credential is SKIPPED ------------
+[ERROR][2022-07-26 17:46:19,096] ------------TC_6_Login_With_Valid_Credential is FAILED ------------
+[INFO][2022-07-26 17:46:19,096] Please refer screenshot in Extent Test Report
+[INFO][2022-07-26 17:46:19,189] OS name = windows 10
+[INFO][2022-07-26 17:46:19,189] Driver instance name = firefoxdriver: firefox on windows (929e87c7-53ac-426e-a676-4ec0adf844d3)
+[INFO][2022-07-26 17:46:20,625] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-26 17:46:47,492] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-26 17:47:38,108] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-26 17:47:56,651] ------------TC_01_Login_With_Empty_Data is STARTED ------------
+[INFO][2022-07-26 17:47:57,636] ------------TC_01_Login_With_Empty_Data is PASSED ------------
+[INFO][2022-07-26 17:47:57,639] ------------TC_02_Login_With_Invalid_Email is STARTED ------------
+[INFO][2022-07-26 17:47:59,459] ------------TC_02_Login_With_Invalid_Email is PASSED ------------
+[INFO][2022-07-26 17:47:59,462] ------------TC_03_Login_With_Not_Registerd_Email is STARTED ------------
+[INFO][2022-07-26 17:48:01,485] ------------TC_03_Login_With_Not_Registerd_Email is PASSED ------------
+[INFO][2022-07-26 17:48:01,487] ------------TC_4_Login_With_Empty_Password is STARTED ------------
+[ERROR][2022-07-26 17:48:01,687] ------------TC_4_Login_With_Empty_Password is FAILED ------------
+[INFO][2022-07-26 17:48:01,688] Please refer screenshot in Extent Test Report
+[INFO][2022-07-26 17:48:01,777] ------------TC_5_Login_With_Wrong_Password is STARTED ------------
+[ERROR][2022-07-26 17:48:01,945] ------------TC_5_Login_With_Wrong_Password is FAILED ------------
+[INFO][2022-07-26 17:48:01,946] Please refer screenshot in Extent Test Report
+[INFO][2022-07-26 17:48:02,022] ------------TC_6_Login_With_Valid_Credential is STARTED ------------
+[ERROR][2022-07-26 17:48:02,161] ------------TC_6_Login_With_Valid_Credential is FAILED ------------
+[INFO][2022-07-26 17:48:02,161] Please refer screenshot in Extent Test Report
+[INFO][2022-07-26 17:48:02,238] OS name = windows 10
+[INFO][2022-07-26 17:48:02,238] Driver instance name = firefoxdriver: firefox on windows (19b83829-78f8-44d3-975e-3c0836c6cfd7)
+[INFO][2022-07-26 17:48:04,053] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-26 17:52:50,588] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-26 17:53:12,372] ------------TC_01_Login_With_Empty_Data is STARTED ------------
+[INFO][2022-07-26 17:53:13,245] ------------TC_01_Login_With_Empty_Data is PASSED ------------
+[INFO][2022-07-26 17:53:13,248] ------------TC_02_Login_With_Invalid_Email is STARTED ------------
+[INFO][2022-07-26 17:53:18,619] ------------TC_02_Login_With_Invalid_Email is PASSED ------------
+[INFO][2022-07-26 17:53:18,621] ------------TC_03_Login_With_Not_Registerd_Email is STARTED ------------
+[INFO][2022-07-26 17:53:23,971] ------------TC_03_Login_With_Not_Registerd_Email is PASSED ------------
+[INFO][2022-07-26 17:53:23,973] ------------TC_4_Login_With_Empty_Password is STARTED ------------
+[ERROR][2022-07-26 17:53:27,195] ------------TC_4_Login_With_Empty_Password is FAILED ------------
+[INFO][2022-07-26 17:53:27,195] Please refer screenshot in Extent Test Report
+[INFO][2022-07-26 17:53:27,264] ------------TC_5_Login_With_Wrong_Password is STARTED ------------
+[ERROR][2022-07-26 17:53:30,391] ------------TC_5_Login_With_Wrong_Password is FAILED ------------
+[INFO][2022-07-26 17:53:30,391] Please refer screenshot in Extent Test Report
+[INFO][2022-07-26 17:53:30,477] ------------TC_6_Login_With_Valid_Credential is STARTED ------------
+[ERROR][2022-07-26 17:53:33,590] ------------TC_6_Login_With_Valid_Credential is FAILED ------------
+[INFO][2022-07-26 17:53:33,590] Please refer screenshot in Extent Test Report
+[INFO][2022-07-26 17:53:33,660] OS name = windows 10
+[INFO][2022-07-26 17:53:33,660] Driver instance name = firefoxdriver: firefox on windows (af6cc2f1-6689-4574-b822-cc1761314d6c)
+[INFO][2022-07-26 17:53:35,082] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-26 18:00:26,266] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-26 18:00:48,057] ------------TC_01_Login_With_Empty_Data is STARTED ------------
+[INFO][2022-07-26 18:00:48,886] ------------TC_01_Login_With_Empty_Data is PASSED ------------
+[INFO][2022-07-26 18:00:48,889] ------------TC_02_Login_With_Invalid_Email is STARTED ------------
+[INFO][2022-07-26 18:00:53,471] ------------TC_02_Login_With_Invalid_Email is PASSED ------------
+[INFO][2022-07-26 18:00:53,473] ------------TC_03_Login_With_Not_Registerd_Email is STARTED ------------
+[INFO][2022-07-26 18:00:57,774] ------------TC_03_Login_With_Not_Registerd_Email is PASSED ------------
+[INFO][2022-07-26 18:00:57,777] ------------TC_4_Login_With_Empty_Password is STARTED ------------
+[INFO][2022-07-26 18:01:02,028] ------------TC_4_Login_With_Empty_Password is PASSED ------------
+[INFO][2022-07-26 18:01:02,030] ------------TC_5_Login_With_Wrong_Password is STARTED ------------
+[INFO][2022-07-26 18:01:06,343] ------------TC_5_Login_With_Wrong_Password is PASSED ------------
+[INFO][2022-07-26 18:01:06,345] ------------TC_6_Login_With_Valid_Credential is STARTED ------------
+[ERROR][2022-07-26 18:01:40,686] ------------TC_6_Login_With_Valid_Credential is FAILED ------------
+[INFO][2022-07-26 18:01:40,686] Please refer screenshot in Extent Test Report
+[INFO][2022-07-26 18:01:40,758] OS name = windows 10
+[INFO][2022-07-26 18:01:40,758] Driver instance name = firefoxdriver: firefox on windows (febe1281-ce6a-43e8-8ebc-f7aa216bde25)
+[INFO][2022-07-26 18:01:42,229] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-26 18:02:02,263] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-26 18:02:23,353] ------------TC_01_Login_With_Empty_Data is STARTED ------------
+[INFO][2022-07-26 18:02:24,258] ------------TC_01_Login_With_Empty_Data is PASSED ------------
+[INFO][2022-07-26 18:02:24,261] ------------TC_02_Login_With_Invalid_Email is STARTED ------------
+[INFO][2022-07-26 18:02:28,779] ------------TC_02_Login_With_Invalid_Email is PASSED ------------
+[INFO][2022-07-26 18:02:28,781] ------------TC_03_Login_With_Not_Registerd_Email is STARTED ------------
+[INFO][2022-07-26 18:02:33,079] ------------TC_03_Login_With_Not_Registerd_Email is PASSED ------------
+[INFO][2022-07-26 18:02:33,081] ------------TC_4_Login_With_Empty_Password is STARTED ------------
+[INFO][2022-07-26 18:02:37,296] ------------TC_4_Login_With_Empty_Password is PASSED ------------
+[INFO][2022-07-26 18:02:37,298] ------------TC_5_Login_With_Wrong_Password is STARTED ------------
+[INFO][2022-07-26 18:02:41,625] ------------TC_5_Login_With_Wrong_Password is PASSED ------------
+[INFO][2022-07-26 18:02:41,627] ------------TC_6_Login_With_Valid_Credential is STARTED ------------
+[INFO][2022-07-26 18:02:46,281] ------------TC_6_Login_With_Valid_Credential is PASSED ------------
+[INFO][2022-07-26 18:02:46,281] OS name = windows 10
+[INFO][2022-07-26 18:02:46,282] Driver instance name = firefoxdriver: firefox on windows (ceb1f536-268a-4ac0-b9d0-693a0cdc47cd)
+[INFO][2022-07-26 18:02:47,637] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-26 22:21:23,859] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-26 22:21:23,883] Register new account
+[WARN][2022-07-26 22:22:06,991] ------------TC_01_Update_Customer_Info is SKIPPED ------------
+[ERROR][2022-07-26 22:22:07,426] ------------TC_01_Update_Customer_Info is FAILED ------------
+[INFO][2022-07-26 22:22:07,427] Please refer screenshot in Extent Test Report
+[INFO][2022-07-26 22:22:07,532] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-26 22:24:07,765] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-26 22:24:07,784] Register new account
+[WARN][2022-07-26 22:24:22,351] ------------TC_01_Update_Customer_Info is SKIPPED ------------
+[ERROR][2022-07-26 22:24:22,685] ------------TC_01_Update_Customer_Info is FAILED ------------
+[INFO][2022-07-26 22:24:22,685] Please refer screenshot in Extent Test Report
+[INFO][2022-07-26 22:24:22,735] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-26 22:31:12,269] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-26 22:31:12,288] Register new account
+[INFO][2022-07-26 22:31:27,044] Login with new account and get cookies
+[INFO][2022-07-26 22:31:33,035] Register new account only for My Account test
+[INFO][2022-07-26 22:31:39,961] ------------TC_01_Update_Customer_Info is STARTED ------------
+[ERROR][2022-07-26 22:31:40,559] ------------TC_01_Update_Customer_Info is FAILED ------------
+[INFO][2022-07-26 22:31:40,559] Please refer screenshot in Extent Test Report
+[INFO][2022-07-26 22:31:40,890] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-26 22:41:54,144] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-26 22:41:54,166] Register new account
+[INFO][2022-07-26 22:42:08,770] Login with new account and get cookies
+[INFO][2022-07-26 22:42:22,237] ------------TC_01_Update_Customer_Info is STARTED ------------
+[ERROR][2022-07-26 22:42:52,791] ------------TC_01_Update_Customer_Info is FAILED ------------
+[INFO][2022-07-26 22:42:52,791] Please refer screenshot in Extent Test Report
+[INFO][2022-07-26 22:42:53,250] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-26 22:43:35,710] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-26 22:43:35,727] Register new account
+[INFO][2022-07-26 22:43:50,842] Login with new account and get cookies
+[INFO][2022-07-26 22:44:12,102] ------------TC_01_Update_Customer_Info is STARTED ------------
+[ERROR][2022-07-26 22:44:42,634] ------------TC_01_Update_Customer_Info is FAILED ------------
+[INFO][2022-07-26 22:44:42,635] Please refer screenshot in Extent Test Report
+[INFO][2022-07-26 22:44:42,928] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-26 22:45:08,262] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-26 22:45:08,280] Register new account
+[INFO][2022-07-26 22:45:22,165] Login with new account and get cookies
+[INFO][2022-07-26 22:45:45,016] ------------TC_01_Update_Customer_Info is STARTED ------------
+[ERROR][2022-07-26 22:46:15,464] ------------TC_01_Update_Customer_Info is FAILED ------------
+[INFO][2022-07-26 22:46:15,464] Please refer screenshot in Extent Test Report
+[INFO][2022-07-26 22:46:15,847] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-26 22:48:42,413] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-26 22:48:42,437] Register new account
+[INFO][2022-07-26 22:48:56,836] Login with new account and get cookies
+[INFO][2022-07-26 22:49:19,776] ------------TC_01_Update_Customer_Info is STARTED ------------
+[ERROR][2022-07-26 22:49:24,542] ------------TC_01_Update_Customer_Info is FAILED ------------
+[INFO][2022-07-26 22:49:24,542] Please refer screenshot in Extent Test Report
+[INFO][2022-07-26 22:49:24,679] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-26 23:00:37,199] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-26 23:00:37,218] Register new account
+[INFO][2022-07-26 23:00:51,625] Login with new account and get cookies
+[INFO][2022-07-26 23:01:14,634] ------------TC_01_Update_Customer_Info is STARTED ------------
+[ERROR][2022-07-26 23:01:18,651] ------------TC_01_Update_Customer_Info is FAILED ------------
+[INFO][2022-07-26 23:01:18,651] Please refer screenshot in Extent Test Report
+[INFO][2022-07-26 23:01:18,787] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-26 23:04:03,296] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-26 23:04:03,318] Register new account
+[INFO][2022-07-26 23:04:17,630] Login with new account and get cookies
+[INFO][2022-07-26 23:04:41,346] ------------TC_01_Update_Customer_Info is STARTED ------------
+[INFO][2022-07-26 23:04:46,349] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-07-26 23:04:46,400] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-26 23:05:52,920] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-26 23:06:03,961] Register new account with email = graham.stark@yahoo.com and password = mvonaie4
+[INFO][2022-07-26 23:06:08,586] Login with new account and get cookies
+[INFO][2022-07-26 23:06:32,263] ------------TC_01_Update_Customer_Info is STARTED ------------
+[INFO][2022-07-26 23:06:36,605] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-07-26 23:06:36,660] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-27 16:04:37,246] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-27 16:04:37,267] -------STARTED TEST Run on Chrome------
+[WARN][2022-07-27 16:04:46,231] ------------TC_01_Update_Customer_Info is SKIPPED ------------
+[ERROR][2022-07-27 16:04:48,812] ------------TC_01_Update_Customer_Info is FAILED ------------
+[INFO][2022-07-27 16:04:48,813] Please refer screenshot in Extent Test Report
+[INFO][2022-07-27 16:04:48,913] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-27 16:04:50,423] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-27 16:06:03,351] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-27 16:06:16,561] Register new account with email = janey.stanton@hotmail.com and password = v8dceic1k9buh1p
+[INFO][2022-07-27 16:06:21,809] Login with new account and get cookies
+[INFO][2022-07-27 16:06:46,687] ------------TC_01_Update_Customer_Info is STARTED ------------
+[INFO][2022-07-27 16:06:51,029] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-07-27 16:06:51,370] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-27 16:51:16,345] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-27 16:51:57,514] ------------TC_01_Update_Customer_Info is STARTED ------------
+[INFO][2022-07-27 16:51:57,515] Update account information for acc email =  denita.hermann@yahoo.com and password = 08pshrnlrbfql
+[INFO][2022-07-27 16:52:01,619] Verify info after updating
+[INFO][2022-07-27 16:52:02,412] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-07-27 16:52:02,425] ------------TC_02_Update_Customer_Address is STARTED ------------
+[INFO][2022-07-27 16:52:02,438] ------------TC_02_Update_Customer_Address is PASSED ------------
+[INFO][2022-07-27 16:52:02,442] OS name = windows 10
+[INFO][2022-07-27 16:52:02,442] Driver instance name = firefoxdriver: firefox on windows (1e48254f-2a90-4609-bd73-2ab3a988fecc)
+[INFO][2022-07-27 16:52:03,740] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-27 17:16:47,538] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-27 17:17:27,763] ------------TC_01_Update_Customer_Info is STARTED ------------
+[INFO][2022-07-27 17:17:27,763] Update account information for acc email =  gabriella.maggio@yahoo.com and password = vkh4q8ld2aefg2
+[INFO][2022-07-27 17:17:31,691] Verify info after updating
+[INFO][2022-07-27 17:17:32,434] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-07-27 17:17:32,440] ------------TC_02_Update_Customer_Address is STARTED ------------
+[INFO][2022-07-27 17:17:32,452] ------------TC_02_Update_Customer_Address is PASSED ------------
+[INFO][2022-07-27 17:17:32,455] OS name = windows 10
+[INFO][2022-07-27 17:17:32,456] Driver instance name = firefoxdriver: firefox on windows (caacd792-4352-49f9-af87-1d17005891d1)
+[INFO][2022-07-27 17:17:34,213] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-27 17:48:56,581] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-27 17:49:37,473] ------------TC_01_Update_Customer_Info is STARTED ------------
+[INFO][2022-07-27 17:49:37,473] Update account information for acc email =  graham.green@yahoo.com and password = hhueqresfp
+[INFO][2022-07-27 17:49:41,536] Verify info after updating
+[INFO][2022-07-27 17:49:42,406] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-07-27 17:49:42,517] ------------TC_02_Update_Customer_Address is STARTED ------------
+[INFO][2022-07-27 17:49:42,538] ------------TC_02_Update_Customer_Address is PASSED ------------
+[INFO][2022-07-27 17:49:42,541] OS name = windows 10
+[INFO][2022-07-27 17:49:42,541] Driver instance name = firefoxdriver: firefox on windows (ef0b342a-596a-43c3-a164-e33fd2a1813e)
+[INFO][2022-07-27 17:49:44,162] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-27 22:56:00,700] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-27 22:56:38,325] ------------TC_01_Update_Customer_Info is STARTED ------------
+[INFO][2022-07-27 22:56:38,326] Update account information for acc email =  latia.daniel@yahoo.com and password = 77s1evb8
+[INFO][2022-07-27 22:56:41,760] Verify info after updating
+[INFO][2022-07-27 22:56:42,568] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-07-27 22:56:42,730] ------------TC_02_Add_Customer_Address is STARTED ------------
+[INFO][2022-07-27 22:57:35,201] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-27 22:58:17,448] ------------TC_01_Update_Customer_Info is STARTED ------------
+[INFO][2022-07-27 22:58:17,449] Update account information for acc email =  mario.ondricka@hotmail.com and password = m5cmyz07wiwfl
+[INFO][2022-07-27 22:58:21,736] Verify info after updating
+[INFO][2022-07-27 22:58:22,462] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-07-27 22:58:22,583] ------------TC_02_Add_Customer_Address is STARTED ------------
+[INFO][2022-07-27 22:58:43,172] ------------TC_02_Add_Customer_Address is PASSED ------------
+[INFO][2022-07-27 22:58:43,226] OS name = windows 10
+[INFO][2022-07-27 22:58:43,226] Driver instance name = firefoxdriver: firefox on windows (a235e19e-0255-4613-adb8-bce2804c8faf)
+[INFO][2022-07-27 22:58:44,836] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-27 22:58:48,818] ------------TC_02_Add_Customer_Address is PASSED ------------
+[INFO][2022-07-27 22:58:52,909] ------------TC_02_Add_Customer_Address is PASSED ------------
+[INFO][2022-07-27 22:58:57,013] OS name = windows 10
+[INFO][2022-07-27 22:58:57,014] Driver instance name = firefoxdriver: firefox on windows (8e4495c2-97fa-4de2-b75a-d8fc7cda48a2)
+[INFO][2022-07-27 22:59:01,085] java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:31111
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-GI5UTU0', ip: '192.168.1.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'
+Driver info: driver.version: RemoteWebDriver
+[INFO][2022-07-27 22:59:01,316] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-27 23:01:15,860] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-27 23:01:53,626] ------------TC_01_Update_Customer_Info is STARTED ------------
+[INFO][2022-07-27 23:01:53,627] Update account information for acc email =  detra.pacocha@hotmail.com and password = n03s4hhjc
+[INFO][2022-07-27 23:01:57,587] Verify info after updating
+[INFO][2022-07-27 23:01:58,337] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-07-27 23:01:58,355] ------------TC_02_Add_Customer_Address is STARTED ------------
+[INFO][2022-07-27 23:03:58,811] ------------TC_02_Add_Customer_Address is PASSED ------------
+[INFO][2022-07-27 23:03:58,928] OS name = windows 10
+[INFO][2022-07-27 23:03:58,928] Driver instance name = firefoxdriver: firefox on windows (1537b275-8adb-475f-be84-2947ec5ed741)
+[INFO][2022-07-27 23:03:59,898] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-27 23:06:39,043] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-27 23:07:06,864] ------------TC_01_Login_With_Empty_Data is STARTED ------------
+[INFO][2022-07-27 23:07:08,033] ------------TC_01_Login_With_Empty_Data is PASSED ------------
+[INFO][2022-07-27 23:07:08,413] ------------TC_02_Login_With_Invalid_Email is STARTED ------------
+[INFO][2022-07-27 23:07:08,990] ------------TC_02_Login_With_Invalid_Email is PASSED ------------
+[INFO][2022-07-27 23:07:09,077] ------------TC_03_Login_With_Not_Registerd_Email is STARTED ------------
+[INFO][2022-07-27 23:07:09,657] ------------TC_03_Login_With_Not_Registerd_Email is PASSED ------------
+[INFO][2022-07-27 23:07:09,819] ------------TC_4_Login_With_Empty_Password is STARTED ------------
+[INFO][2022-07-27 23:07:10,370] ------------TC_4_Login_With_Empty_Password is PASSED ------------
+[INFO][2022-07-27 23:07:10,451] ------------TC_5_Login_With_Wrong_Password is STARTED ------------
+[INFO][2022-07-27 23:07:10,920] ------------TC_5_Login_With_Wrong_Password is PASSED ------------
+[INFO][2022-07-27 23:07:10,997] ------------TC_6_Login_With_Valid_Credential is STARTED ------------
+[INFO][2022-07-27 23:07:11,443] ------------TC_6_Login_With_Valid_Credential is PASSED ------------
+[INFO][2022-07-27 23:07:11,525] OS name = windows 10
+[INFO][2022-07-27 23:07:11,526] Driver instance name = firefoxdriver: firefox on windows (89445b10-267f-4b0c-9952-98cd177b8ecc)
+[INFO][2022-07-27 23:07:12,902] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-27 23:09:04,013] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-27 23:09:31,305] ------------TC_01_Login_With_Empty_Data is STARTED ------------
+[INFO][2022-07-27 23:09:31,975] ------------TC_01_Login_With_Empty_Data is PASSED ------------
+[INFO][2022-07-27 23:09:32,222] ------------TC_02_Login_With_Invalid_Email is STARTED ------------
+[INFO][2022-07-27 23:09:33,877] ------------TC_02_Login_With_Invalid_Email is PASSED ------------
+[INFO][2022-07-27 23:09:33,883] ------------TC_03_Login_With_Not_Registerd_Email is STARTED ------------
+[INFO][2022-07-27 23:09:35,306] ------------TC_03_Login_With_Not_Registerd_Email is PASSED ------------
+[INFO][2022-07-27 23:09:35,310] ------------TC_4_Login_With_Empty_Password is STARTED ------------
+[INFO][2022-07-27 23:09:36,557] ------------TC_4_Login_With_Empty_Password is PASSED ------------
+[INFO][2022-07-27 23:09:36,561] ------------TC_5_Login_With_Wrong_Password is STARTED ------------
+[INFO][2022-07-27 23:09:37,893] ------------TC_5_Login_With_Wrong_Password is PASSED ------------
+[INFO][2022-07-27 23:09:37,901] ------------TC_6_Login_With_Valid_Credential is STARTED ------------
+[INFO][2022-07-27 23:09:39,617] ------------TC_6_Login_With_Valid_Credential is PASSED ------------
+[INFO][2022-07-27 23:09:39,621] OS name = windows 10
+[INFO][2022-07-27 23:09:39,621] Driver instance name = firefoxdriver: firefox on windows (af87b04b-1b5b-47eb-a0bf-1af7266af461)
+[INFO][2022-07-27 23:09:40,962] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-27 23:11:31,539] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-27 23:12:08,298] ------------TC_01_Update_Customer_Info is STARTED ------------
+[INFO][2022-07-27 23:12:08,299] Update account information for acc email =  paris.schamberger@hotmail.com and password = hhy7r6d8ck8kop2
+[INFO][2022-07-27 23:12:12,288] Verify info after updating
+[INFO][2022-07-27 23:12:13,074] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-07-27 23:12:13,084] ------------TC_02_Add_Customer_Address is STARTED ------------
+[INFO][2022-07-27 23:14:13,584] ------------TC_02_Add_Customer_Address is PASSED ------------
+[INFO][2022-07-27 23:14:13,650] OS name = windows 10
+[INFO][2022-07-27 23:14:13,651] Driver instance name = firefoxdriver: firefox on windows (9eb1b277-1321-42d4-a890-1082bfdc3665)
+[INFO][2022-07-27 23:14:15,359] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-27 23:15:50,335] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-27 23:16:27,738] ------------TC_01_Update_Customer_Info is STARTED ------------
+[INFO][2022-07-27 23:16:27,739] Update account information for acc email =  josefine.hilll@yahoo.com and password = t797wzf4
+[INFO][2022-07-27 23:16:30,515] Verify info after updating
+[INFO][2022-07-27 23:16:31,501] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-07-27 23:16:31,513] ------------TC_02_Add_Customer_Address is STARTED ------------
+[INFO][2022-07-27 23:17:34,702] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-27 23:18:10,633] ------------TC_01_Update_Customer_Info is STARTED ------------
+[INFO][2022-07-27 23:18:10,633] Update account information for acc email =  barbar.towne@yahoo.com and password = 9ldzc95sm
+[INFO][2022-07-27 23:18:13,112] Verify info after updating
+[INFO][2022-07-27 23:18:13,785] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-07-27 23:18:13,793] ------------TC_02_Add_Customer_Address is STARTED ------------
+[INFO][2022-07-27 23:20:14,244] ------------TC_02_Add_Customer_Address is PASSED ------------
+[INFO][2022-07-27 23:20:14,348] OS name = windows 10
+[INFO][2022-07-27 23:20:14,348] Driver instance name = firefoxdriver: firefox on windows (a92d0ae6-7188-4d5b-8dae-5d65bbd0027c)
+[INFO][2022-07-27 23:20:15,337] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-27 23:26:38,946] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-27 23:27:16,360] ------------TC_01_Update_Customer_Info is STARTED ------------
+[INFO][2022-07-27 23:27:16,506] Update account information for acc email =  janyce.schoen@yahoo.com and password = fdezgq9jn5jn
+[INFO][2022-07-27 23:27:19,010] Verify info after updating
+[INFO][2022-07-27 23:27:19,520] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-07-27 23:27:19,742] ------------TC_02_Add_Customer_Address is STARTED ------------
+[INFO][2022-07-27 23:29:19,946] ------------TC_02_Add_Customer_Address is PASSED ------------
+[INFO][2022-07-27 23:29:20,034] OS name = windows 10
+[INFO][2022-07-27 23:29:20,034] Driver instance name = firefoxdriver: firefox on windows (91851f24-d886-403f-86ab-0cc8d52f0140)
+[INFO][2022-07-27 23:29:21,029] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-27 23:40:08,158] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-27 23:40:44,807] ------------TC_01_Update_Customer_Info is STARTED ------------
+[INFO][2022-07-27 23:40:44,807] Update account information for acc email =  maria.pouros@yahoo.com and password = qnd1p0ntcj9r
+[INFO][2022-07-27 23:40:47,412] Verify info after updating
+[INFO][2022-07-27 23:40:48,113] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-07-27 23:40:48,119] ------------TC_02_Add_Customer_Address is STARTED ------------
+[INFO][2022-07-27 23:42:48,542] ------------TC_02_Add_Customer_Address is PASSED ------------
+[INFO][2022-07-27 23:42:48,643] OS name = windows 10
+[INFO][2022-07-27 23:42:48,644] Driver instance name = firefoxdriver: firefox on windows (f6424af8-6644-4ce1-8d73-08cd68ba054f)
+[INFO][2022-07-27 23:42:49,600] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-27 23:48:17,892] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-27 23:49:00,371] ------------TC_01_Update_Customer_Info is STARTED ------------
+[INFO][2022-07-27 23:49:00,371] Update account information for acc email =  blythe.tillman@yahoo.com and password = d3figxwpjea
+[INFO][2022-07-27 23:49:03,044] Verify info after updating
+[INFO][2022-07-27 23:49:03,772] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-07-27 23:49:03,777] ------------TC_02_Add_Customer_Address is STARTED ------------
+[INFO][2022-07-27 23:49:06,078] ------------TC_02_Add_Customer_Address is PASSED ------------
+[INFO][2022-07-27 23:49:06,083] OS name = windows 10
+[INFO][2022-07-27 23:49:06,084] Driver instance name = firefoxdriver: firefox on windows (b1f6b773-d2b5-4627-b416-7bf1f802ee23)
+[INFO][2022-07-27 23:49:07,387] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-28 11:00:40,701] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-28 11:01:20,246] ------------TC_01_Update_Customer_Info is STARTED ------------
+[INFO][2022-07-28 11:01:20,438] Update account information for acc email =  paris.heller@gmail.com and password = 9y6ss0oluvbi7
+[INFO][2022-07-28 11:01:23,445] Verify info after updating
+[INFO][2022-07-28 11:01:23,907] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-07-28 11:01:24,118] ------------TC_02_Add_Customer_Address is STARTED ------------
+[INFO][2022-07-28 11:01:54,389] ------------TC_02_Add_Customer_Address is FAILED ------------
+[INFO][2022-07-28 11:01:54,488] OS name = windows 10
+[INFO][2022-07-28 11:01:54,489] Driver instance name = firefoxdriver: firefox on windows (be0af307-3db5-4312-b2f6-809c16065a25)
+[INFO][2022-07-28 11:01:56,371] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-28 11:05:05,410] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-28 11:05:43,862] ------------TC_01_Update_Customer_Info is STARTED ------------
+[INFO][2022-07-28 11:05:44,057] Update account information for acc email =  horacio.auer@yahoo.com and password = 96esvvvl2
+[INFO][2022-07-28 11:05:46,736] Verify info after updating
+[INFO][2022-07-28 11:05:47,205] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-07-28 11:05:47,405] ------------TC_02_Add_Customer_Address is STARTED ------------
+[INFO][2022-07-28 11:06:18,100] ------------TC_02_Add_Customer_Address is FAILED ------------
+[INFO][2022-07-28 11:06:18,181] OS name = windows 10
+[INFO][2022-07-28 11:06:18,182] Driver instance name = firefoxdriver: firefox on windows (ed23ec3f-ec69-463b-894e-117df7fd33a7)
+[INFO][2022-07-28 11:06:19,564] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-28 11:08:13,003] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-28 11:08:47,408] ------------TC_01_Update_Customer_Info is STARTED ------------
+[INFO][2022-07-28 11:08:47,408] Update account information for acc email =  julene.gottlieb@gmail.com and password = ull21k8ndheq
+[INFO][2022-07-28 11:08:50,168] Verify info after updating
+[INFO][2022-07-28 11:08:50,826] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-07-28 11:08:50,833] ------------TC_02_Add_Customer_Address is STARTED ------------
+[INFO][2022-07-28 11:09:22,151] ------------TC_02_Add_Customer_Address is FAILED ------------
+[INFO][2022-07-28 11:09:22,229] OS name = windows 10
+[INFO][2022-07-28 11:09:22,230] Driver instance name = firefoxdriver: firefox on windows (75e28af9-3bd4-4117-a176-ce170a1ff77e)
+[INFO][2022-07-28 11:09:23,492] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-28 11:18:58,156] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-28 11:19:33,400] ------------TC_01_Update_Customer_Info is STARTED ------------
+[INFO][2022-07-28 11:19:33,538] Update account information for acc email =  ozella.mcclure@yahoo.com and password = 75b1mtt1n
+[INFO][2022-07-28 11:19:37,180] Verify info after updating
+[INFO][2022-07-28 11:19:37,642] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-07-28 11:19:37,859] ------------TC_02_Add_Customer_Address is STARTED ------------
+[INFO][2022-07-28 11:20:10,076] ------------TC_02_Add_Customer_Address is FAILED ------------
+[INFO][2022-07-28 11:20:10,166] OS name = windows 10
+[INFO][2022-07-28 11:20:10,167] Driver instance name = firefoxdriver: firefox on windows (88ed5e79-e9d3-4f6c-a5e1-e8541cb062cc)
+[INFO][2022-07-28 11:20:11,631] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-28 11:21:16,989] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-28 11:21:52,515] ------------TC_01_Update_Customer_Info is STARTED ------------
+[INFO][2022-07-28 11:21:52,515] Update account information for acc email =  leta.abernathy@hotmail.com and password = ny0u2eieva6
+[INFO][2022-07-28 11:21:56,571] Verify info after updating
+[INFO][2022-07-28 11:21:57,258] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-07-28 11:21:57,274] ------------TC_02_Add_Customer_Address is STARTED ------------
+[INFO][2022-07-28 11:22:31,506] ------------TC_02_Add_Customer_Address is FAILED ------------
+[INFO][2022-07-28 11:22:31,590] OS name = windows 10
+[INFO][2022-07-28 11:22:31,591] Driver instance name = firefoxdriver: firefox on windows (a5abdd05-9d0e-42f5-a8d4-90d7ae902f8b)
+[INFO][2022-07-28 11:22:33,030] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-28 11:23:44,815] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-28 11:24:20,601] ------------TC_01_Update_Customer_Info is STARTED ------------
+[INFO][2022-07-28 11:24:20,601] Update account information for acc email =  cyrus.farrell@hotmail.com and password = 01qg6vuz
+[INFO][2022-07-28 11:24:24,611] Verify info after updating
+[INFO][2022-07-28 11:24:25,347] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-07-28 11:24:25,361] ------------TC_02_Add_Customer_Address is STARTED ------------
+[INFO][2022-07-28 11:24:59,721] ------------TC_02_Add_Customer_Address is FAILED ------------
+[INFO][2022-07-28 11:24:59,802] OS name = windows 10
+[INFO][2022-07-28 11:24:59,803] Driver instance name = firefoxdriver: firefox on windows (769c3373-a276-432b-8cab-931b25fb8ba4)
+[INFO][2022-07-28 11:25:01,215] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-28 11:30:11,555] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-28 11:30:47,364] ------------TC_01_Update_Customer_Info is STARTED ------------
+[INFO][2022-07-28 11:30:47,364] Update account information for acc email =  agustin.hackett@yahoo.com and password = bizeerhgg4vr3
+[INFO][2022-07-28 11:30:51,403] Verify info after updating
+[INFO][2022-07-28 11:30:52,131] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-07-28 11:30:52,137] ------------TC_02_Add_Customer_Address is STARTED ------------
+[INFO][2022-07-28 11:30:56,353] ------------TC_02_Add_Customer_Address is FAILED ------------
+[INFO][2022-07-28 11:30:56,460] OS name = windows 10
+[INFO][2022-07-28 11:30:56,460] Driver instance name = firefoxdriver: firefox on windows (c944f468-b085-4d65-8e93-34d76a671a66)
+[INFO][2022-07-28 11:30:57,724] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-28 11:32:36,145] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-28 11:33:11,010] ------------TC_01_Update_Customer_Info is STARTED ------------
+[INFO][2022-07-28 11:33:11,160] Update account information for acc email =  rosendo.roberts@hotmail.com and password = z1fxc5de73sv
+[INFO][2022-07-28 11:33:14,657] Verify info after updating
+[INFO][2022-07-28 11:33:15,095] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-07-28 11:33:15,369] ------------TC_02_Add_Customer_Address is STARTED ------------
+[INFO][2022-07-28 11:33:19,746] ------------TC_02_Add_Customer_Address is PASSED ------------
+[INFO][2022-07-28 11:33:19,751] OS name = windows 10
+[INFO][2022-07-28 11:33:19,751] Driver instance name = firefoxdriver: firefox on windows (fdc4e82f-be40-467f-a0b1-239d2846e1d3)
+[INFO][2022-07-28 11:33:21,027] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-28 12:13:46,250] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-28 12:14:29,147] ------------TC_01_Update_Customer_Info is STARTED ------------
+[INFO][2022-07-28 12:14:29,353] Update account information for acc email =  saundra.reichel@yahoo.com and password = kzsnvk56eptp8
+[INFO][2022-07-28 12:14:33,292] Verify info after updating
+[INFO][2022-07-28 12:14:33,734] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-07-28 12:14:33,955] ------------TC_02_Add_Customer_Address is STARTED ------------
+[INFO][2022-07-28 12:14:38,182] ------------TC_02_Add_Customer_Address is FAILED ------------
+[INFO][2022-07-28 12:14:38,308] OS name = windows 10
+[INFO][2022-07-28 12:14:38,309] Driver instance name = firefoxdriver: firefox on windows (fcdda12e-4923-4a24-a917-220d7c6873b6)
+[INFO][2022-07-28 12:14:39,575] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-28 12:15:54,217] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-28 12:16:31,199] ------------TC_01_Update_Customer_Info is STARTED ------------
+[INFO][2022-07-28 12:16:31,200] Update account information for acc email =  elva.dooley@yahoo.com and password = 9toomkcz
+[INFO][2022-07-28 12:16:35,159] Verify info after updating
+[INFO][2022-07-28 12:16:35,853] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-07-28 12:16:35,862] ------------TC_02_Add_Customer_Address is STARTED ------------
+[INFO][2022-07-28 12:17:10,893] ------------TC_02_Add_Customer_Address is FAILED ------------
+[INFO][2022-07-28 12:17:10,973] OS name = windows 10
+[INFO][2022-07-28 12:17:10,973] Driver instance name = firefoxdriver: firefox on windows (9877caca-dafc-4a2d-a29e-933e5ea43b81)
+[INFO][2022-07-28 12:17:12,409] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-28 14:20:45,856] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-28 14:21:21,867] ------------TC_01_Update_Customer_Info is STARTED ------------
+[INFO][2022-07-28 14:21:21,868] Update account information for acc email =  mildred.parker@hotmail.com and password = eq5voeysib8
+[INFO][2022-07-28 14:21:25,326] Verify info after updating
+[INFO][2022-07-28 14:21:26,040] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-07-28 14:21:26,046] ------------TC_02_Add_Customer_Address is STARTED ------------
+[INFO][2022-07-28 14:21:30,762] ------------TC_02_Add_Customer_Address is PASSED ------------
+[INFO][2022-07-28 14:21:30,764] OS name = windows 10
+[INFO][2022-07-28 14:21:30,764] Driver instance name = firefoxdriver: firefox on windows (2da0ba39-983d-45af-b91c-4209b16690b4)
+[INFO][2022-07-28 14:21:32,022] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-28 21:19:50,483] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-28 21:20:32,715] ------------TC_02_Add_Customer_Address is STARTED ------------
+[INFO][2022-07-28 21:20:38,184] ------------TC_02_Add_Customer_Address is PASSED ------------
+[INFO][2022-07-28 21:20:38,191] ------------TC_03_Change_Password is STARTED ------------
+[INFO][2022-07-28 21:21:08,792] ------------TC_03_Change_Password is FAILED ------------
+[INFO][2022-07-28 21:21:08,876] OS name = windows 10
+[INFO][2022-07-28 21:21:08,876] Driver instance name = firefoxdriver: firefox on windows (8cad0fbd-83db-4e76-8d6e-97960f9246aa)
+[INFO][2022-07-28 21:21:10,219] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-28 21:22:25,999] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-28 21:23:03,412] ------------TC_01_Update_Customer_Info is STARTED ------------
+[INFO][2022-07-28 21:23:03,412] Update account information for acc email =  aurelio.conroy@yahoo.com and password = n0zm62r0y5cb
+[INFO][2022-07-28 21:23:07,146] Verify info after updating
+[INFO][2022-07-28 21:23:07,782] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-07-28 21:23:07,789] ------------TC_02_Add_Customer_Address is STARTED ------------
+[INFO][2022-07-28 21:23:12,497] ------------TC_02_Add_Customer_Address is PASSED ------------
+[INFO][2022-07-28 21:23:12,504] ------------TC_03_Change_Password is STARTED ------------
+[INFO][2022-07-28 21:23:44,029] ------------TC_03_Change_Password is FAILED ------------
+[INFO][2022-07-28 21:23:44,113] OS name = windows 10
+[INFO][2022-07-28 21:23:44,113] Driver instance name = firefoxdriver: firefox on windows (2eefe798-77a8-466f-ab80-7acaca3f78ea)
+[INFO][2022-07-28 21:23:45,493] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-28 23:31:38,296] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-28 23:32:15,004] ------------TC_01_Update_Customer_Info is STARTED ------------
+[INFO][2022-07-28 23:32:15,004] Update account information for acc email =  kelley.hyatt@hotmail.com and password = 95qcp0zpx67tus
+[INFO][2022-07-28 23:32:19,087] Verify info after updating
+[INFO][2022-07-28 23:32:19,789] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-07-28 23:32:19,798] ------------TC_02_Add_Customer_Address is STARTED ------------
+[INFO][2022-07-28 23:32:24,532] ------------TC_02_Add_Customer_Address is PASSED ------------
+[INFO][2022-07-28 23:32:24,542] ------------TC_03_Change_Password is STARTED ------------
+[INFO][2022-07-28 23:32:26,130] ------------TC_03_Change_Password is FAILED ------------
+[INFO][2022-07-28 23:32:26,243] ------------TC_04_View_Product_Review is STARTED ------------
+[INFO][2022-07-28 23:32:56,279] ------------TC_04_View_Product_Review is FAILED ------------
+[INFO][2022-07-28 23:32:56,337] OS name = windows 10
+[INFO][2022-07-28 23:32:56,338] Driver instance name = firefoxdriver: firefox on windows (6275389d-43cf-46fc-b0de-1e1303cc7a4f)
+[INFO][2022-07-28 23:32:57,787] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-28 23:36:10,236] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-28 23:36:47,069] ------------TC_01_Update_Customer_Info is STARTED ------------
+[INFO][2022-07-28 23:36:47,236] Update account information for acc email =  gus.zboncak@yahoo.com and password = tg46f6h092k
+[INFO][2022-07-28 23:36:51,275] Verify info after updating
+[INFO][2022-07-28 23:36:51,715] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-07-28 23:36:51,926] ------------TC_02_Add_Customer_Address is STARTED ------------
+[INFO][2022-07-28 23:36:56,612] ------------TC_02_Add_Customer_Address is PASSED ------------
+[INFO][2022-07-28 23:36:56,624] ------------TC_03_Change_Password is STARTED ------------
+[INFO][2022-07-28 23:37:28,642] ------------TC_03_Change_Password is FAILED ------------
+[INFO][2022-07-28 23:37:28,732] ------------TC_04_View_Product_Review is STARTED ------------
+[INFO][2022-07-28 23:37:58,752] ------------TC_04_View_Product_Review is FAILED ------------
+[INFO][2022-07-28 23:37:58,802] OS name = windows 10
+[INFO][2022-07-28 23:37:58,803] Driver instance name = firefoxdriver: firefox on windows (1d9a5d9e-fbca-4c5c-bd73-350570fc66b3)
+[INFO][2022-07-28 23:38:00,298] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-28 23:42:51,847] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-28 23:43:28,240] ------------TC_01_Update_Customer_Info is STARTED ------------
+[INFO][2022-07-28 23:43:28,241] Update account information for acc email =  terisa.fahey@yahoo.com and password = xr74c2oa
+[INFO][2022-07-28 23:43:32,496] Verify info after updating
+[INFO][2022-07-28 23:43:33,260] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-07-28 23:43:33,267] ------------TC_03_Change_Password is STARTED ------------
+[INFO][2022-07-28 23:44:05,415] ------------TC_03_Change_Password is FAILED ------------
+[INFO][2022-07-28 23:44:05,494] ------------TC_04_View_Product_Review is STARTED ------------
+[INFO][2022-07-28 23:44:35,530] ------------TC_04_View_Product_Review is FAILED ------------
+[INFO][2022-07-28 23:44:35,594] OS name = windows 10
+[INFO][2022-07-28 23:44:35,594] Driver instance name = firefoxdriver: firefox on windows (0640007d-84e5-4108-8a23-eb5ab171feff)
+[INFO][2022-07-28 23:44:36,740] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-28 23:47:06,703] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-28 23:47:42,649] ------------TC_01_Update_Customer_Info is STARTED ------------
+[INFO][2022-07-28 23:47:42,649] Update account information for acc email =  hai.metz@gmail.com and password = uxnpom83qx9tpq
+[INFO][2022-07-28 23:47:45,996] Verify info after updating
+[INFO][2022-07-28 23:47:46,664] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-07-28 23:47:46,669] ------------TC_03_Change_Password is STARTED ------------
+[INFO][2022-07-28 23:48:19,215] ------------TC_03_Change_Password is FAILED ------------
+[INFO][2022-07-28 23:48:19,415] ------------TC_04_View_Product_Review is STARTED ------------
+[INFO][2022-07-28 23:48:49,675] ------------TC_04_View_Product_Review is FAILED ------------
+[INFO][2022-07-28 23:48:49,912] OS name = windows 10
+[INFO][2022-07-28 23:48:49,914] Driver instance name = firefoxdriver: firefox on windows (eeeb1f62-4235-48b9-92fd-df3426b9b397)
+[INFO][2022-07-28 23:48:51,282] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-28 23:56:32,037] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-28 23:57:09,392] ------------TC_01_Update_Customer_Info is STARTED ------------
+[INFO][2022-07-28 23:57:09,393] Update account information for acc email =  michale.tremblay@yahoo.com and password = 6l10a61yh057o9t
+[INFO][2022-07-28 23:57:12,893] Verify info after updating
+[INFO][2022-07-28 23:57:13,631] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-07-28 23:57:13,638] ------------TC_03_Change_Password is STARTED ------------
+[INFO][2022-07-28 23:57:48,318] ------------TC_03_Change_Password is FAILED ------------
+[INFO][2022-07-28 23:57:48,479] ------------TC_04_View_Product_Review is STARTED ------------
+[INFO][2022-07-28 23:57:51,623] ------------TC_04_View_Product_Review is FAILED ------------
+[INFO][2022-07-28 23:57:51,684] OS name = windows 10
+[INFO][2022-07-28 23:57:51,685] Driver instance name = firefoxdriver: firefox on windows (21ae58e6-67b4-4ea2-b80e-c79344f52d03)
+[INFO][2022-07-28 23:57:53,060] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-29 00:00:16,780] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-29 00:00:52,279] ------------TC_01_Update_Customer_Info is STARTED ------------
+[INFO][2022-07-29 00:00:52,280] Update account information for acc email =  josefine.stiedemann@hotmail.com and password = l0bdhtq6k013
+[INFO][2022-07-29 00:00:56,340] Verify info after updating
+[INFO][2022-07-29 00:00:57,013] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-07-29 00:00:57,025] ------------TC_03_Change_Password is STARTED ------------
+[INFO][2022-07-29 00:01:32,179] ------------TC_03_Change_Password is FAILED ------------
+[INFO][2022-07-29 00:01:32,399] ------------TC_04_View_Product_Review is STARTED ------------
+[INFO][2022-07-29 00:02:07,485] ------------TC_04_View_Product_Review is FAILED ------------
+[INFO][2022-07-29 00:02:07,556] OS name = windows 10
+[INFO][2022-07-29 00:02:07,556] Driver instance name = firefoxdriver: firefox on windows (d02c5045-bdf4-4caa-950f-5a5431f3c80c)
+[INFO][2022-07-29 00:02:09,075] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-29 00:02:33,303] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-29 00:03:04,607] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-29 00:03:40,815] ------------TC_03_Change_Password is STARTED ------------
+[INFO][2022-07-29 00:04:16,758] ------------TC_03_Change_Password is FAILED ------------
+[INFO][2022-07-29 00:04:17,102] ------------TC_04_View_Product_Review is STARTED ------------
+[INFO][2022-07-29 00:04:22,074] ------------TC_04_View_Product_Review is FAILED ------------
+[INFO][2022-07-29 00:04:22,175] OS name = windows 10
+[INFO][2022-07-29 00:04:22,175] Driver instance name = firefoxdriver: firefox on windows (b638719c-2100-4d90-b3d5-f86f8b016a49)
+[INFO][2022-07-29 00:04:23,655] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-29 00:06:00,592] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-29 00:06:37,258] ------------TC_04_View_Product_Review is STARTED ------------
+[INFO][2022-07-29 00:06:42,853] ------------TC_04_View_Product_Review is FAILED ------------
+[INFO][2022-07-29 00:06:42,965] OS name = windows 10
+[INFO][2022-07-29 00:06:42,965] Driver instance name = firefoxdriver: firefox on windows (dd6ec86e-ca25-461e-818c-35851f823a52)
+[INFO][2022-07-29 00:06:44,306] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-29 00:07:28,284] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-29 00:08:04,358] ------------TC_04_View_Product_Review is STARTED ------------
+[INFO][2022-07-29 00:08:10,540] ------------TC_04_View_Product_Review is FAILED ------------
+[INFO][2022-07-29 00:08:10,659] OS name = windows 10
+[INFO][2022-07-29 00:08:10,660] Driver instance name = firefoxdriver: firefox on windows (f32c7a4a-4b6e-4c5d-9eaa-ef936885d22e)
+[INFO][2022-07-29 00:08:12,378] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-29 00:09:13,397] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-29 00:09:49,924] ------------TC_04_View_Product_Review is STARTED ------------
+[INFO][2022-07-29 00:09:55,584] ------------TC_04_View_Product_Review is FAILED ------------
+[INFO][2022-07-29 00:09:55,875] OS name = windows 10
+[INFO][2022-07-29 00:09:55,876] Driver instance name = firefoxdriver: firefox on windows (24b256fe-0b82-4f43-961d-88b2bfc5f2b2)
+[INFO][2022-07-29 00:09:57,178] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-29 00:14:23,549] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-29 00:15:12,044] ------------TC_04_View_Product_Review is STARTED ------------
+[INFO][2022-07-29 00:15:18,567] ------------TC_04_View_Product_Review is FAILED ------------
+[INFO][2022-07-29 00:15:18,666] OS name = windows 10
+[INFO][2022-07-29 00:15:18,666] Driver instance name = firefoxdriver: firefox on windows (1ea1091a-3860-4df4-a6f1-84d8a94fb682)
+[INFO][2022-07-29 00:15:19,972] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-29 00:18:53,105] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-29 00:19:35,715] ------------TC_04_View_Product_Review is STARTED ------------
+[INFO][2022-07-29 00:19:42,133] ------------TC_04_View_Product_Review is FAILED ------------
+[INFO][2022-07-29 00:19:42,238] OS name = windows 10
+[INFO][2022-07-29 00:19:42,238] Driver instance name = firefoxdriver: firefox on windows (724d99d3-27e3-423d-a994-d9b1c0df1389)
+[INFO][2022-07-29 00:19:44,217] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-29 13:13:21,187] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-29 13:14:00,678] ------------TC_04_View_Product_Review is STARTED ------------
+[INFO][2022-07-29 13:14:07,971] ------------TC_04_View_Product_Review is FAILED ------------
+[INFO][2022-07-29 13:14:08,068] OS name = windows 10
+[INFO][2022-07-29 13:14:08,068] Driver instance name = firefoxdriver: firefox on windows (5fd35513-195e-4eb8-8ca9-6eb4a41ebae8)
+[INFO][2022-07-29 13:14:09,917] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-29 13:24:40,848] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-29 13:25:18,628] ------------TC_03_Change_Password is SKIPPED ------------
+[INFO][2022-07-29 13:25:18,631] OS name = windows 10
+[INFO][2022-07-29 13:25:18,632] Driver instance name = firefoxdriver: firefox on windows (89ad3f27-8c3d-46ed-8259-ee0a9477555d)
+[INFO][2022-07-29 13:25:20,310] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-29 13:26:26,132] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-29 13:27:01,751] ------------TC_01_Update_Customer_Info is SKIPPED ------------
+[INFO][2022-07-29 13:27:01,761] ------------TC_03_Change_Password is SKIPPED ------------
+[INFO][2022-07-29 13:27:01,764] OS name = windows 10
+[INFO][2022-07-29 13:27:01,764] Driver instance name = firefoxdriver: firefox on windows (bc3ac3f5-6089-4ade-bec5-1d36583de9d6)
+[INFO][2022-07-29 13:27:03,239] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-29 13:28:03,953] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-29 13:28:40,344] ------------TC_01_Update_Customer_Info is STARTED ------------
+[INFO][2022-07-29 13:28:40,500] Update account information for acc email =  shannon.damore@gmail.com and password = jj5guxgq6xvjk
+[INFO][2022-07-29 13:28:43,983] Verify info after updating
+[INFO][2022-07-29 13:28:44,419] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-07-29 13:28:44,623] ------------TC_03_Change_Password is STARTED ------------
+[INFO][2022-07-29 13:28:50,586] ------------TC_03_Change_Password is FAILED ------------
+[INFO][2022-07-29 13:28:50,680] OS name = windows 10
+[INFO][2022-07-29 13:28:50,680] Driver instance name = firefoxdriver: firefox on windows (7d9c0a2c-3441-4b57-bd17-95ae160fc573)
+[INFO][2022-07-29 13:28:51,993] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-29 14:13:41,412] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-29 14:14:41,091] ------------TC_01_Update_Customer_Info is SKIPPED ------------
+[INFO][2022-07-29 14:14:41,114] ------------TC_03_Change_Password is SKIPPED ------------
+[INFO][2022-07-29 14:14:41,138] OS name = windows 10
+[INFO][2022-07-29 14:14:41,139] Driver instance name = firefoxdriver: firefox on windows (7ebaea45-b9fb-4bf5-80e3-ead813683be5)
+[INFO][2022-07-29 14:14:42,620] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-29 14:17:47,131] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-29 14:18:18,231] ------------TC_01_Update_Customer_Info is STARTED ------------
+[INFO][2022-07-29 14:18:18,370] Update account information for acc email =  carissa.king@yahoo.com and password = byqsjn2nvhfsgs
+[INFO][2022-07-29 14:18:21,920] Verify info after updating
+[INFO][2022-07-29 14:18:22,371] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-07-29 14:18:22,573] ------------TC_03_Change_Password is STARTED ------------
+[INFO][2022-07-29 14:18:26,746] ------------TC_03_Change_Password is FAILED ------------
+[INFO][2022-07-29 14:18:26,840] OS name = windows 10
+[INFO][2022-07-29 14:18:26,840] Driver instance name = firefoxdriver: firefox on windows (378a6e8e-2bc0-4e9f-ab70-c8e8068baf2f)
+[INFO][2022-07-29 14:18:28,123] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-29 14:20:16,065] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-29 14:20:44,887] ------------TC_01_Update_Customer_Info is STARTED ------------
+[INFO][2022-07-29 14:20:44,887] Update account information for acc email =  tatyana.hegmann@hotmail.com and password = 6eaw74m95rtvu9m
+[INFO][2022-07-29 14:20:48,903] Verify info after updating
+[INFO][2022-07-29 14:20:49,578] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-07-29 14:20:49,589] ------------TC_03_Change_Password is STARTED ------------
+[INFO][2022-07-29 14:21:26,567] ------------TC_03_Change_Password is FAILED ------------
+[INFO][2022-07-29 14:21:26,661] OS name = windows 10
+[INFO][2022-07-29 14:21:26,662] Driver instance name = firefoxdriver: firefox on windows (a6f9c839-1a40-4ee4-bf88-7c8a2caef759)
+[INFO][2022-07-29 14:21:28,092] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-29 14:32:07,679] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-29 14:32:38,165] ------------TC_01_Update_Customer_Info is STARTED ------------
+[INFO][2022-07-29 14:32:38,166] Update account information for acc email =  evelyn.gleichner@gmail.com and password = ro9wifpe
+[INFO][2022-07-29 14:32:42,944] Verify info after updating
+[INFO][2022-07-29 14:32:43,757] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-07-29 14:32:43,766] ------------TC_03_Change_Password is STARTED ------------
+[INFO][2022-07-29 14:32:51,328] ------------TC_03_Change_Password is FAILED ------------
+[INFO][2022-07-29 14:32:51,445] OS name = windows 10
+[INFO][2022-07-29 14:32:51,446] Driver instance name = firefoxdriver: firefox on windows (65dd6780-3137-4313-ab93-e5d32815e617)
+[INFO][2022-07-29 14:32:52,882] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-29 14:34:03,428] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-29 14:34:35,329] ------------TC_01_Update_Customer_Info is STARTED ------------
+[INFO][2022-07-29 14:34:35,329] Update account information for acc email =  jeanie.pfeffer@gmail.com and password = fsgdse8y
+[INFO][2022-07-29 14:34:39,538] Verify info after updating
+[INFO][2022-07-29 14:34:40,318] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-07-29 14:34:40,328] ------------TC_03_Change_Password is STARTED ------------
+[INFO][2022-07-29 14:35:17,813] ------------TC_03_Change_Password is FAILED ------------
+[INFO][2022-07-29 14:35:17,893] OS name = windows 10
+[INFO][2022-07-29 14:35:17,893] Driver instance name = firefoxdriver: firefox on windows (4aeebcf7-4704-48be-a691-adea59a1a994)
+[INFO][2022-07-29 14:35:19,538] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-29 14:36:28,314] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-29 14:36:59,028] ------------TC_01_Update_Customer_Info is STARTED ------------
+[INFO][2022-07-29 14:36:59,029] Update account information for acc email =  alfonzo.dare@gmail.com and password = 6hf8b29w06pz
+[INFO][2022-07-29 14:37:02,986] Verify info after updating
+[INFO][2022-07-29 14:37:03,759] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-07-29 14:37:03,766] ------------TC_03_Change_Password is STARTED ------------
+[INFO][2022-07-29 14:37:12,137] ------------TC_03_Change_Password is PASSED ------------
+[INFO][2022-07-29 14:37:12,140] OS name = windows 10
+[INFO][2022-07-29 14:37:12,141] Driver instance name = firefoxdriver: firefox on windows (85e5fdee-5a1b-40bf-a005-74615cfd7385)
+[INFO][2022-07-29 14:37:13,497] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-29 14:45:26,156] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-29 14:46:05,399] ------------TC_01_Update_Customer_Info is STARTED ------------
+[INFO][2022-07-29 14:46:05,399] Update account information for acc email =  alex.blanda@yahoo.com and password = 9bbi5jpvu3s
+[INFO][2022-07-29 14:46:36,678] ------------TC_01_Update_Customer_Info is FAILED ------------
+[INFO][2022-07-29 14:46:36,785] ------------TC_02_Add_Customer_Address is STARTED ------------
+[INFO][2022-07-29 14:46:43,315] ------------TC_02_Add_Customer_Address is PASSED ------------
+[INFO][2022-07-29 14:46:43,319] ------------TC_03_Change_Password is STARTED ------------
+[INFO][2022-07-29 14:46:50,681] ------------TC_03_Change_Password is FAILED ------------
+[INFO][2022-07-29 14:46:50,739] ------------TC_04_View_Product_Review is STARTED ------------
+[INFO][2022-07-29 14:47:20,784] ------------TC_04_View_Product_Review is FAILED ------------
+[INFO][2022-07-29 14:47:20,851] Change email of Precondition account back to alex.blanda@yahoo.com
+[INFO][2022-07-29 14:47:50,964] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-29 14:49:39,720] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-29 14:50:10,445] ------------TC_01_Update_Customer_Info is STARTED ------------
+[INFO][2022-07-29 14:50:10,447] Update account information for acc email =  porter.quigley@hotmail.com and password = tt0zm7b3cea7ln
+[INFO][2022-07-29 14:50:14,286] Verify info after updating
+[INFO][2022-07-29 14:50:15,018] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-07-29 14:50:15,023] ------------TC_02_Add_Customer_Address is STARTED ------------
+[INFO][2022-07-29 14:50:19,753] ------------TC_02_Add_Customer_Address is PASSED ------------
+[INFO][2022-07-29 14:50:19,759] ------------TC_03_Change_Password is STARTED ------------
+[INFO][2022-07-29 14:50:28,089] ------------TC_03_Change_Password is PASSED ------------
+[INFO][2022-07-29 14:50:28,094] ------------TC_04_View_Product_Review is STARTED ------------
+[INFO][2022-07-29 14:50:33,920] ------------TC_04_View_Product_Review is FAILED ------------
+[INFO][2022-07-29 14:50:34,001] Change email of Precondition account back to porter.quigley@hotmail.com
+[INFO][2022-07-29 14:50:35,417] Change password of Precondition account back to tt0zm7b3cea7ln
+[INFO][2022-07-29 14:50:36,890] OS name = windows 10
+[INFO][2022-07-29 14:50:36,890] Driver instance name = firefoxdriver: firefox on windows (779f0f61-41d5-4ba3-96ae-6b8ae88a5a9b)
+[INFO][2022-07-29 14:50:38,325] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-29 15:35:40,942] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-29 15:36:15,025] ------------TC_01_Search_With_Empty_Data is STARTED ------------
+[INFO][2022-07-29 15:36:15,292] ------------TC_01_Search_With_Empty_Data is FAILED ------------
+[INFO][2022-07-29 15:36:15,534] ------------TC_01_Search_With_Not_Existing_Data is STARTED ------------
+[INFO][2022-07-29 15:36:15,562] ------------TC_01_Search_With_Not_Existing_Data is FAILED ------------
+[INFO][2022-07-29 15:36:15,791] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-29 15:39:23,921] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-29 15:40:30,671] ------------TC_01_Search_With_Empty_Data is SKIPPED ------------
+[INFO][2022-07-29 15:40:30,696] ------------TC_01_Search_With_Not_Existing_Data is SKIPPED ------------
+[INFO][2022-07-29 15:40:30,777] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-29 15:41:27,275] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-29 15:42:33,268] ------------TC_01_Search_With_Empty_Data is SKIPPED ------------
+[INFO][2022-07-29 15:42:33,297] ------------TC_01_Search_With_Not_Existing_Data is SKIPPED ------------
+[INFO][2022-07-29 15:42:33,405] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-29 15:43:17,604] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-29 15:43:53,247] ------------TC_01_Search_With_Empty_Data is STARTED ------------
+[INFO][2022-07-29 15:44:23,587] ------------TC_01_Search_With_Empty_Data is FAILED ------------
+[INFO][2022-07-29 15:44:23,687] ------------TC_01_Search_With_Not_Existing_Data is STARTED ------------
+[INFO][2022-07-29 15:44:23,889] ------------TC_01_Search_With_Not_Existing_Data is FAILED ------------
+[INFO][2022-07-29 15:44:24,100] -------FINISHED TEST Run on Chrome------
+[INFO][2022-07-29 15:46:12,780] -------STARTED TEST Run on Chrome------
+[INFO][2022-07-29 15:46:50,570] ------------TC_01_Search_With_Empty_Data is STARTED ------------
+[INFO][2022-07-29 15:46:51,473] ------------TC_01_Search_With_Empty_Data is PASSED ------------
+[INFO][2022-07-29 15:46:51,748] ------------TC_01_Search_With_Not_Existing_Data is STARTED ------------
+[INFO][2022-07-29 15:46:51,879] ------------TC_01_Search_With_Not_Existing_Data is FAILED ------------
+[INFO][2022-07-29 15:46:52,036] -------FINISHED TEST Run on Chrome------

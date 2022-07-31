@@ -132,6 +132,12 @@
 			<artifactId>javafaker</artifactId>
 			<version>${faker.version}</version>
 		</dependency>
+		
+				<dependency>
+			<groupId>io.qameta.allure</groupId>
+			<artifactId>allure-testng</artifactId>
+			<version>${allure.version}</version>
+		</dependency>
 
 		<dependency>
 			<groupId>org.aspectj</groupId>
@@ -171,7 +177,7 @@
 				<configuration>
 					<!-- Run TestNG xml file -->
 					<suiteXmlFiles>
-						<suiteXmlFile>src/main/resources/runner/runNopCommerceTest.xml</suiteXmlFile>
+						<suiteXmlFile>src/main/resources/runNopCommerceTest.xml</suiteXmlFile>
 					</suiteXmlFiles>
 
 					<!-- Argument -->

@@ -13,6 +13,7 @@ import org.testng.Assert;
 import org.testng.Reporter;
 import org.testng.annotations.BeforeSuite;
 import io.github.bonigarcia.wdm.WebDriverManager;
+import utilities.DataHelper;
 
 public class BaseTest {
 	private WebDriver driver;
@@ -21,8 +22,13 @@ public class BaseTest {
 	public BaseTest() {
 		log = LogFactory.getLog(getClass());
 	}
+	
+	@BeforeSuite
+	public void initBeforeSuite() {
+		//deleteAllureReportFilesinFolder();
+	}
 
-	protected WebDriver getBrowserName(String browserName) {
+	protected WebDriver getBrowserDriver(String browserName) {
 		BrowserListEnum browserList = BrowserListEnum.valueOf(browserName.toUpperCase());
 		switch (browserList) {
 		case FIREFOX:
@@ -120,6 +126,21 @@ public class BaseTest {
 			} catch (InterruptedException e) {
 				e.printStackTrace();
 			}
+		}
+	}
+	
+	public void deleteAllureReportFilesinFolder() {
+		try {
+			String pathFolderDownload = GlobalConstants.ALLURE_REPORTING_PATH;
+			File file = new File(pathFolderDownload);
+			File[] listOfFiles = file.listFiles();
+			for (int i = 0; i < listOfFiles.length; i++) {
+				if (listOfFiles[i].isFile()) {
+					new File(listOfFiles[i].toString()).delete();
+				}
+			}
+		} catch (Exception e) {
+			System.out.print(e.getMessage());
 		}
 	}
 

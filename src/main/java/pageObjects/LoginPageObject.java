@@ -13,13 +13,17 @@ public class LoginPageObject extends BasePage {
 		super(driver);
 		this.driver = driver;
 	}
-	@Step ("Input to email textbox with value is {0}")
+
+	@Step("Input to email = {0}")
 	public void inputToEmailAddress(String emailAddress) {
+		waitForElementVisible(LoginPageUI.EMAIL_TXTBOX);
 		sendKeyToElement(LoginPageUI.EMAIL_TXTBOX, emailAddress);
 		
 	}
-	@Step ("Input to password textbox with value is {0}")
+
+	@Step ("Input to pasword = {0}")
 	public void inputToPassword(String password) {
+		waitForElementVisible(LoginPageUI.PASSWORD_TXTBOX);
 		sendKeyToElement(LoginPageUI.PASSWORD_TXTBOX, password);
 		
 	}
@@ -30,12 +34,14 @@ public class LoginPageObject extends BasePage {
 		return PageGeneratorManager.getUserHomePage(driver);
 	}
 		
-	@Step ("Get Email error message to verify")
+	@Step ("Get email error message text to verify")
 	public String getEmailErrorMessage() {
 		waitForElementVisible(LoginPageUI.EMAIL_ERROR_MSG);
 		return getElementText(LoginPageUI.EMAIL_ERROR_MSG);
 		
 	}
+	
+	@Step ("Get credentials error message text to verify")
 	public String getCredentialErrorMessage() {
 		waitForElementVisible(LoginPageUI.CREDENTIAL_ERROR_MSG);
 		return getElementText(LoginPageUI.CREDENTIAL_ERROR_MSG);

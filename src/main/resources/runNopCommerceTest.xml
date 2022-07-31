@@ -2,16 +2,19 @@
 <suite parallel="false" name="NopCommerce">
 
 	<listeners> 
-	<listener class-name="utilities.ExtentTestListener"/>
+	<listener class-name = 'utilities.AllureTestListener'/>
+
 	</listeners>
-	<test name="Run on Firefox">
+	<test name="Run on Chrome">
 		<parameter name="browser" value="firefox" />
 		<classes>
-			<class name="com.nopcommerce.user.Register" />
+		
+			<class name="com.nopcommerce.precondition.Precondition" />
+			<class name="com.nopcommerce.user.Search" />
 		</classes>
 	</test> <!-- Test -->
 
 
-
+  
 </suite> <!-- Suite -->
 
