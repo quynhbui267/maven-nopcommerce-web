@@ -37,7 +37,7 @@ public class Search extends BaseTest {
 	}
 
 	@Test(description = "Verify error msg will shown when leave search text blank")
-	public void TC_01_Search_With_Not_Existing_Data() {
+	public void TC_02_Search_With_Not_Existing_Data() {
 		searchPage.inputSearchText(notExistingSearchText);
 		searchPage.clickSearchBtn();
 		Assert.assertEquals(searchPage.getNoResultMessage(), "No products were found that matched your criteria.");
