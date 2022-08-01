@@ -25,7 +25,7 @@ public class BaseTest {
 	
 	@BeforeSuite
 	public void initBeforeSuite() {
-		//deleteAllureReportFilesinFolder();
+		deleteAllureReportFilesinFolder();
 	}
 
 	protected WebDriver getBrowserDriver(String browserName) {
