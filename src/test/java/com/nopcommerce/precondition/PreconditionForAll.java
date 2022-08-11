@@ -1,7 +1,5 @@
 package com.nopcommerce.precondition;
 
-import java.util.Set;
-import org.openqa.selenium.Cookie;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Parameters;
@@ -11,12 +9,13 @@ import pageObjects.HomePageObject;
 import pageObjects.LoginPageObject;
 import pageObjects.RegisterPageObject;
 import utilities.DataHelper;
+import static utilities.TestLogger.info;
 
-public class Precondition extends BaseTest {
+public class PreconditionForAll extends BaseTest {
 
 	@Parameters("browser")
 	@BeforeTest (description = "Register new account and using for all test cases in Test suite")
-	public void beforeTest(String browerName) {
+	public void beforeTestAll(String browerName) {
 		driver = getBrowserDriver(browerName);
 		homePage = PageGeneratorManager.getUserHomePage(driver);
 		firstName = dataHelper.getFirstName();
@@ -24,11 +23,12 @@ public class Precondition extends BaseTest {
 		email = dataHelper.getEmail();
 		password = dataHelper.getPassword();
 		company = dataHelper.getFirstName();
-		day = "27";
+		day = dataHelper.getDay();
 		month = "July";
-		year = "1991";
-		log.info("Register new account with email = " + email+ " and password = " + password);
-		registerPage = homePage.clickRegisterLink();
+		year = dataHelper.getYear();
+		info("Register new account with email = " + email+ " and password = " + password);
+		registerPage = PageGeneratorManager.getRegisterPage(driver);
+		homePage.clickRegisterLink();
 		registerPage.inputRegisterField(firstName, "FirstName");
 		registerPage.inputRegisterField(lastName, "LastName");
 		registerPage.inputRegisterField(email, "Email");
@@ -41,12 +41,6 @@ public class Precondition extends BaseTest {
 		registerPage.inputRegisterField(password, "ConfirmPassword");
 		registerPage.clickToRegisterButton();
 		homePage.clickLogoutLink();
-		log.info("Login with new account and get cookies");
-		loginPage = homePage.clickToLoginLink();
-		loginPage.inputToEmailAddress(email);
-		loginPage.inputToPassword(password);
-		homePage = loginPage.clickToLoginBtn();
-		cookies = homePage.getAllCookie(driver);
 		driver.quit();
 	}
 
@@ -55,7 +49,6 @@ public class Precondition extends BaseTest {
 	LoginPageObject loginPage;
 	RegisterPageObject registerPage;
 	DataHelper dataHelper = DataHelper.getDataHelper();
-	public static String firstName, lastName, day, month, year, company;
-	public static String email, password;
-	public static Set<Cookie> cookies;
+	public static String firstName, lastName, day, month, year, company, email, password;
+	
 }

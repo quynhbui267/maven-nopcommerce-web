@@ -1,6 +1,23 @@
-[INFO][2022-07-31 15:57:32,927] -------STARTED TEST Run on Chrome------
-[INFO][2022-07-31 15:58:15,078] ------------TC_01_Search_With_Empty_Data is STARTED ------------
-[INFO][2022-07-31 15:58:15,985] ------------TC_01_Search_With_Empty_Data is PASSED ------------
-[INFO][2022-07-31 15:58:15,990] ------------TC_01_Search_With_Not_Existing_Data is STARTED ------------
-[INFO][2022-07-31 15:58:16,813] ------------TC_01_Search_With_Not_Existing_Data is PASSED ------------
-[INFO][2022-07-31 15:58:16,867] -------FINISHED TEST Run on Chrome------
+[DEBUG][2022-08-11 11:17:22,389] Before invocation of initBeforeSuite
+[DEBUG][2022-08-11 11:17:22,437] After invocation of initBeforeSuite
+[INFO][2022-08-11 11:17:22,450] -------STARTED TEST Run on Firefox------
+[DEBUG][2022-08-11 11:17:22,476] Before invocation of beforeTestAll
+[INFO][2022-08-11 11:17:31,058] Please add parameter in Maven command line
+[INFO][2022-08-11 11:17:35,107] Register new account with email = jena.howell@yahoo.com and password = 0dk2knh2rp
+[DEBUG][2022-08-11 11:17:43,492] After invocation of beforeTestAll
+[DEBUG][2022-08-11 11:17:43,492] Before invocation of beforeTestUpdateAccount
+[INFO][2022-08-11 11:17:47,499] Please add parameter in Maven command line
+[INFO][2022-08-11 11:17:49,542] Register new account with email = rey.cummings@hotmail.com and password = lw9rv4056agyk
+[DEBUG][2022-08-11 11:17:56,854] After invocation of beforeTestUpdateAccount
+[DEBUG][2022-08-11 11:17:56,904] Before invocation of beforeClass
+[INFO][2022-08-11 11:18:00,814] Please add parameter in Maven command line
+[DEBUG][2022-08-11 11:18:05,833] After invocation of beforeClass
+[INFO][2022-08-11 11:18:05,864] ------------TC_04_View_Product_Review is STARTED ------------
+[DEBUG][2022-08-11 11:18:05,996] Before invocation of TC_04_View_Product_Review
+[DEBUG][2022-08-11 11:18:10,943] After invocation of TC_04_View_Product_Review
+[INFO][2022-08-11 11:18:10,947] ------------TC_04_View_Product_Review is FAILED ------------
+[DEBUG][2022-08-11 11:18:11,472] Before invocation of afterClass
+[INFO][2022-08-11 11:18:11,476] OS name = windows 10
+[INFO][2022-08-11 11:18:11,476] Driver instance name = firefoxdriver: firefox on windows (43744b9b-6eba-48dd-976a-d0246ed7d1eb)
+[DEBUG][2022-08-11 11:18:12,916] After invocation of afterClass
+[INFO][2022-08-11 11:18:12,955] -------FINISHED TEST Run on Firefox------

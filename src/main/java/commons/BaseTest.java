@@ -2,27 +2,30 @@ package commons;
 
 import java.io.File;
 import java.io.IOException;
+import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Random;
 import java.util.concurrent.TimeUnit;
-import org.apache.commons.logging.Log;
-import org.apache.commons.logging.LogFactory;
+import org.aeonbits.owner.ConfigFactory;
+import org.apache.commons.io.FileUtils;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.Assert;
+import org.testng.IInvokedMethod;
+import org.testng.ITestResult;
 import org.testng.Reporter;
 import org.testng.annotations.BeforeSuite;
 import io.github.bonigarcia.wdm.WebDriverManager;
-import utilities.DataHelper;
+import io.qameta.allure.Attachment;
+import utilities.VerificationFailures;
+import static utilities.TestLogger.*;
 
 public class BaseTest {
 	private WebDriver driver;
-	protected final Log log;
+	Environment env;
 
-	public BaseTest() {
-		log = LogFactory.getLog(getClass());
-	}
-	
 	@BeforeSuite
 	public void initBeforeSuite() {
 		deleteAllureReportFilesinFolder();
@@ -50,15 +53,80 @@ public class BaseTest {
 		default:
 			throw new RuntimeException("Browser name is not valid");
 		}
-		driver.get(GlobalConstants.DEV_USER_URL);
+		// Get environment value from Maven command line
+		String environmentName = System.getProperty("ENV");
+		if (environmentName != null) {
+			// Set value from Maven command line to variable in Environment Interface
+			ConfigFactory.setProperty("envProperties", environmentName);
+		} else {
+			info("Please add parameter in Maven command line");
+		}
+		// Create instance of Environment interface
+		env = ConfigFactory.create(Environment.class);
+		driver.get("https://demo.nopcommerce.com/");
 		driver.manage().timeouts().implicitlyWait(GlobalConstants.LONG_TIMEOUT, TimeUnit.SECONDS);
 		return driver;
 	}
 
 	public WebDriver getDriverInstance() {
+		System.out.println(this.driver);
 		return this.driver;
 	}
 
+	// Custom Hart Assert
+		public boolean verifyEquals(String actual, String expected) {
+			boolean status = true;
+			try {
+				Assert.assertEquals(actual, expected);
+				info("-----------PASSED----------");
+				// Throwable thì chạy xong hết mới dừng, còn Exception thì sẽ dừng luôn
+			} catch (Throwable e) {
+				info("-----------FAILED----------");
+				status = false;
+				saveScreenshotPNG(driver);
+				VerificationFailures.getFailures().addFailureForTest(Reporter.getCurrentTestResult(), e);
+				Reporter.getCurrentTestResult().setThrowable(e);
+
+			}
+			return status;
+		}
+
+		public boolean verifyTrue(boolean condition) {
+			boolean status = true;
+			try {
+				Assert.assertTrue(condition);
+				info("-----------PASSED----------");
+			} catch (Throwable e) {
+				info("-----------FAILED----------");
+				status = false;
+				saveScreenshotPNG(driver);
+				VerificationFailures.getFailures().addFailureForTest(Reporter.getCurrentTestResult(), e);
+				Reporter.getCurrentTestResult().setThrowable(e);
+			}
+			return status;
+		}
+
+		public boolean verifyFalse(boolean condition) {
+			boolean status = true;
+			try {
+				Assert.assertFalse(condition);
+				info("-----------PASSED----------");
+			} catch (Throwable e) {
+				info("-----------FAILED----------");
+				status = false;
+				saveScreenshotPNG(driver);
+				VerificationFailures.getFailures().addFailureForTest(Reporter.getCurrentTestResult(), e);
+				Reporter.getCurrentTestResult().setThrowable(e);
+			}
+			return status;
+		}
+		
+		// Screenshot attachments for Allure
+		@Attachment(value = "Screenshot of failed test", type = "image/png")
+		public static byte[] saveScreenshotPNG(WebDriver driver) {
+			return (byte[]) ((TakesScreenshot) driver).getScreenshotAs(OutputType.BYTES);
+		}
+	
 	public static int getRandomNumber(int maxValue) {
 		Random rd = new Random();
 		return rd.nextInt(maxValue);
@@ -72,10 +140,10 @@ public class BaseTest {
 		String cmd = "";
 		try {
 			String osName = System.getProperty("os.name").toLowerCase();
-			log.info("OS name = " + osName);
+			info("OS name = " + osName);
 
 			String driverInstanceName = driver.toString().toLowerCase();
-			log.info("Driver instance name = " + driverInstanceName);
+			info("Driver instance name = " + driverInstanceName);
 
 			if (driverInstanceName.contains("chrome")) {
 				if (osName.contains("window")) {
@@ -116,7 +184,7 @@ public class BaseTest {
 				driver.quit();
 			}
 		} catch (Exception e) {
-			log.info(e.getMessage());
+			info(e.getMessage());
 		} finally {
 			try {
 				Process process = Runtime.getRuntime().exec(cmd);
@@ -128,7 +196,7 @@ public class BaseTest {
 			}
 		}
 	}
-	
+
 	public void deleteAllureReportFilesinFolder() {
 		try {
 			String pathFolderDownload = GlobalConstants.ALLURE_REPORTING_PATH;

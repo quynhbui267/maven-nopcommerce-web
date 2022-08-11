@@ -1,10 +1,31 @@
-1659257879787	geckodriver	INFO	Listening on 127.0.0.1:5964
-1659257880261	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Quynh\\AppData\\Local\\Temp\\rust_mozprofile0TunZ3"
-1659257881087	Marionette	INFO	Marionette enabled
-1659257881098	Marionette	INFO	Listening on port 52086
-Read port: 52086
-1659257881400	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Quynh\\AppData\\Local\\Temp\\rust_mozprofile0TunZ3\\search.json.mozlz4", (void 0)))
+1660191477003	geckodriver	INFO	Listening on 127.0.0.1:18117
+1660191477489	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Quynh\\AppData\\Local\\Temp\\rust_mozprofileIKS6dw"
+1660191478081	Marionette	INFO	Marionette enabled
+1660191478088	Marionette	INFO	Listening on port 56565
+Read port: 56565
+1660191478573	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Quynh\\AppData\\Local\\Temp\\rust_mozprofileIKS6dw\\search.json.mozlz4", (void 0)))
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.nopcommerce.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://JdaevmaoS.cnroippcto memrerror:ce.com"
+ resource://gre/modules/LoginMaconsole.warn: LoginRencaigpeersP: "getRecipes: fallinagr ebnatc.kj stmo,  al isnyen c1h36: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+ronous message for:" "https://demo.nopcommerce.com"
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.nopcommerce.com"
-1659257897120	Marionette	INFO	Stopped listening on port 52086
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back tJo a synchronous message for:" "https://demo.nopcommerce.com"
+avaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: faJlling baacvka Stcor iap synchronous mests aegrer ofro:r :r"e s"ohutrtcpes::////gdreem/om.ondouplceosm/mLeorgcien.Mcaonma"ge
+rParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes:J avfaaSlclriinpgt  bearcrko rt:o  rae ssoyunrcche:r/o/ngorues/ mmoedsuslaegse/ Lfoogri:n"M a"nhatgteprsP:a/r/ednetm.oj.snmo, line 136: TpycopmemEerrrcoer.:c ogmR"ec
+ipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous mesJsaavgaeS cfroirp:"t  "ehrtrtorp:s :r/e/dseomuorc.en:o/p/cgormem/ermcoed.ucloems"/L
+oginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660191491518	Marionette	INFO	Stopped listening on port 56565

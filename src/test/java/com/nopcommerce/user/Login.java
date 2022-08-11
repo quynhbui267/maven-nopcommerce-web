@@ -6,7 +6,7 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
-import com.nopcommerce.precondition.Precondition;
+import com.nopcommerce.precondition.PreconditionForAll;
 import commons.BaseTest;
 import commons.PageGeneratorManager;
 import pageObjects.HomePageObject;
@@ -19,22 +19,28 @@ public class Login extends BaseTest {
 	LoginPageObject loginPage;
 	HomePageObject homePage;
 	String invalidEmail, notRegisteredEmail, wrongPassword;
+	String emptyEmailMsg, invalidEmailMsg, notRegisterEmailMsg, wrongPassMsg;
 
 	@Parameters("browser")
 	@BeforeClass
 	public void beforeClass(String browerName) {
 		driver = getBrowserDriver(browerName);
 		homePage = PageGeneratorManager.getUserHomePage(driver);
-		loginPage = homePage.clickToLoginLink();
+		loginPage = PageGeneratorManager.getUserLoginPage(driver);
+		homePage.clickToLoginLink();
 		invalidEmail = "abc123.com";
 		notRegisteredEmail = dataHelper.getEmail();
 		wrongPassword = dataHelper.getPassword();
+		emptyEmailMsg = "Please enter your email";
+		invalidEmailMsg = "Wrong email";
+		notRegisterEmailMsg = "Login was unsuccessful. Please correct the errors and try again.\n" + "No customer account found";
+		wrongPassMsg = "Login was unsuccessful. Please correct the errors and try again.\n" + "The credentials provided are incorrect";
 	}
 
 	@Test
 	public void TC_01_Login_With_Empty_Data() {
 		loginPage.clickToLoginBtn();
-		Assert.assertEquals(loginPage.getEmailErrorMessage(), "Please enter your email");
+		Assert.assertEquals(loginPage.getEmailErrorMessage(), emptyEmailMsg);
 	}
 
 	@Test
@@ -42,42 +48,42 @@ public class Login extends BaseTest {
 		homePage.clickToLoginLink();
 		loginPage.inputToEmailAddress(invalidEmail);
 		loginPage.clickToLoginBtn();
-		Assert.assertEquals(loginPage.getEmailErrorMessage(), "Wrong email");
+		verifyEquals(loginPage.getEmailErrorMessage(), invalidEmailMsg);
 	}
 
 	@Test
 	public void TC_03_Login_With_Not_Registerd_Email() {
 		homePage.clickToLoginLink();
 		loginPage.inputToEmailAddress(notRegisteredEmail);
-		loginPage.inputToPassword(Precondition.password);
+		loginPage.inputToPassword(PreconditionForAll.password);
 		loginPage.clickToLoginBtn();
-		Assert.assertEquals(loginPage.getCredentialErrorMessage(), "Login was unsuccessful. Please correct the errors and try again.\n" + "No customer account found");
+		verifyEquals(loginPage.getCredentialErrorMessage(), notRegisterEmailMsg);
 	}
 
 	@Test
 	public void TC_4_Login_With_Empty_Password() {
 		homePage.clickToLoginLink();
-		loginPage.inputToEmailAddress(Precondition.email);
+		loginPage.inputToEmailAddress(PreconditionForAll.email);
 		loginPage.clickToLoginBtn();
-		Assert.assertEquals(loginPage.getCredentialErrorMessage(), "Login was unsuccessful. Please correct the errors and try again.\n" + "The credentials provided are incorrect");
+		verifyEquals(loginPage.getCredentialErrorMessage(), wrongPassMsg);
 	}
 
 	@Test
 	public void TC_5_Login_With_Wrong_Password() {
 		homePage.clickToLoginLink();
-		loginPage.inputToEmailAddress(Precondition.email);
+		loginPage.inputToEmailAddress(PreconditionForAll.email);
 		loginPage.inputToPassword(wrongPassword);
 		loginPage.clickToLoginBtn();
-		Assert.assertEquals(loginPage.getCredentialErrorMessage(), "Login was unsuccessful. Please correct the errors and try again.\n" + "The credentials provided are incorrect");
+		verifyEquals(loginPage.getCredentialErrorMessage(), wrongPassMsg);
 	}
 
 	@Test
 	public void TC_6_Login_With_Valid_Credential() {
 		homePage.clickToLoginLink();
-		loginPage.inputToEmailAddress(Precondition.email);
-		loginPage.inputToPassword(Precondition.password);
+		loginPage.inputToEmailAddress(PreconditionForAll.email);
+		loginPage.inputToPassword(PreconditionForAll.password);
 		loginPage.clickToLoginBtn();
-		homePage.isMyAccountLinkDisplayed();
+		verifyTrue(homePage.isMyAccountLinkDisplayed());
 	}
 
 	@AfterClass(alwaysRun = true)

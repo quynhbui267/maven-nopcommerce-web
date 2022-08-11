@@ -51,9 +51,10 @@ public class RegisterPageObject extends BasePage {
 
 	}
 	@Step("Select gender = {0}")
-	public void selectGender(String gender) {
-		waitForElementVisible(RegisterPageUI.GENDER_RADIOBTN, gender);
-		checkToCheckboxRadio(RegisterPageUI.GENDER_RADIOBTN, gender);
+	public void selectFemaleGender() {
+		waitForElementVisible(RegisterPageUI.FEMALE_GENDER_RADIOBTN);
+		checkToCheckboxRadio(RegisterPageUI.FEMALE_GENDER_RADIOBTN);
 		
 	}
+
 }

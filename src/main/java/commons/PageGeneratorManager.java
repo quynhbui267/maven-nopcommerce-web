@@ -21,7 +21,7 @@ public class PageGeneratorManager extends BasePage{
 		super(driver);
 	}
 
-	public static SidebarMyAccountPageObject getMyAccountPage(WebDriver driver) {
+	public static SidebarMyAccountPageObject getSideBarMyAccountPage(WebDriver driver) {
 		return new SidebarMyAccountPageObject(driver);
 	}
 	

@@ -1,13 +1,9 @@
 package com.nopcommerce.user;
 
 import org.openqa.selenium.WebDriver;
-import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
-
-import com.nopcommerce.precondition.Precondition;
-
 import commons.BaseTest;
 import commons.PageGeneratorManager;
 import pageObjects.HomePageObject;
@@ -26,20 +22,20 @@ public class Search extends BaseTest {
 	public void beforeClass(String browerName) {
 		driver = getBrowserDriver(browerName);
 		homePage = PageGeneratorManager.getUserHomePage(driver);
-		homePage.addCookies(Precondition.cookies);
-		searchPage = homePage.clickFooterLink("Search");
+		searchPage= PageGeneratorManager.getSearchPage(driver);
+		homePage.clickFooterLink("Search");
 	}
 
 	@Test(description = "Verify error msg will shown when leave search text blank")
 	public void TC_01_Search_With_Empty_Data() {
 		searchPage.clickSearchBtn();
-		Assert.assertEquals(searchPage.getSearchErrorMessage(), "Search term minimum length is 3 characters");
+		verifyEquals(searchPage.getSearchErrorMessage(), "Search term minimum length is 3 characters");
 	}
 
 	@Test(description = "Verify error msg will shown when leave search text blank")
 	public void TC_02_Search_With_Not_Existing_Data() {
 		searchPage.inputSearchText(notExistingSearchText);
 		searchPage.clickSearchBtn();
-		Assert.assertEquals(searchPage.getNoResultMessage(), "No products were found that matched your criteria.");
+		verifyEquals(searchPage.getNoResultMessage(), "No products were found that matched your criteria.");
 	}
 }

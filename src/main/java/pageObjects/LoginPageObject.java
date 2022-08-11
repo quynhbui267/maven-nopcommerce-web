@@ -2,7 +2,6 @@ package pageObjects;
 
 import org.openqa.selenium.WebDriver;
 import commons.BasePage;
-import commons.PageGeneratorManager;
 import io.qameta.allure.Step;
 import pageUIs.LoginPageUI;
 
@@ -28,23 +27,30 @@ public class LoginPageObject extends BasePage {
 		
 	}
 	@Step ("Click to Login button")
-	public HomePageObject clickToLoginBtn() {
+	public void clickToLoginBtn() {
 		waitForElementClickable(LoginPageUI.LOGIN_BTN);
 		clickToElement(LoginPageUI.LOGIN_BTN);
-		return PageGeneratorManager.getUserHomePage(driver);
+	}
+	
+	@Step ("Login with username = {0} and password = {1}")
+	public void loginToApp(String email, String password) {
+		inputToEmailAddress(email);
+		inputToPassword(password);
+		clickToLoginBtn();
 	}
 		
 	@Step ("Get email error message text to verify")
 	public String getEmailErrorMessage() {
 		waitForElementVisible(LoginPageUI.EMAIL_ERROR_MSG);
 		return getElementText(LoginPageUI.EMAIL_ERROR_MSG);
-		
+
 	}
 	
 	@Step ("Get credentials error message text to verify")
 	public String getCredentialErrorMessage() {
 		waitForElementVisible(LoginPageUI.CREDENTIAL_ERROR_MSG);
 		return getElementText(LoginPageUI.CREDENTIAL_ERROR_MSG);
+		
 	}
 	
 

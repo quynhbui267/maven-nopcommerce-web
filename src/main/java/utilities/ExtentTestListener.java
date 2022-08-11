@@ -1,5 +1,11 @@
 package utilities;
 
+import static utilities.ExtentTestManager.getTest;
+import static utilities.ExtentTestManager.saveToReport;
+import java.io.File;
+import java.io.IOException;
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
@@ -7,46 +13,42 @@ import org.openqa.selenium.WebDriver;
 import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
+import static utilities.TestLogger.*;
 import com.aventstack.extentreports.Status;
 import commons.BaseTest;
 import commons.GlobalConstants;
-import static utilities.ExtentTestManager.*;
-import java.io.File;
-import java.io.IOException;
-import java.text.SimpleDateFormat;
-import java.util.Calendar;
 
 public class ExtentTestListener extends BaseTest implements ITestListener {
 
 	@Override
 	public void onStart(ITestContext iTestContext) {
-		log.info("-------STARTED TEST " + iTestContext.getName() + "------");
+		info("-------STARTED TEST " + iTestContext.getName() + "------");
 		iTestContext.setAttribute("WebDriver", this.getDriverInstance());
 	}
 
 	@Override
 	public void onFinish(ITestContext iTestContext) {
-		log.info("-------FINISHED TEST " + iTestContext.getName() + "------");
+		info("-------FINISHED TEST " + iTestContext.getName() + "------");
 		ExtentManager.extentReports.flush();
 	}
 
 	@Override
 	public void onTestStart(ITestResult iTestResult) {
-		log.info("------------" + iTestResult.getName() + " is STARTED ------------");
+		info("------------" + iTestResult.getName() + " is STARTED ------------");
 		saveToReport(iTestResult.getName(), iTestResult.getMethod().getDescription());
 
 	}
 
 	@Override
 	public void onTestSuccess(ITestResult iTestResult) {
-		log.info("------------" + iTestResult.getName() + " is PASSED ------------");
+		info("------------" + iTestResult.getName() + " is PASSED ------------");
 		getTest().log(Status.PASS, "Test passed");
 	}
 
 	@Override
 	public void onTestFailure(ITestResult iTestResult) {
-		log.error("------------" + iTestResult.getName() + " is FAILED ------------");
-		log.info("Please refer screenshot in Extent Test Report");
+		error("------------" + iTestResult.getName() + " is FAILED ------------");
+		info("Please refer screenshot in Extent Test Report");
 		Object testClass = iTestResult.getInstance();
 		WebDriver driver = ((BaseTest) testClass).getDriverInstance();
 		captureScreenshot(driver, iTestResult.getName());
@@ -60,7 +62,7 @@ public class ExtentTestListener extends BaseTest implements ITestListener {
 
 	@Override
 	public void onTestSkipped(ITestResult iTestResult) {
-		log.warn("------------" + iTestResult.getName() + " is SKIPPED ------------");
+		warn("------------" + iTestResult.getName() + " is SKIPPED ------------");
 		getTest().log(Status.SKIP, "Test Skipped");
 	}
 
@@ -77,7 +79,7 @@ public class ExtentTestListener extends BaseTest implements ITestListener {
 			FileUtils.copyFile(source, new File(screenPath));
 			return screenPath;
 		} catch (IOException e) {
-			log.info("Exception while taking screenshot: " + e.getMessage());
+			info("Exception while taking screenshot: " + e.getMessage());
 			return e.getMessage();
 		}
 	}

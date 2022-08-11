@@ -1,6 +1,9 @@
 package pageObjects;
 
 import java.text.SimpleDateFormat;
+import java.time.LocalDate;
+import java.time.LocalDateTime;
+import java.time.LocalTime;
 import java.util.Calendar;
 import java.util.Date;
 
@@ -55,7 +58,7 @@ public class ProductDetailPageObject extends BasePage {
 
 	@Step("Get date time when submit review to verify in My Product Review")
 	public String getDateTimeSubmit() {
-		Date date = new Date();
+		LocalDateTime date = LocalDateTime.now();
 		SimpleDateFormat formater = new SimpleDateFormat("MM/dd/yyyy HH:mm aa");
 		return formater.format(date);
 	}

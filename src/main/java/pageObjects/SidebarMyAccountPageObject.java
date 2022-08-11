@@ -15,29 +15,25 @@ public class SidebarMyAccountPageObject extends BasePage {
 	}
 
 	// Switch common page
-	public CustomerInfoPageObject openCustomerInfoLink() {
+	public void openCustomerInfoLink() {
 		waitForElementClickable(SidebarMyAccountPageUI.CUSTOMER_INFO_LINK);
 		clickToElement(SidebarMyAccountPageUI.CUSTOMER_INFO_LINK);
-		return PageGeneratorManager.getCustomerInfoPage(driver);
 	}
 
-	public CustomerAddressPageObject openCustomerAddressLink() {
+	public void openCustomerAddressLink() {
 		waitForElementClickable(SidebarMyAccountPageUI.CUSTOMER_ADDRESSES_LINK);
 		doubleClick(SidebarMyAccountPageUI.CUSTOMER_ADDRESSES_LINK);
-		return PageGeneratorManager.getCustomerAddressPage(driver);
 	}
 	
-	public ChangePasswordPageObject openChangePasswordLink() {
+	public void openChangePasswordLink() {
 		waitForElementClickable(SidebarMyAccountPageUI.CHANGE_PASSWORD_LINK);
 		doubleClick(SidebarMyAccountPageUI.CHANGE_PASSWORD_LINK);
-		return PageGeneratorManager.getChangePassPage(driver);
 		
 	}
 	
-	public MyProductReviewPageObject openMyProductReviewLink() {
+	public void openMyProductReviewLink() {
 		waitForElementClickable(SidebarMyAccountPageUI.MY_PRODUCT_REVIEW_LINK);
 		doubleClick(SidebarMyAccountPageUI.MY_PRODUCT_REVIEW_LINK);
-		return PageGeneratorManager.getMyProductReviewPage(driver);
 
 	}
 

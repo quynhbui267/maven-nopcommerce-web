@@ -44,11 +44,11 @@ public class DataHelper {
 	}
 
 	public String getDay() {
-		return String.valueOf(faker.number().numberBetween(0, 29));
+		return String.valueOf(faker.number().numberBetween(1, 29));
 	}
 
 	public String getYear() {
-		return String.valueOf(faker.number().numberBetween(1950, 2021));
+		return String.valueOf(faker.number().numberBetween(1950, 2000));
 	}
 
 }

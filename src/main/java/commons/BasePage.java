@@ -1,14 +1,21 @@
 package commons;
 
 import java.io.File;
+import java.io.IOException;
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
 import java.util.List;
 import java.util.Set;
 import java.util.concurrent.TimeUnit;
+
+import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Cookie;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.Keys;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
@@ -17,6 +24,7 @@ import org.openqa.selenium.support.ui.ExpectedCondition;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
+import static utilities.TestLogger.*;
 
 public class BasePage {
 
@@ -28,6 +36,7 @@ public class BasePage {
 
 	public void openPageUrl(String pageURL) {
 		driver.get(pageURL);
+		info("Open url " + pageURL);
 	}
 
 	public String getPageTitle() {
@@ -166,7 +175,7 @@ public class BasePage {
 	}
 
 	public void clickToElement(String locator, String... dynamicValues) {
-		getWebElement(castRestParameter(locator, dynamicValues)).click();
+		getWebElement(castRestParameter(locator, dynamicValues)).click();	
 	}
 
 	public void sendKeyToElement(String locator, String textValue) {
@@ -315,7 +324,7 @@ public class BasePage {
 		return getWebElement(castRestParameter(locator, dynamicValues)).isDisplayed();
 	}
 
-	public void setImplicitWait(long timeOut) {
+	private void setImplicitWait(long timeOut) {
 		driver.manage().timeouts().implicitlyWait(timeOut, TimeUnit.SECONDS);
 	}
 
@@ -528,4 +537,5 @@ public class BasePage {
 			sleepInSecond(2);
 		}
 	}
+	
 }

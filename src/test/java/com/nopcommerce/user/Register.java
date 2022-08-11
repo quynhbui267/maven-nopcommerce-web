@@ -1,15 +1,14 @@
 package com.nopcommerce.user;
 
 import org.openqa.selenium.WebDriver;
-import org.testng.Assert;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 import commons.BaseTest;
 import commons.PageGeneratorManager;
-import pageObjects.RegisterPageObject;
 import pageObjects.HomePageObject;
+import pageObjects.RegisterPageObject;
 import utilities.DataHelper;
 
 public class Register extends BaseTest {
@@ -18,13 +17,14 @@ public class Register extends BaseTest {
 	public void beforeClass(String browerName) {
 		driver = getBrowserDriver(browerName);
 		homePage = PageGeneratorManager.getUserHomePage(driver);
-		registerPage = homePage.clickRegisterLink();
+		registerPage = PageGeneratorManager.getRegisterPage(driver);
+		homePage.clickRegisterLink();
 		firstName = dataHelper.getFirstName();
 		lastName = dataHelper.getLastName();
 		email = dataHelper.getEmail();
-		day = "27";
+		day = dataHelper.getDay();
 		month = "July";
-		year = "1991";
+		year = dataHelper.getYear();
 		company = dataHelper.getFirstName();
 		password = dataHelper.getPassword();
 		invalidEmail = "abc@com";
@@ -38,83 +38,81 @@ public class Register extends BaseTest {
 	@Test(description = "Verify that error message will be shown when register with empty required data")
 	public void TC_01_Register_With_Empty_Required_Data() {
 		registerPage.clickToRegisterButton();
-		Assert.assertEquals(registerPage.getErrorMessageByFieldName("FirstName"), "First name is required.");
-		Assert.assertEquals(registerPage.getErrorMessageByFieldName("LastName"), "Last name is required.");
-		Assert.assertEquals(registerPage.getErrorMessageByFieldName("Email"), "Email is required.");
-		Assert.assertEquals(registerPage.getErrorMessageByFieldName("Password"), "Password is required.");
-		Assert.assertEquals(registerPage.getErrorMessageByFieldName("ConfirmPassword"), "Password is required.");
+		verifyEquals(registerPage.getErrorMessageByFieldName("FirstName"), "First name is required.");
+		verifyEquals(registerPage.getErrorMessageByFieldName("LastName"), "Last name is required.");
+		verifyEquals(registerPage.getErrorMessageByFieldName("Email"), "Email is required.");
+		verifyEquals(registerPage.getErrorMessageByFieldName("Password"), "Password is required.");
+		verifyEquals(registerPage.getErrorMessageByFieldName("ConfirmPassword"), "Password is required.");
 	}
 
 	@Test(description = "Verify that error message will be shown when register with invalid email")
 	public void TC_02_Register_With_Invalid_Email() {
-		registerPage.refreshCurrentPage();
+		homePage.clickRegisterLink();
 		registerPage.inputRegisterField(firstName, "FirstName");
 		registerPage.inputRegisterField(lastName, "LastName");
 		registerPage.inputRegisterField(invalidEmail, "Email");
 		registerPage.inputRegisterField(password, "Password");
 		registerPage.inputRegisterField(password, "ConfirmPassword");
 		registerPage.clickToRegisterButton();
-		Assert.assertEquals(registerPage.getEmailErrorMessage(), "Wrong email");
+		verifyEquals(registerPage.getEmailErrorMessage(), "Wrong email");
 	}
 
 	@Test(description = "Verify register succesfully with valid data")
 	public void TC_03_Register_With_Valid_Data() {
-		registerPage.refreshCurrentPage();
-		registerPage.selectGender("female");
+		homePage.clickRegisterLink();
+		registerPage.selectFemaleGender();
 		registerPage.inputRegisterField(firstName, "FirstName");
 		registerPage.inputRegisterField(lastName, "LastName");
 
-		registerPage.selectDropdownListByField("DateOfBirthDay", day);
-		registerPage.selectDropdownListByField("DateOfBirthMonth", month);
-		registerPage.selectDropdownListByField("DateOfBirthYear", year);
+		registerPage.selectDropdownListByField(day, "DateOfBirthDay");
+		registerPage.selectDropdownListByField(month, "DateOfBirthMonth");
+		registerPage.selectDropdownListByField(year, "DateOfBirthYear");
 
 		registerPage.inputRegisterField(company, "Company");
 		registerPage.inputRegisterField(email, "Email");
 		registerPage.inputRegisterField(password, "Password");
 		registerPage.inputRegisterField(password, "ConfirmPassword");
-
 		registerPage.clickToRegisterButton();
-		Assert.assertEquals(registerPage.getRegisterSuccessfulMsgText(), "Your registration completed");
-
+		verifyEquals(registerPage.getRegisterSuccessfulMsgText(), "Your registration completed");
+		verifyTrue(homePage.isMyAccountLinkDisplayed());
 	}
 
 	@Test(description = "Verify that error message will be shown when register with existing email")
 	public void TC_04_Register_With_Existing_Email() {
 		homePage.clickLogoutLink();
-		registerPage = homePage.clickRegisterLink();
+		homePage.clickRegisterLink();
 		registerPage.inputRegisterField(firstName, "FirstName");
 		registerPage.inputRegisterField(lastName, "LastName");
 		registerPage.inputRegisterField(email, "Email");
 		registerPage.inputRegisterField(password, "Password");
 		registerPage.inputRegisterField(password, "ConfirmPassword");
 		registerPage.clickToRegisterButton();
-		Assert.assertEquals(registerPage.getEmailErrorMessage(), "The specified email already exists");
+		verifyEquals(registerPage.getEmailErrorMessage(), "The specified email already exists");
 
 	}
 
 	@Test(description = "Verify that error message will be shown when register with password has less than 6 characters")
 	public void TC_05_Register_With_Invalid_Password() {
-		registerPage.refreshCurrentPage();
+		homePage.clickRegisterLink();
 		registerPage.inputRegisterField(firstName, "FirstName");
 		registerPage.inputRegisterField(lastName, "LastName");
 		registerPage.inputRegisterField(TC_05_email, "Email");
 		registerPage.inputRegisterField(TC_05_password, "Password");
 		registerPage.inputRegisterField(TC_05_password, "ConfirmPassword");
 		registerPage.clickToRegisterButton();
-		Assert.assertEquals(registerPage.getErrorMessageByFieldName("Password"), "Password must meet the following rules:\n" + "must have at least 6 characters");
-
+		verifyEquals(registerPage.getErrorMessageByFieldName("Password"), "Password must meet the following rules:\n" + "must have at least 6 characters");
 	}
 
 	@Test(description = "Verify that error message will be shown when register with confirm password is not matched")
 	public void TC_06_Register_With_Invalid_Confirm_Password() {
-		registerPage.refreshCurrentPage();
+		homePage.clickRegisterLink();
 		registerPage.inputRegisterField(firstName, "FirstName");
 		registerPage.inputRegisterField(lastName, "LastName");
 		registerPage.inputRegisterField(TC_06_email, "Email");
 		registerPage.inputRegisterField(password, "Password");
 		registerPage.inputRegisterField(TC_06_password, "ConfirmPassword");
 		registerPage.clickToRegisterButton();
-		Assert.assertEquals(registerPage.getErrorMessageByFieldName("ConfirmPassword"), "The password and confirmation password do not match.");
+		verifyEquals(registerPage.getErrorMessageByFieldName("ConfirmPassword"), "The password and confirmation password do not match.");
 
 	}
 

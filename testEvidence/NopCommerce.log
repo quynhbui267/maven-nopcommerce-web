@@ -1230,3 +1230,2006 @@ Driver info: driver.version: RemoteWebDriver
 [INFO][2022-07-31 15:58:15,990] ------------TC_01_Search_With_Not_Existing_Data is STARTED ------------
 [INFO][2022-07-31 15:58:16,813] ------------TC_01_Search_With_Not_Existing_Data is PASSED ------------
 [INFO][2022-07-31 15:58:16,867] -------FINISHED TEST Run on Chrome------
+[INFO][2022-08-01 13:33:13,800] -------STARTED TEST Run on Firefox------
+[INFO][2022-08-01 13:33:50,970] ------------TC_01_Search_With_Empty_Data is STARTED ------------
+[INFO][2022-08-01 13:33:51,836] ------------TC_01_Search_With_Empty_Data is PASSED ------------
+[INFO][2022-08-01 13:33:52,102] ------------TC_02_Search_With_Not_Existing_Data is STARTED ------------
+[INFO][2022-08-01 13:33:52,859] ------------TC_02_Search_With_Not_Existing_Data is PASSED ------------
+[INFO][2022-08-01 13:33:52,890] -------FINISHED TEST Run on Firefox------
+[INFO][2022-08-01 15:09:45,785] -------STARTED TEST Run on Firefox------
+[INFO][2022-08-01 15:10:11,190] ------------TC_01_Search_With_Empty_Data is SKIPPED ------------
+[INFO][2022-08-01 15:10:11,204] ------------TC_02_Search_With_Not_Existing_Data is SKIPPED ------------
+[INFO][2022-08-01 15:10:11,304] -------FINISHED TEST Run on Firefox------
+[INFO][2022-08-01 15:10:24,861] -------STARTED TEST Run on Firefox------
+[INFO][2022-08-01 15:11:01,246] ------------TC_01_Search_With_Empty_Data is STARTED ------------
+[INFO][2022-08-01 15:11:02,051] ------------TC_01_Search_With_Empty_Data is PASSED ------------
+[INFO][2022-08-01 15:11:02,342] ------------TC_02_Search_With_Not_Existing_Data is STARTED ------------
+[INFO][2022-08-01 15:11:03,200] ------------TC_02_Search_With_Not_Existing_Data is PASSED ------------
+[INFO][2022-08-01 15:11:03,233] -------FINISHED TEST Run on Firefox------
+[INFO][2022-08-01 15:40:35,253] -------STARTED TEST Run on Firefox------
+[INFO][2022-08-01 15:41:19,081] ------------TC_01_Search_With_Empty_Data is STARTED ------------
+[INFO][2022-08-01 15:41:20,051] ------------TC_01_Search_With_Empty_Data is PASSED ------------
+[INFO][2022-08-01 15:41:20,359] ------------TC_02_Search_With_Not_Existing_Data is STARTED ------------
+[INFO][2022-08-01 15:41:21,255] ------------TC_02_Search_With_Not_Existing_Data is PASSED ------------
+[INFO][2022-08-01 15:41:21,299] -------FINISHED TEST Run on Firefox------
+[INFO][2022-08-01 17:49:44,959] -------STARTED TEST Run on Firefox------
+[INFO][2022-08-01 17:49:45,232] -------FINISHED TEST Run on Firefox------
+[INFO][2022-08-08 19:21:40,800] -------STARTED TEST Run on Firefox------
+[INFO][2022-08-08 19:21:51,220] ------------TC_01_Update_Customer_Info is SKIPPED ------------
+[INFO][2022-08-08 19:21:51,240] ------------TC_02_Add_Customer_Address is SKIPPED ------------
+[INFO][2022-08-08 19:21:51,294] ------------TC_03_Change_Password is SKIPPED ------------
+[INFO][2022-08-08 19:21:51,324] ------------TC_04_View_Product_Review is SKIPPED ------------
+[INFO][2022-08-08 19:21:51,329] Change email of Precondition account back to null
+[INFO][2022-08-08 19:21:51,454] -------FINISHED TEST Run on Firefox------
+[INFO][2022-08-08 21:49:28,581] -------STARTED TEST Run on Firefox------
+[INFO][2022-08-08 21:49:37,797] ------------TC_01_Update_Customer_Info is SKIPPED ------------
+[INFO][2022-08-08 21:49:37,894] ------------TC_02_Add_Customer_Address is SKIPPED ------------
+[INFO][2022-08-08 21:49:37,909] ------------TC_03_Change_Password is SKIPPED ------------
+[INFO][2022-08-08 21:49:37,926] ------------TC_04_View_Product_Review is SKIPPED ------------
+[INFO][2022-08-08 21:49:37,939] Change email of Precondition account back to null
+[INFO][2022-08-08 21:49:38,027] -------FINISHED TEST Run on Firefox------
+[INFO][2022-08-08 21:52:28,574] -------STARTED TEST Run on Firefox------
+[INFO][2022-08-08 21:52:36,629] ------------TC_01_Update_Customer_Info is SKIPPED ------------
+[INFO][2022-08-08 21:52:36,766] ------------TC_02_Add_Customer_Address is SKIPPED ------------
+[INFO][2022-08-08 21:52:36,776] ------------TC_03_Change_Password is SKIPPED ------------
+[INFO][2022-08-08 21:52:36,792] ------------TC_04_View_Product_Review is SKIPPED ------------
+[INFO][2022-08-08 21:52:36,810] Change email of Precondition account back to null
+[INFO][2022-08-08 21:52:36,968] -------FINISHED TEST Run on Firefox------
+[INFO][2022-08-08 22:02:00,786] -------STARTED TEST Run on Firefox------
+[INFO][2022-08-08 22:02:10,141] ------------TC_01_Update_Customer_Info is SKIPPED ------------
+[INFO][2022-08-08 22:02:10,148] ------------TC_02_Add_Customer_Address is SKIPPED ------------
+[INFO][2022-08-08 22:02:10,155] ------------TC_03_Change_Password is SKIPPED ------------
+[INFO][2022-08-08 22:02:10,161] ------------TC_04_View_Product_Review is SKIPPED ------------
+[INFO][2022-08-08 22:02:10,165] Change email of Precondition account back to null
+[INFO][2022-08-08 22:02:10,259] -------FINISHED TEST Run on Firefox------
+[INFO][2022-08-08 22:05:47,047] -------STARTED TEST Run on Firefox------
+[INFO][2022-08-08 22:05:55,058] ------------TC_01_Update_Customer_Info is SKIPPED ------------
+[INFO][2022-08-08 22:05:55,064] ------------TC_02_Add_Customer_Address is SKIPPED ------------
+[INFO][2022-08-08 22:05:55,069] ------------TC_03_Change_Password is SKIPPED ------------
+[INFO][2022-08-08 22:05:55,075] ------------TC_04_View_Product_Review is SKIPPED ------------
+[INFO][2022-08-08 22:05:55,079] Change email of Precondition account back to null
+[INFO][2022-08-08 22:05:55,191] -------FINISHED TEST Run on Firefox------
+[INFO][2022-08-08 22:07:22,747] -------STARTED TEST Run on Firefox------
+[INFO][2022-08-08 22:07:30,915] ------------TC_01_Update_Customer_Info is SKIPPED ------------
+[INFO][2022-08-08 22:07:30,924] ------------TC_02_Add_Customer_Address is SKIPPED ------------
+[INFO][2022-08-08 22:07:30,931] ------------TC_03_Change_Password is SKIPPED ------------
+[INFO][2022-08-08 22:07:30,941] ------------TC_04_View_Product_Review is SKIPPED ------------
+[INFO][2022-08-08 22:07:30,945] Change email of Precondition account back to null
+[INFO][2022-08-08 22:07:31,084] -------FINISHED TEST Run on Firefox------
+[INFO][2022-08-08 22:09:51,200] -------STARTED TEST Run on Firefox------
+[INFO][2022-08-08 22:09:59,207] ------------TC_01_Update_Customer_Info is SKIPPED ------------
+[INFO][2022-08-08 22:09:59,217] ------------TC_02_Add_Customer_Address is SKIPPED ------------
+[INFO][2022-08-08 22:09:59,230] ------------TC_03_Change_Password is SKIPPED ------------
+[INFO][2022-08-08 22:09:59,238] ------------TC_04_View_Product_Review is SKIPPED ------------
+[INFO][2022-08-08 22:09:59,244] Change email of Precondition account back to null
+[INFO][2022-08-08 22:09:59,348] -------FINISHED TEST Run on Firefox------
+[INFO][2022-08-08 22:13:19,700] -------STARTED TEST Run on Firefox------
+[INFO][2022-08-08 22:13:27,772] ------------TC_01_Update_Customer_Info is SKIPPED ------------
+[INFO][2022-08-08 22:13:27,867] ------------TC_02_Add_Customer_Address is SKIPPED ------------
+[INFO][2022-08-08 22:13:27,895] ------------TC_03_Change_Password is SKIPPED ------------
+[INFO][2022-08-08 22:13:27,913] ------------TC_04_View_Product_Review is SKIPPED ------------
+[INFO][2022-08-08 22:13:27,928] Change email of Precondition account back to null
+[INFO][2022-08-08 22:13:28,090] -------FINISHED TEST Run on Firefox------
+[INFO][2022-08-08 22:22:42,706] -------STARTED TEST Run on Firefox------
+[INFO][2022-08-08 22:22:52,087] ------------TC_01_Update_Customer_Info is SKIPPED ------------
+[INFO][2022-08-08 22:22:52,100] ------------TC_02_Add_Customer_Address is SKIPPED ------------
+[INFO][2022-08-08 22:22:52,115] ------------TC_03_Change_Password is SKIPPED ------------
+[INFO][2022-08-08 22:22:52,125] ------------TC_04_View_Product_Review is SKIPPED ------------
+[INFO][2022-08-08 22:22:52,135] Change email of Precondition account back to null
+[INFO][2022-08-08 22:22:52,255] -------FINISHED TEST Run on Firefox------
+[INFO][2022-08-09 14:06:44,537] -------STARTED TEST Run on Firefox------
+[INFO][2022-08-09 14:06:49,814] ------------TC_01_Update_Customer_Info is SKIPPED ------------
+[INFO][2022-08-09 14:06:49,929] ------------TC_02_Add_Customer_Address is SKIPPED ------------
+[INFO][2022-08-09 14:06:49,936] ------------TC_03_Change_Password is SKIPPED ------------
+[INFO][2022-08-09 14:06:49,944] ------------TC_04_View_Product_Review is SKIPPED ------------
+[INFO][2022-08-09 14:06:49,959] Change email of Precondition account back to null
+[INFO][2022-08-09 14:06:50,218] -------FINISHED TEST Run on Firefox------
+[INFO][2022-08-09 14:08:19,722] -------STARTED TEST Run on Firefox------
+[INFO][2022-08-09 14:08:27,224] ------------TC_01_Update_Customer_Info is SKIPPED ------------
+[INFO][2022-08-09 14:08:27,311] ------------TC_02_Add_Customer_Address is SKIPPED ------------
+[INFO][2022-08-09 14:08:27,318] ------------TC_03_Change_Password is SKIPPED ------------
+[INFO][2022-08-09 14:08:27,323] ------------TC_04_View_Product_Review is SKIPPED ------------
+[INFO][2022-08-09 14:08:27,336] Change email of Precondition account back to null
+[INFO][2022-08-09 14:08:27,402] -------FINISHED TEST Run on Firefox------
+[INFO][2022-08-09 14:13:04,607] -------STARTED TEST Run on Firefox------
+[INFO][2022-08-09 14:13:13,575] ------------TC_01_Update_Customer_Info is SKIPPED ------------
+[INFO][2022-08-09 14:13:13,679] ------------TC_02_Add_Customer_Address is SKIPPED ------------
+[INFO][2022-08-09 14:13:13,687] ------------TC_03_Change_Password is SKIPPED ------------
+[INFO][2022-08-09 14:13:13,694] ------------TC_04_View_Product_Review is SKIPPED ------------
+[INFO][2022-08-09 14:13:13,709] Change email of Precondition account back to null
+[INFO][2022-08-09 14:13:13,790] -------FINISHED TEST Run on Firefox------
+[INFO][2022-08-09 14:14:35,113] -------STARTED TEST Run on Firefox------
+[INFO][2022-08-09 14:14:42,982] ------------TC_01_Update_Customer_Info is SKIPPED ------------
+[INFO][2022-08-09 14:14:42,989] ------------TC_02_Add_Customer_Address is SKIPPED ------------
+[INFO][2022-08-09 14:14:42,996] ------------TC_03_Change_Password is SKIPPED ------------
+[INFO][2022-08-09 14:14:43,007] ------------TC_04_View_Product_Review is SKIPPED ------------
+[INFO][2022-08-09 14:14:43,013] Change email of Precondition account back to null
+[INFO][2022-08-09 14:14:43,162] -------FINISHED TEST Run on Firefox------
+[INFO][2022-08-09 14:22:37,781] -------STARTED TEST Run on Firefox------
+[INFO][2022-08-09 14:22:45,796] ------------TC_01_Update_Customer_Info is SKIPPED ------------
+[INFO][2022-08-09 14:22:45,805] ------------TC_02_Add_Customer_Address is SKIPPED ------------
+[INFO][2022-08-09 14:22:45,817] ------------TC_03_Change_Password is SKIPPED ------------
+[INFO][2022-08-09 14:22:45,831] ------------TC_04_View_Product_Review is SKIPPED ------------
+[INFO][2022-08-09 14:22:45,840] Change email of Precondition account back to null
+[INFO][2022-08-09 14:22:45,947] -------FINISHED TEST Run on Firefox------
+[INFO][2022-08-09 14:34:47,548] -------STARTED TEST Run on Firefox------
+[INFO][2022-08-09 14:35:16,860] ------------TC_01_Update_Customer_Info is STARTED ------------
+[INFO][2022-08-09 14:35:17,168] Update account information for acc email =  elicia.mitchell@hotmail.com and password = ieplptqt
+[INFO][2022-08-09 14:35:21,693] Verify info after updating
+[INFO][2022-08-09 14:35:22,312] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-08-09 14:35:22,776] ------------TC_02_Add_Customer_Address is STARTED ------------
+[INFO][2022-08-09 14:35:28,192] ------------TC_02_Add_Customer_Address is PASSED ------------
+[INFO][2022-08-09 14:35:28,202] ------------TC_03_Change_Password is STARTED ------------
+[INFO][2022-08-09 14:35:37,356] ------------TC_03_Change_Password is PASSED ------------
+[INFO][2022-08-09 14:35:37,359] ------------TC_04_View_Product_Review is STARTED ------------
+[INFO][2022-08-09 14:35:43,661] ------------TC_04_View_Product_Review is FAILED ------------
+[INFO][2022-08-09 14:35:43,665] ------------TC_04_View_Product_Review is FAILED ------------
+[INFO][2022-08-09 14:35:43,667] Change email of Precondition account back to elicia.mitchell@hotmail.com
+[INFO][2022-08-09 14:35:45,387] Change password of Precondition account back to ieplptqt
+[INFO][2022-08-09 14:35:47,032] OS name = windows 10
+[INFO][2022-08-09 14:35:47,033] Driver instance name = firefoxdriver: firefox on windows (4234517b-1311-418f-90ae-637ee65f5b50)
+[INFO][2022-08-09 14:35:48,549] -------FINISHED TEST Run on Firefox------
+[INFO][2022-08-09 14:56:13,234] -------STARTED TEST Run on Firefox------
+[INFO][2022-08-09 14:56:46,054] ------------TC_01_Update_Customer_Info is STARTED ------------
+[INFO][2022-08-09 14:56:46,057] Update account information for acc email =  ursula.anderson@gmail.com and password = 0yhydjeyo7
+[INFO][2022-08-09 14:56:51,443] Verify info after updating
+[INFO][2022-08-09 14:56:52,396] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-08-09 14:56:52,402] ------------TC_02_Add_Customer_Address is STARTED ------------
+[INFO][2022-08-09 14:56:58,568] ------------TC_02_Add_Customer_Address is PASSED ------------
+[INFO][2022-08-09 14:56:58,571] ------------TC_03_Change_Password is STARTED ------------
+[INFO][2022-08-09 14:57:08,754] ------------TC_03_Change_Password is PASSED ------------
+[INFO][2022-08-09 14:57:08,759] ------------TC_04_View_Product_Review is STARTED ------------
+[INFO][2022-08-09 14:57:16,479] ------------TC_04_View_Product_Review is FAILED ------------
+[INFO][2022-08-09 14:57:16,494] ------------TC_04_View_Product_Review is FAILED ------------
+[INFO][2022-08-09 14:57:16,504] Change email of Precondition account back to ursula.anderson@gmail.com
+[INFO][2022-08-09 14:57:18,304] Change password of Precondition account back to 0yhydjeyo7
+[INFO][2022-08-09 14:57:20,415] OS name = windows 10
+[INFO][2022-08-09 14:57:20,415] Driver instance name = firefoxdriver: firefox on windows (0e8337d2-e4b4-47f2-839d-7bd1f404d3bf)
+[INFO][2022-08-09 14:57:22,132] -------FINISHED TEST Run on Firefox------
+[INFO][2022-08-09 16:16:35,022] -------STARTED TEST Run on Firefox------
+[INFO][2022-08-09 16:16:46,559] Register new account with email = kyle.kiehn@yahoo.com and password = 7596icemafdtyn
+[INFO][2022-08-09 16:16:59,902] Register new account with email = rex.jerde@hotmail.com and password = 4qdjhgc2re584h
+[INFO][2022-08-09 16:17:15,701] ------------TC_01_Update_Customer_Info is STARTED ------------
+[INFO][2022-08-09 16:17:20,467] -----------PASSED----------
+[INFO][2022-08-09 16:17:20,538] -----------PASSED----------
+[INFO][2022-08-09 16:17:20,618] -----------PASSED----------
+[INFO][2022-08-09 16:17:20,696] -----------PASSED----------
+[INFO][2022-08-09 16:17:20,783] -----------PASSED----------
+[INFO][2022-08-09 16:17:20,855] -----------PASSED----------
+[INFO][2022-08-09 16:17:20,920] -----------PASSED----------
+[INFO][2022-08-09 16:17:20,922] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-08-09 16:17:21,159] ------------TC_02_Add_Customer_Address is STARTED ------------
+[INFO][2022-08-09 16:17:26,194] -----------PASSED----------
+[INFO][2022-08-09 16:17:26,289] -----------PASSED----------
+[INFO][2022-08-09 16:17:26,354] -----------PASSED----------
+[INFO][2022-08-09 16:17:26,418] -----------PASSED----------
+[INFO][2022-08-09 16:17:26,480] -----------PASSED----------
+[INFO][2022-08-09 16:17:26,540] -----------PASSED----------
+[INFO][2022-08-09 16:17:26,600] -----------PASSED----------
+[INFO][2022-08-09 16:17:26,670] -----------PASSED----------
+[INFO][2022-08-09 16:17:26,743] -----------PASSED----------
+[INFO][2022-08-09 16:17:26,743] ------------TC_02_Add_Customer_Address is PASSED ------------
+[INFO][2022-08-09 16:17:26,754] ------------TC_03_Change_Password is STARTED ------------
+[INFO][2022-08-09 16:17:28,493] -----------PASSED----------
+[INFO][2022-08-09 16:17:34,460] -----------PASSED----------
+[INFO][2022-08-09 16:17:35,600] -----------PASSED----------
+[INFO][2022-08-09 16:17:35,601] ------------TC_03_Change_Password is PASSED ------------
+[INFO][2022-08-09 16:17:35,604] ------------TC_04_View_Product_Review is STARTED ------------
+[INFO][2022-08-09 16:17:41,195] -----------PASSED----------
+[INFO][2022-08-09 16:17:41,308] -----------PASSED----------
+[INFO][2022-08-09 16:17:41,446] -----------PASSED----------
+[INFO][2022-08-09 16:17:41,519] -----------PASSED----------
+[INFO][2022-08-09 16:17:41,583] -----------FAILED----------
+[INFO][2022-08-09 16:17:41,584] Expected result is 08/09/2022 16:17 PM but actual result is 8/9/2022 4:17 AM
+[INFO][2022-08-09 16:17:41,584] ------------TC_04_View_Product_Review is PASSED ------------
+[INFO][2022-08-09 16:17:41,592] OS name = windows 10
+[INFO][2022-08-09 16:17:41,592] Driver instance name = firefoxdriver: firefox on windows (70636517-d2ef-4566-9dd4-c9d223f035bd)
+[INFO][2022-08-09 16:17:42,954] -------FINISHED TEST Run on Firefox------
+[INFO][2022-08-09 16:21:11,766] -------STARTED TEST Run on Firefox------
+[INFO][2022-08-09 16:21:21,893] Register new account with email = freddy.harvey@yahoo.com and password = sxuaezjh2vgkxz2
+[INFO][2022-08-09 16:21:37,783] Register new account with email = elijah.kuphal@gmail.com and password = l4asyzyk2eu10
+[INFO][2022-08-09 16:21:53,183] ------------TC_01_Login_With_Empty_Data is STARTED ------------
+[INFO][2022-08-09 16:21:53,800] ------------TC_01_Login_With_Empty_Data is PASSED ------------
+[INFO][2022-08-09 16:21:54,173] ------------TC_02_Login_With_Invalid_Email is STARTED ------------
+[INFO][2022-08-09 16:21:55,921] -----------PASSED----------
+[INFO][2022-08-09 16:21:55,922] ------------TC_02_Login_With_Invalid_Email is PASSED ------------
+[INFO][2022-08-09 16:21:55,926] ------------TC_03_Login_With_Not_Registerd_Email is STARTED ------------
+[INFO][2022-08-09 16:21:57,488] -----------PASSED----------
+[INFO][2022-08-09 16:21:57,489] ------------TC_03_Login_With_Not_Registerd_Email is PASSED ------------
+[INFO][2022-08-09 16:21:57,492] ------------TC_4_Login_With_Empty_Password is STARTED ------------
+[INFO][2022-08-09 16:21:58,962] -----------PASSED----------
+[INFO][2022-08-09 16:21:58,963] ------------TC_4_Login_With_Empty_Password is PASSED ------------
+[INFO][2022-08-09 16:21:58,966] ------------TC_5_Login_With_Wrong_Password is STARTED ------------
+[INFO][2022-08-09 16:22:00,764] -----------PASSED----------
+[INFO][2022-08-09 16:22:00,764] ------------TC_5_Login_With_Wrong_Password is PASSED ------------
+[INFO][2022-08-09 16:22:00,777] ------------TC_6_Login_With_Valid_Credential is STARTED ------------
+[INFO][2022-08-09 16:22:02,812] -----------PASSED----------
+[INFO][2022-08-09 16:22:02,813] ------------TC_6_Login_With_Valid_Credential is PASSED ------------
+[INFO][2022-08-09 16:22:02,823] OS name = windows 10
+[INFO][2022-08-09 16:22:02,824] Driver instance name = firefoxdriver: firefox on windows (75b67c1b-7c36-46e9-abf0-3acc4f3b5c14)
+[INFO][2022-08-09 16:22:12,930] ------------TC_01_Update_Customer_Info is STARTED ------------
+[INFO][2022-08-09 16:22:17,610] -----------PASSED----------
+[INFO][2022-08-09 16:22:17,689] -----------PASSED----------
+[INFO][2022-08-09 16:22:17,765] -----------PASSED----------
+[INFO][2022-08-09 16:22:17,858] -----------PASSED----------
+[INFO][2022-08-09 16:22:17,932] -----------PASSED----------
+[INFO][2022-08-09 16:22:18,004] -----------PASSED----------
+[INFO][2022-08-09 16:22:18,067] -----------PASSED----------
+[INFO][2022-08-09 16:22:18,067] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-08-09 16:22:18,073] ------------TC_02_Add_Customer_Address is STARTED ------------
+[INFO][2022-08-09 16:22:22,791] -----------PASSED----------
+[INFO][2022-08-09 16:22:22,910] -----------PASSED----------
+[INFO][2022-08-09 16:22:22,986] -----------PASSED----------
+[INFO][2022-08-09 16:22:23,084] -----------PASSED----------
+[INFO][2022-08-09 16:22:23,155] -----------PASSED----------
+[INFO][2022-08-09 16:22:23,228] -----------PASSED----------
+[INFO][2022-08-09 16:22:23,292] -----------PASSED----------
+[INFO][2022-08-09 16:22:23,363] -----------PASSED----------
+[INFO][2022-08-09 16:22:23,437] -----------PASSED----------
+[INFO][2022-08-09 16:22:23,438] ------------TC_02_Add_Customer_Address is PASSED ------------
+[INFO][2022-08-09 16:22:23,440] ------------TC_03_Change_Password is STARTED ------------
+[INFO][2022-08-09 16:22:25,344] -----------PASSED----------
+[INFO][2022-08-09 16:22:31,521] -----------PASSED----------
+[INFO][2022-08-09 16:22:32,664] -----------PASSED----------
+[INFO][2022-08-09 16:22:32,664] ------------TC_03_Change_Password is PASSED ------------
+[INFO][2022-08-09 16:22:32,667] ------------TC_04_View_Product_Review is STARTED ------------
+[INFO][2022-08-09 16:22:38,495] -----------PASSED----------
+[INFO][2022-08-09 16:22:38,621] -----------PASSED----------
+[INFO][2022-08-09 16:22:38,719] -----------PASSED----------
+[INFO][2022-08-09 16:22:38,786] -----------PASSED----------
+[INFO][2022-08-09 16:22:38,850] -----------FAILED----------
+[INFO][2022-08-09 16:22:38,851] Expected result is 08/09/2022 16:22 PM but actual result is 8/9/2022 4:22 AM
+[INFO][2022-08-09 16:22:38,852] ------------TC_04_View_Product_Review is PASSED ------------
+[INFO][2022-08-09 16:22:38,855] OS name = windows 10
+[INFO][2022-08-09 16:22:38,856] Driver instance name = firefoxdriver: firefox on windows (23afc665-234d-42e8-8158-a8a907ae1b92)
+[INFO][2022-08-09 16:22:47,192] ------------TC_01_Register_With_Empty_Required_Data is STARTED ------------
+[INFO][2022-08-09 16:22:47,832] -----------PASSED----------
+[INFO][2022-08-09 16:22:47,895] -----------PASSED----------
+[INFO][2022-08-09 16:22:47,970] -----------PASSED----------
+[INFO][2022-08-09 16:22:48,037] -----------PASSED----------
+[INFO][2022-08-09 16:22:48,112] -----------PASSED----------
+[INFO][2022-08-09 16:22:48,113] ------------TC_01_Register_With_Empty_Required_Data is PASSED ------------
+[INFO][2022-08-09 16:22:48,115] ------------TC_02_Register_With_Invalid_Email is STARTED ------------
+[INFO][2022-08-09 16:22:50,115] -----------PASSED----------
+[INFO][2022-08-09 16:22:50,115] ------------TC_02_Register_With_Invalid_Email is PASSED ------------
+[INFO][2022-08-09 16:22:50,117] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[INFO][2022-08-09 16:22:50,381] ------------TC_03_Register_With_Valid_Data is FAILED ------------
+[INFO][2022-08-09 16:22:50,387] ------------TC_03_Register_With_Valid_Data is FAILED ------------
+[INFO][2022-08-09 16:22:50,451] -------FINISHED TEST Run on Firefox------
+[INFO][2022-08-09 16:34:06,653] -------STARTED TEST Run on Firefox------
+[INFO][2022-08-09 16:34:17,219] Register new account with email = teresia.hauck@yahoo.com and password = pi3y5a4ufrxktqd
+[INFO][2022-08-09 16:34:31,339] Register new account with email = miss.bailey@gmail.com and password = lgoeo8ir57dnk7
+[INFO][2022-08-09 16:34:45,989] ------------TC_01_Register_With_Empty_Required_Data is STARTED ------------
+[INFO][2022-08-09 16:34:46,727] -----------PASSED----------
+[INFO][2022-08-09 16:34:46,797] -----------PASSED----------
+[INFO][2022-08-09 16:34:46,861] -----------PASSED----------
+[INFO][2022-08-09 16:34:46,924] -----------PASSED----------
+[INFO][2022-08-09 16:34:46,986] -----------PASSED----------
+[INFO][2022-08-09 16:34:46,989] ------------TC_01_Register_With_Empty_Required_Data is PASSED ------------
+[INFO][2022-08-09 16:34:47,282] ------------TC_02_Register_With_Invalid_Email is STARTED ------------
+[INFO][2022-08-09 16:34:50,081] -----------PASSED----------
+[INFO][2022-08-09 16:34:50,082] ------------TC_02_Register_With_Invalid_Email is PASSED ------------
+[INFO][2022-08-09 16:34:50,089] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[INFO][2022-08-09 16:34:50,284] ------------TC_03_Register_With_Valid_Data is FAILED ------------
+[INFO][2022-08-09 16:34:50,290] ------------TC_03_Register_With_Valid_Data is FAILED ------------
+[INFO][2022-08-09 16:34:50,355] -------FINISHED TEST Run on Firefox------
+[INFO][2022-08-09 16:35:49,232] -------STARTED TEST Run on Firefox------
+[INFO][2022-08-09 16:35:59,005] Register new account with email = lora.harris@yahoo.com and password = oreu5vm79wm
+[INFO][2022-08-09 16:36:14,567] Register new account with email = laree.williamson@yahoo.com and password = xzyrrlpt6
+[INFO][2022-08-09 16:36:29,607] ------------TC_01_Register_With_Empty_Required_Data is STARTED ------------
+[INFO][2022-08-09 16:36:30,339] -----------PASSED----------
+[INFO][2022-08-09 16:36:30,404] -----------PASSED----------
+[INFO][2022-08-09 16:36:30,490] -----------PASSED----------
+[INFO][2022-08-09 16:36:30,559] -----------PASSED----------
+[INFO][2022-08-09 16:36:30,621] -----------PASSED----------
+[INFO][2022-08-09 16:36:30,623] ------------TC_01_Register_With_Empty_Required_Data is PASSED ------------
+[INFO][2022-08-09 16:36:30,935] ------------TC_02_Register_With_Invalid_Email is STARTED ------------
+[INFO][2022-08-09 16:36:33,002] -----------PASSED----------
+[INFO][2022-08-09 16:36:33,003] ------------TC_02_Register_With_Invalid_Email is PASSED ------------
+[INFO][2022-08-09 16:36:33,011] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[INFO][2022-08-09 16:37:03,528] ------------TC_03_Register_With_Valid_Data is FAILED ------------
+[INFO][2022-08-09 16:37:03,535] ------------TC_03_Register_With_Valid_Data is FAILED ------------
+[INFO][2022-08-09 16:37:03,586] -------FINISHED TEST Run on Firefox------
+[INFO][2022-08-09 16:55:43,791] -------STARTED TEST Run on Firefox------
+[INFO][2022-08-09 16:55:57,189] Register new account with email = larae.cummings@yahoo.com and password = 2smd9xk9
+[INFO][2022-08-09 16:56:11,913] Register new account with email = jerrell.von@gmail.com and password = my7p9tk0hzeitu
+[INFO][2022-08-09 16:56:33,491] ------------TC_01_Register_With_Empty_Required_Data is STARTED ------------
+[INFO][2022-08-09 16:56:33,984] -----------PASSED----------
+[INFO][2022-08-09 16:56:34,057] -----------PASSED----------
+[INFO][2022-08-09 16:56:34,136] -----------PASSED----------
+[INFO][2022-08-09 16:56:34,210] -----------PASSED----------
+[INFO][2022-08-09 16:56:34,294] -----------PASSED----------
+[INFO][2022-08-09 16:56:34,568] ------------TC_01_Register_With_Empty_Required_Data is PASSED ------------
+[INFO][2022-08-09 16:56:34,576] ------------TC_02_Register_With_Invalid_Email is STARTED ------------
+[INFO][2022-08-09 16:56:36,592] -----------PASSED----------
+[INFO][2022-08-09 16:56:36,600] ------------TC_02_Register_With_Invalid_Email is PASSED ------------
+[INFO][2022-08-09 16:56:36,604] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[INFO][2022-08-09 16:57:07,315] ------------TC_03_Register_With_Valid_Data is FAILED ------------
+[INFO][2022-08-09 16:57:07,329] ------------TC_03_Register_With_Valid_Data is FAILED ------------
+[INFO][2022-08-09 16:57:07,400] -------FINISHED TEST Run on Firefox------
+[INFO][2022-08-09 17:13:00,006] -------STARTED TEST Run on Firefox------
+[INFO][2022-08-09 17:13:10,853] Register new account with email = warren.ondricka@gmail.com and password = zv3ggfmwua8m93j
+[INFO][2022-08-09 17:13:25,107] Register new account with email = willard.corkery@yahoo.com and password = mpj3eqniwb8x
+[INFO][2022-08-09 17:13:40,220] ------------TC_01_Register_With_Empty_Required_Data is STARTED ------------
+[INFO][2022-08-09 17:13:40,820] -----------PASSED----------
+[INFO][2022-08-09 17:13:40,910] -----------PASSED----------
+[INFO][2022-08-09 17:13:41,028] -----------PASSED----------
+[INFO][2022-08-09 17:13:41,283] -----------PASSED----------
+[INFO][2022-08-09 17:13:41,366] -----------PASSED----------
+[INFO][2022-08-09 17:13:41,637] ------------TC_01_Register_With_Empty_Required_Data is PASSED ------------
+[INFO][2022-08-09 17:13:41,642] ------------TC_02_Register_With_Invalid_Email is STARTED ------------
+[INFO][2022-08-09 17:13:43,853] -----------PASSED----------
+[INFO][2022-08-09 17:13:43,861] ------------TC_02_Register_With_Invalid_Email is PASSED ------------
+[INFO][2022-08-09 17:13:43,864] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[INFO][2022-08-09 17:14:14,567] ------------TC_03_Register_With_Valid_Data is FAILED ------------
+[INFO][2022-08-09 17:14:14,579] ------------TC_03_Register_With_Valid_Data is FAILED ------------
+[INFO][2022-08-09 17:14:14,688] -------FINISHED TEST Run on Firefox------
+[INFO][2022-08-09 17:15:22,274] -------STARTED TEST Run on Firefox------
+[INFO][2022-08-09 17:15:30,140] Please add parameter in Maven command line
+[INFO][2022-08-09 17:15:33,802] Register new account with email = jamison.botsford@yahoo.com and password = xq6ckmf96
+[INFO][2022-08-09 17:15:46,292] Please add parameter in Maven command line
+[INFO][2022-08-09 17:15:49,049] Register new account with email = alphonse.monahan@yahoo.com and password = vairdvoora8
+[INFO][2022-08-09 17:16:00,937] Please add parameter in Maven command line
+[INFO][2022-08-09 17:16:04,172] ------------TC_01_Register_With_Empty_Required_Data is STARTED ------------
+[INFO][2022-08-09 17:16:04,674] -----------PASSED----------
+[INFO][2022-08-09 17:16:04,746] -----------PASSED----------
+[INFO][2022-08-09 17:16:04,822] -----------PASSED----------
+[INFO][2022-08-09 17:16:04,886] -----------PASSED----------
+[INFO][2022-08-09 17:16:04,946] -----------PASSED----------
+[INFO][2022-08-09 17:16:05,221] ------------TC_01_Register_With_Empty_Required_Data is PASSED ------------
+[INFO][2022-08-09 17:16:05,234] ------------TC_02_Register_With_Invalid_Email is STARTED ------------
+[INFO][2022-08-09 17:16:07,435] -----------PASSED----------
+[INFO][2022-08-09 17:16:07,443] ------------TC_02_Register_With_Invalid_Email is PASSED ------------
+[INFO][2022-08-09 17:16:07,447] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[INFO][2022-08-09 17:16:38,165] ------------TC_03_Register_With_Valid_Data is FAILED ------------
+[INFO][2022-08-09 17:16:38,180] ------------TC_03_Register_With_Valid_Data is FAILED ------------
+[INFO][2022-08-09 17:16:38,319] -------FINISHED TEST Run on Firefox------
+[INFO][2022-08-09 17:37:45,705] -------STARTED TEST Run on Firefox------
+[INFO][2022-08-09 17:37:54,014] Please add parameter in Maven command line
+[INFO][2022-08-09 17:37:56,529] Register new account with email = rod.cummings@gmail.com and password = sjs7yefk7
+[INFO][2022-08-09 17:38:08,233] Please add parameter in Maven command line
+[INFO][2022-08-09 17:38:10,269] Register new account with email = lizbeth.collins@gmail.com and password = dhnme72q7jhw
+[INFO][2022-08-09 17:38:21,467] Please add parameter in Maven command line
+[INFO][2022-08-09 17:38:24,386] ------------TC_01_Register_With_Empty_Required_Data is STARTED ------------
+[INFO][2022-08-09 17:38:24,931] -----------PASSED----------
+[INFO][2022-08-09 17:38:25,001] -----------PASSED----------
+[INFO][2022-08-09 17:38:25,078] -----------PASSED----------
+[INFO][2022-08-09 17:38:25,145] -----------PASSED----------
+[INFO][2022-08-09 17:38:25,221] -----------PASSED----------
+[INFO][2022-08-09 17:38:25,459] ------------TC_01_Register_With_Empty_Required_Data is PASSED ------------
+[INFO][2022-08-09 17:38:25,471] ------------TC_02_Register_With_Invalid_Email is STARTED ------------
+[INFO][2022-08-09 17:38:27,439] -----------PASSED----------
+[INFO][2022-08-09 17:38:27,448] ------------TC_02_Register_With_Invalid_Email is PASSED ------------
+[INFO][2022-08-09 17:38:27,452] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[INFO][2022-08-09 17:38:58,702] ------------TC_03_Register_With_Valid_Data is FAILED ------------
+[INFO][2022-08-09 17:38:58,742] ------------TC_03_Register_With_Valid_Data is FAILED ------------
+[INFO][2022-08-09 17:38:58,854] -------FINISHED TEST Run on Firefox------
+[INFO][2022-08-09 17:41:43,714] -------STARTED TEST Run on Firefox------
+[INFO][2022-08-09 17:41:50,416] Please add parameter in Maven command line
+[INFO][2022-08-09 17:41:53,785] Register new account with email = jordan.yundt@yahoo.com and password = qfk9f9tl
+[INFO][2022-08-09 17:42:05,648] Please add parameter in Maven command line
+[INFO][2022-08-09 17:42:07,743] Register new account with email = darnell.graham@yahoo.com and password = yut1xfpdzz
+[INFO][2022-08-09 17:42:19,213] Please add parameter in Maven command line
+[INFO][2022-08-09 17:42:22,290] ------------TC_01_Register_With_Empty_Required_Data is STARTED ------------
+[INFO][2022-08-09 17:42:22,796] -----------PASSED----------
+[INFO][2022-08-09 17:42:22,862] -----------PASSED----------
+[INFO][2022-08-09 17:42:22,926] -----------PASSED----------
+[INFO][2022-08-09 17:42:22,987] -----------PASSED----------
+[INFO][2022-08-09 17:42:23,050] -----------PASSED----------
+[INFO][2022-08-09 17:42:23,314] ------------TC_01_Register_With_Empty_Required_Data is PASSED ------------
+[INFO][2022-08-09 17:42:23,323] ------------TC_02_Register_With_Invalid_Email is STARTED ------------
+[INFO][2022-08-09 17:42:25,525] -----------PASSED----------
+[INFO][2022-08-09 17:42:25,535] ------------TC_02_Register_With_Invalid_Email is PASSED ------------
+[INFO][2022-08-09 17:42:25,540] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[INFO][2022-08-09 17:42:29,400] -----------PASSED----------
+[INFO][2022-08-09 17:42:29,407] ------------TC_03_Register_With_Valid_Data is PASSED ------------
+[INFO][2022-08-09 17:42:29,413] ------------TC_04_Register_With_Existing_Email is STARTED ------------
+[INFO][2022-08-09 17:42:59,470] ------------TC_04_Register_With_Existing_Email is FAILED ------------
+[INFO][2022-08-09 17:42:59,485] ------------TC_04_Register_With_Existing_Email is FAILED ------------
+[INFO][2022-08-09 17:42:59,634] -------FINISHED TEST Run on Firefox------
+[INFO][2022-08-09 17:46:13,932] -------STARTED TEST Run on Firefox------
+[INFO][2022-08-09 17:46:23,634] Please add parameter in Maven command line
+[INFO][2022-08-09 17:46:26,903] Register new account with email = maddie.watsica@gmail.com and password = hsd1qnot3v7da
+[INFO][2022-08-09 17:46:41,081] Please add parameter in Maven command line
+[INFO][2022-08-09 17:46:43,341] Register new account with email = carl.rohan@gmail.com and password = 9hwf9hep018o
+[INFO][2022-08-09 17:46:56,317] Please add parameter in Maven command line
+[INFO][2022-08-09 17:46:59,710] ------------TC_01_Register_With_Empty_Required_Data is STARTED ------------
+[INFO][2022-08-09 17:47:00,283] -----------PASSED----------
+[INFO][2022-08-09 17:47:00,367] -----------PASSED----------
+[INFO][2022-08-09 17:47:00,439] -----------PASSED----------
+[INFO][2022-08-09 17:47:00,511] -----------PASSED----------
+[INFO][2022-08-09 17:47:00,585] -----------PASSED----------
+[INFO][2022-08-09 17:47:00,941] ------------TC_01_Register_With_Empty_Required_Data is PASSED ------------
+[INFO][2022-08-09 17:47:00,951] ------------TC_02_Register_With_Invalid_Email is STARTED ------------
+[INFO][2022-08-09 17:47:03,351] -----------PASSED----------
+[INFO][2022-08-09 17:47:03,361] ------------TC_02_Register_With_Invalid_Email is PASSED ------------
+[INFO][2022-08-09 17:47:03,365] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[INFO][2022-08-09 17:47:07,440] -----------PASSED----------
+[INFO][2022-08-09 17:47:09,546] ------------TC_03_Register_With_Valid_Data is PASSED ------------
+[INFO][2022-08-09 17:47:09,553] ------------TC_04_Register_With_Existing_Email is STARTED ------------
+[INFO][2022-08-09 17:47:11,668] -----------PASSED----------
+[INFO][2022-08-09 17:47:11,671] ------------TC_04_Register_With_Existing_Email is PASSED ------------
+[INFO][2022-08-09 17:47:11,675] ------------TC_05_Register_With_Invalid_Password is STARTED ------------
+[INFO][2022-08-09 17:47:13,511] -----------PASSED----------
+[INFO][2022-08-09 17:47:13,514] ------------TC_05_Register_With_Invalid_Password is PASSED ------------
+[INFO][2022-08-09 17:47:13,519] ------------TC_06_Register_With_Invalid_Confirm_Password is STARTED ------------
+[INFO][2022-08-09 17:47:15,759] -----------PASSED----------
+[INFO][2022-08-09 17:47:15,764] ------------TC_06_Register_With_Invalid_Confirm_Password is PASSED ------------
+[INFO][2022-08-09 17:47:15,767] OS name = windows 10
+[INFO][2022-08-09 17:47:15,767] Driver instance name = firefoxdriver: firefox on windows (bcf6a52c-e77c-4d75-906b-c8501a82d4f2)
+[INFO][2022-08-09 17:47:17,546] -------FINISHED TEST Run on Firefox------
+[INFO][2022-08-09 17:51:54,534] -------STARTED TEST Run on Firefox------
+[INFO][2022-08-09 17:52:03,567] Please add parameter in Maven command line
+[INFO][2022-08-09 17:52:06,889] Register new account with email = genie.nolan@yahoo.com and password = s32c5d1re4ag7i
+[INFO][2022-08-09 17:52:19,013] Please add parameter in Maven command line
+[INFO][2022-08-09 17:52:20,455] Register new account with email = nicol.yost@hotmail.com and password = mdjpolwajmtr7q
+[INFO][2022-08-09 17:52:32,322] Please add parameter in Maven command line
+[INFO][2022-08-09 17:52:35,305] ------------TC_01_Register_With_Empty_Required_Data is STARTED ------------
+[INFO][2022-08-09 17:52:35,953] -----------PASSED----------
+[INFO][2022-08-09 17:52:36,040] -----------PASSED----------
+[INFO][2022-08-09 17:52:36,102] -----------PASSED----------
+[INFO][2022-08-09 17:52:36,180] -----------PASSED----------
+[INFO][2022-08-09 17:52:36,257] -----------PASSED----------
+[INFO][2022-08-09 17:52:36,661] ------------TC_01_Register_With_Empty_Required_Data is PASSED ------------
+[INFO][2022-08-09 17:52:36,670] ------------TC_02_Register_With_Invalid_Email is STARTED ------------
+[INFO][2022-08-09 17:52:38,753] -----------PASSED----------
+[INFO][2022-08-09 17:52:38,765] ------------TC_02_Register_With_Invalid_Email is PASSED ------------
+[INFO][2022-08-09 17:52:38,770] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[INFO][2022-08-09 17:52:42,655] -----------PASSED----------
+[INFO][2022-08-09 17:52:44,775] ------------TC_03_Register_With_Valid_Data is PASSED ------------
+[INFO][2022-08-09 17:52:44,780] ------------TC_04_Register_With_Existing_Email is STARTED ------------
+[INFO][2022-08-09 17:52:46,809] -----------FAILED----------
+[INFO][2022-08-09 17:52:46,809] expected [The specified email already exists..] but found [The specified email already exists]
+[INFO][2022-08-09 17:52:46,810] Expected result is The specified email already exists.. but actual result is The specified email already exists
+[INFO][2022-08-09 17:53:16,862] ------------TC_04_Register_With_Existing_Email is FAILED ------------
+[INFO][2022-08-09 17:53:16,874] ------------TC_04_Register_With_Existing_Email is FAILED ------------
+[INFO][2022-08-09 17:53:16,940] -------FINISHED TEST Run on Firefox------
+[INFO][2022-08-09 17:58:15,682] -------STARTED TEST Run on Firefox------
+[INFO][2022-08-09 17:58:22,363] Please add parameter in Maven command line
+[INFO][2022-08-09 17:58:25,475] Register new account with email = catrice.mertz@yahoo.com and password = ra9gm3um
+[INFO][2022-08-09 17:58:37,497] Please add parameter in Maven command line
+[INFO][2022-08-09 17:58:39,711] Register new account with email = kia.kuhic@hotmail.com and password = yfglfm3lb3lmj
+[INFO][2022-08-09 17:58:51,310] Please add parameter in Maven command line
+[INFO][2022-08-09 17:58:54,422] ------------TC_01_Register_With_Empty_Required_Data is STARTED ------------
+[INFO][2022-08-09 17:58:55,009] -----------PASSED----------
+[INFO][2022-08-09 17:58:55,078] -----------PASSED----------
+[INFO][2022-08-09 17:58:55,143] -----------PASSED----------
+[INFO][2022-08-09 17:58:55,208] -----------PASSED----------
+[INFO][2022-08-09 17:58:55,285] -----------PASSED----------
+[INFO][2022-08-09 17:58:55,572] ------------TC_01_Register_With_Empty_Required_Data is PASSED ------------
+[INFO][2022-08-09 17:58:55,580] ------------TC_02_Register_With_Invalid_Email is STARTED ------------
+[INFO][2022-08-09 17:58:57,552] -----------PASSED----------
+[INFO][2022-08-09 17:58:57,560] ------------TC_02_Register_With_Invalid_Email is PASSED ------------
+[INFO][2022-08-09 17:58:57,564] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[INFO][2022-08-09 17:59:01,550] -----------PASSED----------
+[INFO][2022-08-09 17:59:03,669] ------------TC_03_Register_With_Valid_Data is PASSED ------------
+[INFO][2022-08-09 17:59:03,675] ------------TC_04_Register_With_Existing_Email is STARTED ------------
+[INFO][2022-08-09 17:59:05,674] -----------FAILED----------
+[INFO][2022-08-09 17:59:05,674] expected [The specified email already exists..] but found [The specified email already exists]
+[INFO][2022-08-09 17:59:05,674] Expected result is The specified email already exists.. but actual result is The specified email already exists
+[INFO][2022-08-09 17:59:35,771] ------------TC_04_Register_With_Existing_Email is FAILED ------------
+[INFO][2022-08-09 17:59:35,795] ------------TC_04_Register_With_Existing_Email is FAILED ------------
+[INFO][2022-08-09 17:59:35,873] -------FINISHED TEST Run on Firefox------
+[INFO][2022-08-09 18:02:57,512] -------STARTED TEST Run on Firefox------
+[INFO][2022-08-09 18:03:04,489] Please add parameter in Maven command line
+[INFO][2022-08-09 18:03:20,879] Register new account with email = jude.welch@hotmail.com and password = l8fhcyarc52lt7v
+[INFO][2022-08-09 18:03:39,898] Please add parameter in Maven command line
+[INFO][2022-08-09 18:03:54,404] Register new account with email = marya.casper@hotmail.com and password = 2nbz0dxl
+[INFO][2022-08-09 18:04:19,818] Please add parameter in Maven command line
+[INFO][2022-08-09 18:04:23,304] ------------TC_01_Register_With_Empty_Required_Data is STARTED ------------
+[INFO][2022-08-09 18:04:23,931] -----------PASSED----------
+[INFO][2022-08-09 18:04:24,024] -----------PASSED----------
+[INFO][2022-08-09 18:04:24,100] -----------PASSED----------
+[INFO][2022-08-09 18:04:24,176] -----------PASSED----------
+[INFO][2022-08-09 18:04:24,238] -----------PASSED----------
+[INFO][2022-08-09 18:04:24,531] ------------TC_01_Register_With_Empty_Required_Data is PASSED ------------
+[INFO][2022-08-09 18:04:24,538] ------------TC_02_Register_With_Invalid_Email is STARTED ------------
+[INFO][2022-08-09 18:04:26,629] -----------PASSED----------
+[INFO][2022-08-09 18:04:26,639] ------------TC_02_Register_With_Invalid_Email is PASSED ------------
+[INFO][2022-08-09 18:04:26,643] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[INFO][2022-08-09 18:04:31,374] -----------PASSED----------
+[INFO][2022-08-09 18:04:31,459] -----------PASSED----------
+[INFO][2022-08-09 18:04:33,594] ------------TC_03_Register_With_Valid_Data is PASSED ------------
+[INFO][2022-08-09 18:04:33,599] ------------TC_04_Register_With_Existing_Email is STARTED ------------
+[INFO][2022-08-09 18:04:35,856] -----------FAILED----------
+[INFO][2022-08-09 18:04:35,856] expected [The specified email already exists..] but found [The specified email already exists]
+[INFO][2022-08-09 18:04:35,857] Expected result is The specified email already exists.. but actual result is The specified email already exists
+[INFO][2022-08-09 18:04:35,861] ------------TC_04_Register_With_Existing_Email is PASSED ------------
+[INFO][2022-08-09 18:04:35,865] ------------TC_05_Register_With_Invalid_Password is STARTED ------------
+[INFO][2022-08-09 18:04:37,574] -----------PASSED----------
+[INFO][2022-08-09 18:04:37,577] ------------TC_05_Register_With_Invalid_Password is PASSED ------------
+[INFO][2022-08-09 18:04:37,580] ------------TC_06_Register_With_Invalid_Confirm_Password is STARTED ------------
+[INFO][2022-08-09 18:04:40,049] -----------PASSED----------
+[INFO][2022-08-09 18:04:40,052] ------------TC_06_Register_With_Invalid_Confirm_Password is PASSED ------------
+[INFO][2022-08-09 18:04:40,055] OS name = windows 10
+[INFO][2022-08-09 18:04:40,055] Driver instance name = firefoxdriver: firefox on windows (d3945c0e-1411-427a-b48d-364791eeae8d)
+[INFO][2022-08-09 18:04:41,624] -------FINISHED TEST Run on Firefox------
+[INFO][2022-08-09 20:32:28,385] -------STARTED TEST Run on Firefox------
+[INFO][2022-08-09 20:32:37,174] Please add parameter in Maven command line
+[INFO][2022-08-09 20:32:40,544] Register new account with email = mel.ankunding@gmail.com and password = s3d6xn4o
+[INFO][2022-08-09 20:32:53,357] Please add parameter in Maven command line
+[INFO][2022-08-09 20:32:55,554] Register new account with email = gilda.lakin@yahoo.com and password = jdazr601u53
+[INFO][2022-08-09 20:33:07,283] Please add parameter in Maven command line
+[INFO][2022-08-09 20:33:10,300] ------------TC_01_Register_With_Empty_Required_Data is STARTED ------------
+[INFO][2022-08-09 20:33:10,732] -----------PASSED----------
+[INFO][2022-08-09 20:33:10,802] -----------PASSED----------
+[INFO][2022-08-09 20:33:10,877] -----------PASSED----------
+[INFO][2022-08-09 20:33:10,956] -----------PASSED----------
+[INFO][2022-08-09 20:33:11,021] -----------PASSED----------
+[INFO][2022-08-09 20:33:11,329] ------------TC_01_Register_With_Empty_Required_Data is PASSED ------------
+[INFO][2022-08-09 20:33:11,334] ------------TC_02_Register_With_Invalid_Email is STARTED ------------
+[INFO][2022-08-09 20:33:13,607] -----------PASSED----------
+[INFO][2022-08-09 20:33:13,617] ------------TC_02_Register_With_Invalid_Email is PASSED ------------
+[INFO][2022-08-09 20:33:13,621] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[INFO][2022-08-09 20:33:17,523] -----------PASSED----------
+[INFO][2022-08-09 20:33:17,622] -----------PASSED----------
+[INFO][2022-08-09 20:33:19,733] ------------TC_03_Register_With_Valid_Data is PASSED ------------
+[INFO][2022-08-09 20:33:19,739] ------------TC_04_Register_With_Existing_Email is STARTED ------------
+[INFO][2022-08-09 20:33:21,649] -----------FAILED----------
+[INFO][2022-08-09 20:33:21,650] expected [The specified email already exists..] but found [The specified email already exists]
+[INFO][2022-08-09 20:33:21,650] Expected result is The specified email already exists.. but actual result is The specified email already exists
+[INFO][2022-08-09 20:33:21,654] ------------TC_04_Register_With_Existing_Email is PASSED ------------
+[INFO][2022-08-09 20:33:21,659] ------------TC_05_Register_With_Invalid_Password is STARTED ------------
+[INFO][2022-08-09 20:33:23,403] -----------PASSED----------
+[INFO][2022-08-09 20:33:23,407] ------------TC_05_Register_With_Invalid_Password is PASSED ------------
+[INFO][2022-08-09 20:33:23,411] ------------TC_06_Register_With_Invalid_Confirm_Password is STARTED ------------
+[INFO][2022-08-09 20:33:25,724] -----------PASSED----------
+[INFO][2022-08-09 20:33:25,727] ------------TC_06_Register_With_Invalid_Confirm_Password is PASSED ------------
+[INFO][2022-08-09 20:33:25,730] OS name = windows 10
+[INFO][2022-08-09 20:33:25,730] Driver instance name = firefoxdriver: firefox on windows (b3dfdce5-e27f-4baf-8449-50a0195536eb)
+[INFO][2022-08-09 20:33:27,078] -------FINISHED TEST Run on Firefox------
+[INFO][2022-08-09 20:37:22,347] -------STARTED TEST Run on Firefox------
+[INFO][2022-08-09 20:37:29,450] Please add parameter in Maven command line
+[INFO][2022-08-09 20:37:32,415] Register new account with email = leonardo.jenkins@hotmail.com and password = nkzvzgrv7qx5gc
+[INFO][2022-08-09 20:37:44,331] Please add parameter in Maven command line
+[INFO][2022-08-09 20:37:46,371] Register new account with email = zelma.upton@yahoo.com and password = phtarhgrlwh
+[INFO][2022-08-09 20:37:57,963] Please add parameter in Maven command line
+[INFO][2022-08-09 20:38:01,534] ------------TC_01_Register_With_Empty_Required_Data is STARTED ------------
+[INFO][2022-08-09 20:38:02,069] -----------PASSED----------
+[INFO][2022-08-09 20:38:02,134] -----------PASSED----------
+[INFO][2022-08-09 20:38:02,198] -----------PASSED----------
+[INFO][2022-08-09 20:38:02,280] -----------PASSED----------
+[INFO][2022-08-09 20:38:02,357] -----------PASSED----------
+[INFO][2022-08-09 20:38:03,077] ------------TC_01_Register_With_Empty_Required_Data is PASSED ------------
+[INFO][2022-08-09 20:38:03,116] ------------TC_02_Register_With_Invalid_Email is STARTED ------------
+[INFO][2022-08-09 20:38:05,371] -----------PASSED----------
+[INFO][2022-08-09 20:38:05,380] ------------TC_02_Register_With_Invalid_Email is PASSED ------------
+[INFO][2022-08-09 20:38:05,385] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[INFO][2022-08-09 20:38:09,518] -----------PASSED----------
+[INFO][2022-08-09 20:38:09,617] -----------PASSED----------
+[INFO][2022-08-09 20:38:11,735] ------------TC_03_Register_With_Valid_Data is PASSED ------------
+[INFO][2022-08-09 20:38:11,740] ------------TC_04_Register_With_Existing_Email is STARTED ------------
+[INFO][2022-08-09 20:38:13,665] ------------TC_04_Register_With_Existing_Email is FAILED ------------
+[INFO][2022-08-09 20:38:13,679] ------------TC_04_Register_With_Existing_Email is FAILED ------------
+[INFO][2022-08-09 20:38:13,872] -------FINISHED TEST Run on Firefox------
+[INFO][2022-08-09 20:50:56,526] -------STARTED TEST Run on Firefox------
+[INFO][2022-08-09 20:51:03,745] Please add parameter in Maven command line
+[INFO][2022-08-09 20:51:06,747] Register new account with email = francina.keeling@hotmail.com and password = vmsw6xg0
+[INFO][2022-08-09 20:51:18,787] Please add parameter in Maven command line
+[INFO][2022-08-09 20:51:20,842] Register new account with email = stasia.prosacco@hotmail.com and password = fekhiq1q6j
+[INFO][2022-08-09 20:51:32,662] Please add parameter in Maven command line
+[INFO][2022-08-09 20:51:35,903] ------------TC_01_Register_With_Empty_Required_Data is STARTED ------------
+[INFO][2022-08-09 20:51:36,517] -----------PASSED----------
+[INFO][2022-08-09 20:51:36,591] -----------PASSED----------
+[INFO][2022-08-09 20:51:36,668] -----------PASSED----------
+[INFO][2022-08-09 20:51:36,746] -----------PASSED----------
+[INFO][2022-08-09 20:51:36,808] -----------PASSED----------
+[INFO][2022-08-09 20:51:37,068] ------------TC_01_Register_With_Empty_Required_Data is PASSED ------------
+[INFO][2022-08-09 20:51:37,074] ------------TC_02_Register_With_Invalid_Email is STARTED ------------
+[INFO][2022-08-09 20:51:39,256] -----------PASSED----------
+[INFO][2022-08-09 20:51:39,264] ------------TC_02_Register_With_Invalid_Email is PASSED ------------
+[INFO][2022-08-09 20:51:39,268] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[INFO][2022-08-09 20:51:43,176] -----------PASSED----------
+[INFO][2022-08-09 20:51:43,300] -----------PASSED----------
+[INFO][2022-08-09 20:51:45,421] ------------TC_03_Register_With_Valid_Data is PASSED ------------
+[INFO][2022-08-09 20:51:45,431] ------------TC_04_Register_With_Existing_Email is STARTED ------------
+[INFO][2022-08-09 20:51:47,798] ------------TC_04_Register_With_Existing_Email is FAILED ------------
+[INFO][2022-08-09 20:51:47,810] ------------TC_04_Register_With_Existing_Email is FAILED ------------
+[INFO][2022-08-09 20:51:47,953] -------FINISHED TEST Run on Firefox------
+[INFO][2022-08-09 21:01:22,893] -------STARTED TEST Run on Firefox------
+[INFO][2022-08-09 21:01:29,789] Please add parameter in Maven command line
+[INFO][2022-08-09 21:01:33,141] Register new account with email = margarette.dach@hotmail.com and password = qo0mlbd8o38fb
+[INFO][2022-08-09 21:01:44,881] Please add parameter in Maven command line
+[INFO][2022-08-09 21:01:46,937] Register new account with email = tony.bruen@yahoo.com and password = 4jtznknp2edtc8
+[INFO][2022-08-09 21:01:58,473] Please add parameter in Maven command line
+[INFO][2022-08-09 21:02:01,952] ------------TC_01_Register_With_Empty_Required_Data is STARTED ------------
+[INFO][2022-08-09 21:02:02,435] -----------PASSED----------
+[INFO][2022-08-09 21:02:02,506] -----------PASSED----------
+[INFO][2022-08-09 21:02:02,580] -----------PASSED----------
+[INFO][2022-08-09 21:02:02,672] -----------PASSED----------
+[INFO][2022-08-09 21:02:02,737] -----------PASSED----------
+[INFO][2022-08-09 21:02:02,986] ------------TC_01_Register_With_Empty_Required_Data is PASSED ------------
+[INFO][2022-08-09 21:02:02,994] ------------TC_02_Register_With_Invalid_Email is STARTED ------------
+[INFO][2022-08-09 21:02:05,249] -----------PASSED----------
+[INFO][2022-08-09 21:02:05,256] ------------TC_02_Register_With_Invalid_Email is PASSED ------------
+[INFO][2022-08-09 21:02:05,261] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[INFO][2022-08-09 21:02:09,784] -----------PASSED----------
+[INFO][2022-08-09 21:02:09,869] -----------PASSED----------
+[INFO][2022-08-09 21:02:11,971] ------------TC_03_Register_With_Valid_Data is PASSED ------------
+[INFO][2022-08-09 21:02:11,977] ------------TC_04_Register_With_Existing_Email is STARTED ------------
+[INFO][2022-08-09 21:02:14,071] ------------TC_04_Register_With_Existing_Email is FAILED ------------
+[INFO][2022-08-09 21:02:14,183] ------------TC_05_Register_With_Invalid_Password is STARTED ------------
+[INFO][2022-08-09 21:02:15,953] -----------PASSED----------
+[INFO][2022-08-09 21:02:15,957] ------------TC_05_Register_With_Invalid_Password is PASSED ------------
+[INFO][2022-08-09 21:02:15,961] ------------TC_06_Register_With_Invalid_Confirm_Password is STARTED ------------
+[INFO][2022-08-09 21:02:18,178] -----------PASSED----------
+[INFO][2022-08-09 21:02:18,182] ------------TC_06_Register_With_Invalid_Confirm_Password is PASSED ------------
+[INFO][2022-08-09 21:02:18,184] OS name = windows 10
+[INFO][2022-08-09 21:02:18,184] Driver instance name = firefoxdriver: firefox on windows (d252257e-ce52-48de-9f70-d9ca8f5b30ea)
+[INFO][2022-08-09 21:02:19,634] -------FINISHED TEST Run on Firefox------
+[INFO][2022-08-09 21:06:34,974] -------STARTED TEST Run on Firefox------
+[INFO][2022-08-09 21:06:41,678] Please add parameter in Maven command line
+[INFO][2022-08-09 21:06:45,496] Register new account with email = reggie.jakubowski@hotmail.com and password = 1gix5ex0vm
+[INFO][2022-08-09 21:06:57,595] Please add parameter in Maven command line
+[INFO][2022-08-09 21:06:59,489] Register new account with email = isreal.herzog@gmail.com and password = 6cvahhr27j8mr8r
+[INFO][2022-08-09 21:07:10,939] Please add parameter in Maven command line
+[INFO][2022-08-09 21:07:14,471] ------------TC_01_Register_With_Empty_Required_Data is STARTED ------------
+[INFO][2022-08-09 21:07:14,987] -----------PASSED----------
+[INFO][2022-08-09 21:07:15,052] -----------PASSED----------
+[INFO][2022-08-09 21:07:15,122] -----------PASSED----------
+[INFO][2022-08-09 21:07:15,194] -----------PASSED----------
+[INFO][2022-08-09 21:07:15,268] -----------PASSED----------
+[INFO][2022-08-09 21:07:15,526] ------------TC_01_Register_With_Empty_Required_Data is PASSED ------------
+[INFO][2022-08-09 21:07:15,533] ------------TC_02_Register_With_Invalid_Email is STARTED ------------
+[INFO][2022-08-09 21:07:17,552] -----------PASSED----------
+[INFO][2022-08-09 21:07:17,561] ------------TC_02_Register_With_Invalid_Email is PASSED ------------
+[INFO][2022-08-09 21:07:17,565] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[INFO][2022-08-09 21:07:21,586] ------------TC_03_Register_With_Valid_Data is FAILED ------------
+[INFO][2022-08-09 21:07:21,664] ------------TC_04_Register_With_Existing_Email is STARTED ------------
+[INFO][2022-08-09 21:07:51,716] ------------TC_04_Register_With_Existing_Email is FAILED ------------
+[INFO][2022-08-09 21:07:51,768] ------------TC_05_Register_With_Invalid_Password is STARTED ------------
+[INFO][2022-08-09 21:08:21,802] ------------TC_05_Register_With_Invalid_Password is FAILED ------------
+[INFO][2022-08-09 21:08:21,858] ------------TC_06_Register_With_Invalid_Confirm_Password is STARTED ------------
+[INFO][2022-08-09 21:08:51,893] ------------TC_06_Register_With_Invalid_Confirm_Password is FAILED ------------
+[INFO][2022-08-09 21:08:51,967] OS name = windows 10
+[INFO][2022-08-09 21:08:51,967] Driver instance name = firefoxdriver: firefox on windows (328c5628-29ec-4a08-a7fc-6616a9a102f7)
+[INFO][2022-08-09 21:08:53,506] -------FINISHED TEST Run on Firefox------
+[INFO][2022-08-09 21:13:07,140] -------STARTED TEST Run on Firefox------
+[INFO][2022-08-09 21:13:13,887] Please add parameter in Maven command line
+[INFO][2022-08-09 21:13:17,194] Register new account with email = lisha.schneider@gmail.com and password = i0nvetjg9
+[INFO][2022-08-09 21:13:28,951] Please add parameter in Maven command line
+[INFO][2022-08-09 21:13:31,185] Register new account with email = jeanna.kutch@hotmail.com and password = 2o24q87sh6dr
+[INFO][2022-08-09 21:13:42,680] Please add parameter in Maven command line
+[INFO][2022-08-09 21:13:45,948] ------------TC_01_Register_With_Empty_Required_Data is STARTED ------------
+[INFO][2022-08-09 21:13:46,410] -----------PASSED----------
+[INFO][2022-08-09 21:13:46,474] -----------PASSED----------
+[INFO][2022-08-09 21:13:46,550] -----------PASSED----------
+[INFO][2022-08-09 21:13:46,630] -----------PASSED----------
+[INFO][2022-08-09 21:13:46,714] -----------PASSED----------
+[INFO][2022-08-09 21:13:47,068] ------------TC_01_Register_With_Empty_Required_Data is PASSED ------------
+[INFO][2022-08-09 21:13:47,077] ------------TC_02_Register_With_Invalid_Email is STARTED ------------
+[INFO][2022-08-09 21:13:49,062] -----------PASSED----------
+[INFO][2022-08-09 21:13:49,070] ------------TC_02_Register_With_Invalid_Email is PASSED ------------
+[INFO][2022-08-09 21:13:49,074] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[INFO][2022-08-09 21:14:20,483] ------------TC_03_Register_With_Valid_Data is FAILED ------------
+[INFO][2022-08-09 21:14:20,577] ------------TC_04_Register_With_Existing_Email is STARTED ------------
+[INFO][2022-08-09 21:14:53,118] ------------TC_04_Register_With_Existing_Email is FAILED ------------
+[INFO][2022-08-09 21:14:53,181] ------------TC_05_Register_With_Invalid_Password is STARTED ------------
+[INFO][2022-08-09 21:15:23,244] ------------TC_05_Register_With_Invalid_Password is FAILED ------------
+[INFO][2022-08-09 21:15:23,311] ------------TC_06_Register_With_Invalid_Confirm_Password is STARTED ------------
+[INFO][2022-08-09 21:15:53,352] ------------TC_06_Register_With_Invalid_Confirm_Password is FAILED ------------
+[INFO][2022-08-09 21:15:53,401] OS name = windows 10
+[INFO][2022-08-09 21:15:53,402] Driver instance name = firefoxdriver: firefox on windows (e714829f-ea66-458e-b15f-4ba8b55a0f4e)
+[INFO][2022-08-09 21:15:54,376] -------FINISHED TEST Run on Firefox------
+[INFO][2022-08-09 21:16:42,821] -------STARTED TEST Run on Firefox------
+[INFO][2022-08-09 21:16:49,231] Please add parameter in Maven command line
+[INFO][2022-08-09 21:16:52,623] Register new account with email = reid.lueilwitz@hotmail.com and password = wwlihj151x
+[INFO][2022-08-09 21:17:04,197] Please add parameter in Maven command line
+[INFO][2022-08-09 21:17:06,355] Register new account with email = miriam.ortiz@gmail.com and password = a5ab3kzkgy
+[INFO][2022-08-09 21:17:17,663] Please add parameter in Maven command line
+[INFO][2022-08-09 21:17:20,949] ------------TC_01_Register_With_Empty_Required_Data is STARTED ------------
+[INFO][2022-08-09 21:17:21,405] -----------PASSED----------
+[INFO][2022-08-09 21:17:21,468] -----------PASSED----------
+[INFO][2022-08-09 21:17:21,532] -----------PASSED----------
+[INFO][2022-08-09 21:17:21,594] -----------PASSED----------
+[INFO][2022-08-09 21:17:21,657] -----------PASSED----------
+[INFO][2022-08-09 21:17:22,000] ------------TC_01_Register_With_Empty_Required_Data is PASSED ------------
+[INFO][2022-08-09 21:17:22,011] ------------TC_02_Register_With_Invalid_Email is STARTED ------------
+[INFO][2022-08-09 21:17:24,280] -----------PASSED----------
+[INFO][2022-08-09 21:17:24,290] ------------TC_02_Register_With_Invalid_Email is PASSED ------------
+[INFO][2022-08-09 21:17:24,295] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[ERROR][2022-08-09 21:17:28,273] -----------FAILED----------
+[INFO][2022-08-09 21:17:28,369] -----------PASSED----------
+[INFO][2022-08-09 21:17:30,494] ------------TC_03_Register_With_Valid_Data is PASSED ------------
+[INFO][2022-08-09 21:17:30,499] ------------TC_04_Register_With_Existing_Email is STARTED ------------
+[INFO][2022-08-09 21:17:32,504] -----------PASSED----------
+[INFO][2022-08-09 21:17:32,507] ------------TC_04_Register_With_Existing_Email is PASSED ------------
+[INFO][2022-08-09 21:17:32,511] ------------TC_05_Register_With_Invalid_Password is STARTED ------------
+[INFO][2022-08-09 21:17:34,181] -----------PASSED----------
+[INFO][2022-08-09 21:17:34,184] ------------TC_05_Register_With_Invalid_Password is PASSED ------------
+[INFO][2022-08-09 21:17:34,187] ------------TC_06_Register_With_Invalid_Confirm_Password is STARTED ------------
+[INFO][2022-08-09 21:17:36,378] -----------PASSED----------
+[INFO][2022-08-09 21:17:36,381] ------------TC_06_Register_With_Invalid_Confirm_Password is PASSED ------------
+[INFO][2022-08-09 21:17:36,383] OS name = windows 10
+[INFO][2022-08-09 21:17:36,383] Driver instance name = firefoxdriver: firefox on windows (ed86f7e5-4554-4a07-ae0d-dc251b16b59e)
+[INFO][2022-08-09 21:17:37,843] -------FINISHED TEST Run on Firefox------
+[INFO][2022-08-09 21:19:21,866] -------STARTED TEST Run on Firefox------
+[INFO][2022-08-09 21:19:30,749] Please add parameter in Maven command line
+[INFO][2022-08-09 21:19:33,614] Register new account with email = darryl.pagac@yahoo.com and password = bm4k660f2v2p2
+[INFO][2022-08-09 21:19:46,027] Please add parameter in Maven command line
+[INFO][2022-08-09 21:19:48,642] Register new account with email = keith.shields@hotmail.com and password = x351f2z8xhot44q
+[INFO][2022-08-09 21:20:00,124] Please add parameter in Maven command line
+[INFO][2022-08-09 21:20:03,539] ------------TC_01_Register_With_Empty_Required_Data is STARTED ------------
+[INFO][2022-08-09 21:20:04,016] -----------PASSED----------
+[INFO][2022-08-09 21:20:04,083] -----------PASSED----------
+[INFO][2022-08-09 21:20:04,144] -----------PASSED----------
+[INFO][2022-08-09 21:20:04,212] -----------PASSED----------
+[INFO][2022-08-09 21:20:04,284] -----------PASSED----------
+[INFO][2022-08-09 21:20:04,643] ------------TC_01_Register_With_Empty_Required_Data is PASSED ------------
+[INFO][2022-08-09 21:20:04,649] ------------TC_02_Register_With_Invalid_Email is STARTED ------------
+[INFO][2022-08-09 21:20:06,661] -----------PASSED----------
+[INFO][2022-08-09 21:20:06,670] ------------TC_02_Register_With_Invalid_Email is PASSED ------------
+[INFO][2022-08-09 21:20:06,674] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[INFO][2022-08-09 21:20:10,622] -----------FAILED----------
+[INFO][2022-08-09 21:20:10,727] -----------PASSED----------
+[INFO][2022-08-09 21:20:12,849] ------------TC_03_Register_With_Valid_Data is PASSED ------------
+[INFO][2022-08-09 21:20:12,856] ------------TC_04_Register_With_Existing_Email is STARTED ------------
+[INFO][2022-08-09 21:20:14,889] -----------PASSED----------
+[INFO][2022-08-09 21:20:14,892] ------------TC_04_Register_With_Existing_Email is PASSED ------------
+[INFO][2022-08-09 21:20:14,896] ------------TC_05_Register_With_Invalid_Password is STARTED ------------
+[INFO][2022-08-09 21:20:16,642] -----------PASSED----------
+[INFO][2022-08-09 21:20:16,645] ------------TC_05_Register_With_Invalid_Password is PASSED ------------
+[INFO][2022-08-09 21:20:16,649] ------------TC_06_Register_With_Invalid_Confirm_Password is STARTED ------------
+[INFO][2022-08-09 21:20:18,799] -----------PASSED----------
+[INFO][2022-08-09 21:20:18,803] ------------TC_06_Register_With_Invalid_Confirm_Password is PASSED ------------
+[INFO][2022-08-09 21:20:18,806] OS name = windows 10
+[INFO][2022-08-09 21:20:18,806] Driver instance name = firefoxdriver: firefox on windows (47cfedd6-f600-4c2c-8a30-14b51085ebf1)
+[INFO][2022-08-09 21:20:20,463] -------FINISHED TEST Run on Firefox------
+[DEBUG][2022-08-09 21:28:39,636] Before invocation of initBeforeSuite
+[DEBUG][2022-08-09 21:28:39,675] After invocation of initBeforeSuite
+[INFO][2022-08-09 21:28:39,688] -------STARTED TEST Run on Firefox------
+[DEBUG][2022-08-09 21:28:39,702] Before invocation of beforeTestAll
+[INFO][2022-08-09 21:28:47,824] Please add parameter in Maven command line
+[INFO][2022-08-09 21:28:50,663] Register new account with email = ariana.kuhn@hotmail.com and password = ko8n15k7p
+[DEBUG][2022-08-09 21:28:58,609] After invocation of beforeTestAll
+[DEBUG][2022-08-09 21:28:58,611] Before invocation of beforeTestUpdateAccount
+[INFO][2022-08-09 21:29:03,001] Please add parameter in Maven command line
+[INFO][2022-08-09 21:29:05,429] Register new account with email = chung.roberts@hotmail.com and password = vesnsl49ob5ik
+[DEBUG][2022-08-09 21:29:13,344] After invocation of beforeTestUpdateAccount
+[DEBUG][2022-08-09 21:29:13,372] Before invocation of beforeClass
+[INFO][2022-08-09 21:29:17,860] Please add parameter in Maven command line
+[DEBUG][2022-08-09 21:29:20,903] After invocation of beforeClass
+[INFO][2022-08-09 21:29:21,381] ------------TC_01_Register_With_Empty_Required_Data is STARTED ------------
+[DEBUG][2022-08-09 21:29:21,384] Before invocation of TC_01_Register_With_Empty_Required_Data
+[INFO][2022-08-09 21:29:21,861] -----------PASSED----------
+[INFO][2022-08-09 21:29:21,932] -----------PASSED----------
+[INFO][2022-08-09 21:29:22,010] -----------PASSED----------
+[INFO][2022-08-09 21:29:22,089] -----------PASSED----------
+[INFO][2022-08-09 21:29:22,196] -----------PASSED----------
+[DEBUG][2022-08-09 21:29:22,198] After invocation of TC_01_Register_With_Empty_Required_Data
+[INFO][2022-08-09 21:29:22,480] ------------TC_01_Register_With_Empty_Required_Data is PASSED ------------
+[INFO][2022-08-09 21:29:22,486] ------------TC_02_Register_With_Invalid_Email is STARTED ------------
+[DEBUG][2022-08-09 21:29:22,486] Before invocation of TC_02_Register_With_Invalid_Email
+[INFO][2022-08-09 21:29:24,469] -----------PASSED----------
+[DEBUG][2022-08-09 21:29:24,469] After invocation of TC_02_Register_With_Invalid_Email
+[INFO][2022-08-09 21:29:24,478] ------------TC_02_Register_With_Invalid_Email is PASSED ------------
+[INFO][2022-08-09 21:29:24,482] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[DEBUG][2022-08-09 21:29:24,482] Before invocation of TC_03_Register_With_Valid_Data
+[INFO][2022-08-09 21:29:28,602] -----------FAILED----------
+[INFO][2022-08-09 21:29:28,738] -----------PASSED----------
+[DEBUG][2022-08-09 21:29:30,864] After invocation of TC_03_Register_With_Valid_Data
+[INFO][2022-08-09 21:29:30,884] ------------TC_03_Register_With_Valid_Data is FAILED ------------
+[INFO][2022-08-09 21:29:31,163] ------------TC_04_Register_With_Existing_Email is STARTED ------------
+[DEBUG][2022-08-09 21:29:31,163] Before invocation of TC_04_Register_With_Existing_Email
+[INFO][2022-08-09 21:29:33,310] -----------PASSED----------
+[DEBUG][2022-08-09 21:29:33,311] After invocation of TC_04_Register_With_Existing_Email
+[INFO][2022-08-09 21:29:33,314] ------------TC_04_Register_With_Existing_Email is PASSED ------------
+[INFO][2022-08-09 21:29:33,320] ------------TC_05_Register_With_Invalid_Password is STARTED ------------
+[DEBUG][2022-08-09 21:29:33,320] Before invocation of TC_05_Register_With_Invalid_Password
+[INFO][2022-08-09 21:29:34,993] -----------PASSED----------
+[DEBUG][2022-08-09 21:29:34,993] After invocation of TC_05_Register_With_Invalid_Password
+[INFO][2022-08-09 21:29:34,998] ------------TC_05_Register_With_Invalid_Password is PASSED ------------
+[INFO][2022-08-09 21:29:35,003] ------------TC_06_Register_With_Invalid_Confirm_Password is STARTED ------------
+[DEBUG][2022-08-09 21:29:35,003] Before invocation of TC_06_Register_With_Invalid_Confirm_Password
+[INFO][2022-08-09 21:29:37,226] -----------PASSED----------
+[DEBUG][2022-08-09 21:29:37,226] After invocation of TC_06_Register_With_Invalid_Confirm_Password
+[INFO][2022-08-09 21:29:37,229] ------------TC_06_Register_With_Invalid_Confirm_Password is PASSED ------------
+[DEBUG][2022-08-09 21:29:37,232] Before invocation of afterClass
+[INFO][2022-08-09 21:29:37,232] OS name = windows 10
+[INFO][2022-08-09 21:29:37,232] Driver instance name = firefoxdriver: firefox on windows (3e0f694d-0dba-46e6-b737-a3a673fd92c8)
+[DEBUG][2022-08-09 21:29:38,684] After invocation of afterClass
+[INFO][2022-08-09 21:29:38,784] -------FINISHED TEST Run on Firefox------
+[DEBUG][2022-08-09 22:21:57,721] Before invocation of initBeforeSuite
+[DEBUG][2022-08-09 22:21:57,757] After invocation of initBeforeSuite
+[INFO][2022-08-09 22:21:57,775] -------STARTED TEST Run on Firefox------
+[DEBUG][2022-08-09 22:21:57,791] Before invocation of beforeTestAll
+[INFO][2022-08-09 22:22:06,218] Please add parameter in Maven command line
+[INFO][2022-08-09 22:22:10,306] Register new account with email = lawerence.lind@gmail.com and password = otu4n5crwyvy
+[DEBUG][2022-08-09 22:22:18,730] After invocation of beforeTestAll
+[DEBUG][2022-08-09 22:22:18,731] Before invocation of beforeTestUpdateAccount
+[INFO][2022-08-09 22:22:23,143] Please add parameter in Maven command line
+[INFO][2022-08-09 22:22:25,213] Register new account with email = nestor.beahan@gmail.com and password = wmkqsiusio
+[DEBUG][2022-08-09 22:22:32,297] After invocation of beforeTestUpdateAccount
+[DEBUG][2022-08-09 22:22:32,329] Before invocation of beforeClass
+[INFO][2022-08-09 22:22:36,395] Please add parameter in Maven command line
+[DEBUG][2022-08-09 22:22:38,894] After invocation of beforeClass
+[INFO][2022-08-09 22:22:39,146] ------------TC_01_Register_With_Empty_Required_Data is STARTED ------------
+[DEBUG][2022-08-09 22:22:39,147] Before invocation of TC_01_Register_With_Empty_Required_Data
+[INFO][2022-08-09 22:22:39,648] -----------PASSED----------
+[INFO][2022-08-09 22:22:39,723] -----------PASSED----------
+[INFO][2022-08-09 22:22:39,816] -----------PASSED----------
+[INFO][2022-08-09 22:22:39,908] -----------PASSED----------
+[INFO][2022-08-09 22:22:39,980] -----------PASSED----------
+[DEBUG][2022-08-09 22:22:39,981] After invocation of TC_01_Register_With_Empty_Required_Data
+[INFO][2022-08-09 22:22:40,292] ------------TC_01_Register_With_Empty_Required_Data is PASSED ------------
+[INFO][2022-08-09 22:22:40,300] ------------TC_02_Register_With_Invalid_Email is STARTED ------------
+[DEBUG][2022-08-09 22:22:40,300] Before invocation of TC_02_Register_With_Invalid_Email
+[INFO][2022-08-09 22:22:42,420] -----------PASSED----------
+[DEBUG][2022-08-09 22:22:42,420] After invocation of TC_02_Register_With_Invalid_Email
+[INFO][2022-08-09 22:22:42,429] ------------TC_02_Register_With_Invalid_Email is PASSED ------------
+[INFO][2022-08-09 22:22:42,433] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[DEBUG][2022-08-09 22:22:42,433] Before invocation of TC_03_Register_With_Valid_Data
+[INFO][2022-08-09 22:22:46,814] -----------FAILED----------
+[INFO][2022-08-09 22:22:46,915] -----------PASSED----------
+[DEBUG][2022-08-09 22:22:46,915] After invocation of TC_03_Register_With_Valid_Data
+[INFO][2022-08-09 22:22:46,932] ------------TC_03_Register_With_Valid_Data is FAILED ------------
+[INFO][2022-08-09 22:22:47,025] ------------TC_04_Register_With_Existing_Email is STARTED ------------
+[DEBUG][2022-08-09 22:22:47,025] Before invocation of TC_04_Register_With_Existing_Email
+[INFO][2022-08-09 22:22:51,117] -----------PASSED----------
+[DEBUG][2022-08-09 22:22:51,118] After invocation of TC_04_Register_With_Existing_Email
+[INFO][2022-08-09 22:22:51,122] ------------TC_04_Register_With_Existing_Email is PASSED ------------
+[INFO][2022-08-09 22:22:51,126] ------------TC_05_Register_With_Invalid_Password is STARTED ------------
+[DEBUG][2022-08-09 22:22:51,126] Before invocation of TC_05_Register_With_Invalid_Password
+[INFO][2022-08-09 22:22:52,820] -----------PASSED----------
+[DEBUG][2022-08-09 22:22:52,820] After invocation of TC_05_Register_With_Invalid_Password
+[INFO][2022-08-09 22:22:52,823] ------------TC_05_Register_With_Invalid_Password is PASSED ------------
+[INFO][2022-08-09 22:22:52,828] ------------TC_06_Register_With_Invalid_Confirm_Password is STARTED ------------
+[DEBUG][2022-08-09 22:22:52,829] Before invocation of TC_06_Register_With_Invalid_Confirm_Password
+[INFO][2022-08-09 22:22:55,059] -----------PASSED----------
+[DEBUG][2022-08-09 22:22:55,060] After invocation of TC_06_Register_With_Invalid_Confirm_Password
+[INFO][2022-08-09 22:22:55,063] ------------TC_06_Register_With_Invalid_Confirm_Password is PASSED ------------
+[DEBUG][2022-08-09 22:22:55,065] Before invocation of afterClass
+[INFO][2022-08-09 22:22:55,066] OS name = windows 10
+[INFO][2022-08-09 22:22:55,066] Driver instance name = firefoxdriver: firefox on windows (df5aa567-8831-4b95-bb07-73f82861b2aa)
+[DEBUG][2022-08-09 22:22:56,737] After invocation of afterClass
+[INFO][2022-08-09 22:22:56,798] -------FINISHED TEST Run on Firefox------
+[DEBUG][2022-08-09 22:38:44,061] Before invocation of initBeforeSuite
+[DEBUG][2022-08-09 22:38:44,126] After invocation of initBeforeSuite
+[INFO][2022-08-09 22:38:44,134] -------STARTED TEST Run on Firefox------
+[DEBUG][2022-08-09 22:38:44,162] Before invocation of beforeTestAll
+[INFO][2022-08-09 22:38:52,034] Please add parameter in Maven command line
+[INFO][2022-08-09 22:38:55,729] Register new account with email = alejandro.schaden@yahoo.com and password = vo89kd7u672n3
+[DEBUG][2022-08-09 22:39:03,649] After invocation of beforeTestAll
+[DEBUG][2022-08-09 22:39:03,650] Before invocation of beforeTestUpdateAccount
+[INFO][2022-08-09 22:39:08,496] Please add parameter in Maven command line
+[INFO][2022-08-09 22:39:10,726] Register new account with email = jeffery.schultz@gmail.com and password = cb714l0wzy72lj
+[DEBUG][2022-08-09 22:39:18,501] After invocation of beforeTestUpdateAccount
+[DEBUG][2022-08-09 22:39:18,533] Before invocation of beforeClass
+[INFO][2022-08-09 22:39:22,602] Please add parameter in Maven command line
+[DEBUG][2022-08-09 22:39:26,573] After invocation of beforeClass
+[INFO][2022-08-09 22:39:26,643] ------------TC_01_Register_With_Empty_Required_Data is STARTED ------------
+[DEBUG][2022-08-09 22:39:26,798] Before invocation of TC_01_Register_With_Empty_Required_Data
+[INFO][2022-08-09 22:39:27,341] -----------PASSED----------
+[INFO][2022-08-09 22:39:27,441] -----------PASSED----------
+[INFO][2022-08-09 22:39:27,549] -----------PASSED----------
+[INFO][2022-08-09 22:39:27,629] -----------PASSED----------
+[INFO][2022-08-09 22:39:27,700] -----------PASSED----------
+[DEBUG][2022-08-09 22:39:27,702] After invocation of TC_01_Register_With_Empty_Required_Data
+[INFO][2022-08-09 22:39:27,706] ------------TC_01_Register_With_Empty_Required_Data is PASSED ------------
+[INFO][2022-08-09 22:39:28,010] ------------TC_02_Register_With_Invalid_Email is STARTED ------------
+[DEBUG][2022-08-09 22:39:28,017] Before invocation of TC_02_Register_With_Invalid_Email
+[INFO][2022-08-09 22:39:30,159] -----------PASSED----------
+[DEBUG][2022-08-09 22:39:30,159] After invocation of TC_02_Register_With_Invalid_Email
+[INFO][2022-08-09 22:39:30,160] ------------TC_02_Register_With_Invalid_Email is PASSED ------------
+[INFO][2022-08-09 22:39:30,169] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[DEBUG][2022-08-09 22:39:30,172] Before invocation of TC_03_Register_With_Valid_Data
+[INFO][2022-08-09 22:39:34,109] -----------FAILED----------
+[INFO][2022-08-09 22:39:34,206] -----------PASSED----------
+[DEBUG][2022-08-09 22:39:34,207] After invocation of TC_03_Register_With_Valid_Data
+[INFO][2022-08-09 22:39:34,209] ------------TC_03_Register_With_Valid_Data is FAILED ------------
+[INFO][2022-08-09 22:39:34,307] ------------TC_04_Register_With_Existing_Email is STARTED ------------
+[DEBUG][2022-08-09 22:39:34,312] Before invocation of TC_04_Register_With_Existing_Email
+[INFO][2022-08-09 22:39:38,315] -----------PASSED----------
+[DEBUG][2022-08-09 22:39:38,315] After invocation of TC_04_Register_With_Existing_Email
+[INFO][2022-08-09 22:39:38,317] ------------TC_04_Register_With_Existing_Email is PASSED ------------
+[INFO][2022-08-09 22:39:38,321] ------------TC_05_Register_With_Invalid_Password is STARTED ------------
+[DEBUG][2022-08-09 22:39:38,323] Before invocation of TC_05_Register_With_Invalid_Password
+[INFO][2022-08-09 22:39:39,942] -----------PASSED----------
+[DEBUG][2022-08-09 22:39:39,942] After invocation of TC_05_Register_With_Invalid_Password
+[INFO][2022-08-09 22:39:39,944] ------------TC_05_Register_With_Invalid_Password is PASSED ------------
+[INFO][2022-08-09 22:39:39,947] ------------TC_06_Register_With_Invalid_Confirm_Password is STARTED ------------
+[DEBUG][2022-08-09 22:39:39,950] Before invocation of TC_06_Register_With_Invalid_Confirm_Password
+[INFO][2022-08-09 22:39:42,172] -----------PASSED----------
+[DEBUG][2022-08-09 22:39:42,173] After invocation of TC_06_Register_With_Invalid_Confirm_Password
+[INFO][2022-08-09 22:39:42,175] ------------TC_06_Register_With_Invalid_Confirm_Password is PASSED ------------
+[DEBUG][2022-08-09 22:39:42,178] Before invocation of afterClass
+[INFO][2022-08-09 22:39:42,180] OS name = windows 10
+[INFO][2022-08-09 22:39:42,180] Driver instance name = firefoxdriver: firefox on windows (6c14e533-c895-4088-861b-2e2cc8064685)
+[DEBUG][2022-08-09 22:39:43,706] After invocation of afterClass
+[INFO][2022-08-09 22:39:43,747] -------FINISHED TEST Run on Firefox------
+[DEBUG][2022-08-09 22:41:21,851] Before invocation of initBeforeSuite
+[DEBUG][2022-08-09 22:41:21,886] After invocation of initBeforeSuite
+[INFO][2022-08-09 22:41:21,897] -------STARTED TEST Run on Firefox------
+[DEBUG][2022-08-09 22:41:21,912] Before invocation of beforeTestAll
+[INFO][2022-08-09 22:41:28,436] Please add parameter in Maven command line
+[INFO][2022-08-09 22:41:31,951] Register new account with email = troy.halvorson@gmail.com and password = 58gmvmnscy6h
+[DEBUG][2022-08-09 22:41:39,557] After invocation of beforeTestAll
+[DEBUG][2022-08-09 22:41:39,559] Before invocation of beforeTestUpdateAccount
+[INFO][2022-08-09 22:41:43,665] Please add parameter in Maven command line
+[INFO][2022-08-09 22:41:44,853] Register new account with email = lacy.bernhard@gmail.com and password = vo5144479zjf1r
+[DEBUG][2022-08-09 22:41:52,541] After invocation of beforeTestUpdateAccount
+[DEBUG][2022-08-09 22:41:52,593] Before invocation of beforeClass
+[INFO][2022-08-09 22:41:56,639] Please add parameter in Maven command line
+[DEBUG][2022-08-09 22:41:59,422] After invocation of beforeClass
+[INFO][2022-08-09 22:41:59,732] ------------TC_01_Register_With_Empty_Required_Data is STARTED ------------
+[DEBUG][2022-08-09 22:41:59,733] Before invocation of TC_01_Register_With_Empty_Required_Data
+[INFO][2022-08-09 22:42:00,192] -----------PASSED----------
+[INFO][2022-08-09 22:42:00,263] -----------PASSED----------
+[INFO][2022-08-09 22:42:00,325] -----------PASSED----------
+[INFO][2022-08-09 22:42:00,389] -----------PASSED----------
+[DEBUG][2022-08-09 22:42:30,434] After invocation of TC_01_Register_With_Empty_Required_Data
+[INFO][2022-08-09 22:42:30,676] ------------TC_01_Register_With_Empty_Required_Data is FAILED ------------
+[INFO][2022-08-09 22:42:30,748] ------------TC_02_Register_With_Invalid_Email is STARTED ------------
+[DEBUG][2022-08-09 22:42:30,748] Before invocation of TC_02_Register_With_Invalid_Email
+[INFO][2022-08-09 22:42:32,841] -----------PASSED----------
+[DEBUG][2022-08-09 22:42:32,842] After invocation of TC_02_Register_With_Invalid_Email
+[INFO][2022-08-09 22:42:32,851] ------------TC_02_Register_With_Invalid_Email is PASSED ------------
+[INFO][2022-08-09 22:42:32,856] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[DEBUG][2022-08-09 22:42:32,856] Before invocation of TC_03_Register_With_Valid_Data
+[INFO][2022-08-09 22:42:36,873] -----------FAILED----------
+[INFO][2022-08-09 22:42:36,974] -----------PASSED----------
+[DEBUG][2022-08-09 22:42:36,975] After invocation of TC_03_Register_With_Valid_Data
+[INFO][2022-08-09 22:42:36,985] ------------TC_03_Register_With_Valid_Data is FAILED ------------
+[INFO][2022-08-09 22:42:37,058] ------------TC_04_Register_With_Existing_Email is STARTED ------------
+[DEBUG][2022-08-09 22:42:37,058] Before invocation of TC_04_Register_With_Existing_Email
+[INFO][2022-08-09 22:42:41,269] -----------PASSED----------
+[DEBUG][2022-08-09 22:42:41,270] After invocation of TC_04_Register_With_Existing_Email
+[INFO][2022-08-09 22:42:41,274] ------------TC_04_Register_With_Existing_Email is PASSED ------------
+[INFO][2022-08-09 22:42:41,278] ------------TC_05_Register_With_Invalid_Password is STARTED ------------
+[DEBUG][2022-08-09 22:42:41,278] Before invocation of TC_05_Register_With_Invalid_Password
+[INFO][2022-08-09 22:42:42,958] -----------PASSED----------
+[DEBUG][2022-08-09 22:42:42,959] After invocation of TC_05_Register_With_Invalid_Password
+[INFO][2022-08-09 22:42:42,962] ------------TC_05_Register_With_Invalid_Password is PASSED ------------
+[INFO][2022-08-09 22:42:42,967] ------------TC_06_Register_With_Invalid_Confirm_Password is STARTED ------------
+[DEBUG][2022-08-09 22:42:42,967] Before invocation of TC_06_Register_With_Invalid_Confirm_Password
+[INFO][2022-08-09 22:42:45,422] -----------PASSED----------
+[DEBUG][2022-08-09 22:42:45,423] After invocation of TC_06_Register_With_Invalid_Confirm_Password
+[INFO][2022-08-09 22:42:45,426] ------------TC_06_Register_With_Invalid_Confirm_Password is PASSED ------------
+[DEBUG][2022-08-09 22:42:45,428] Before invocation of afterClass
+[INFO][2022-08-09 22:42:45,428] OS name = windows 10
+[INFO][2022-08-09 22:42:45,428] Driver instance name = firefoxdriver: firefox on windows (718bc9a5-38bd-47b7-8a4f-6ff448ac2950)
+[DEBUG][2022-08-09 22:42:46,871] After invocation of afterClass
+[INFO][2022-08-09 22:42:46,981] -------FINISHED TEST Run on Firefox------
+[DEBUG][2022-08-09 22:51:22,433] Before invocation of initBeforeSuite
+[DEBUG][2022-08-09 22:51:22,467] After invocation of initBeforeSuite
+[INFO][2022-08-09 22:51:22,481] -------STARTED TEST Run on Firefox------
+[DEBUG][2022-08-09 22:51:22,495] Before invocation of beforeTestAll
+[INFO][2022-08-09 22:51:29,013] Please add parameter in Maven command line
+[INFO][2022-08-09 22:51:32,288] Register new account with email = brittani.block@hotmail.com and password = tfj33mqqm
+[DEBUG][2022-08-09 22:51:40,012] After invocation of beforeTestAll
+[DEBUG][2022-08-09 22:51:40,014] Before invocation of beforeTestUpdateAccount
+[INFO][2022-08-09 22:51:43,959] Please add parameter in Maven command line
+[INFO][2022-08-09 22:51:46,010] Register new account with email = roselyn.renner@gmail.com and password = pp45wt0vgtsib1p
+[DEBUG][2022-08-09 22:51:53,349] After invocation of beforeTestUpdateAccount
+[DEBUG][2022-08-09 22:51:53,392] Before invocation of beforeClass
+[INFO][2022-08-09 22:51:58,262] Please add parameter in Maven command line
+[DEBUG][2022-08-09 22:52:01,110] After invocation of beforeClass
+[INFO][2022-08-09 22:52:01,364] ------------TC_01_Register_With_Empty_Required_Data is STARTED ------------
+[DEBUG][2022-08-09 22:52:01,365] Before invocation of TC_01_Register_With_Empty_Required_Data
+[INFO][2022-08-09 22:52:01,839] -----------PASSED----------
+[INFO][2022-08-09 22:52:01,924] -----------PASSED----------
+[INFO][2022-08-09 22:52:01,991] -----------PASSED----------
+[INFO][2022-08-09 22:52:02,067] -----------PASSED----------
+[DEBUG][2022-08-09 22:52:32,091] After invocation of TC_01_Register_With_Empty_Required_Data
+[INFO][2022-08-09 22:52:32,292] ------------TC_01_Register_With_Empty_Required_Data is FAILED ------------
+[INFO][2022-08-09 22:52:32,358] ------------TC_02_Register_With_Invalid_Email is STARTED ------------
+[DEBUG][2022-08-09 22:52:32,359] Before invocation of TC_02_Register_With_Invalid_Email
+[INFO][2022-08-09 22:52:34,357] -----------PASSED----------
+[DEBUG][2022-08-09 22:52:34,358] After invocation of TC_02_Register_With_Invalid_Email
+[INFO][2022-08-09 22:52:34,367] ------------TC_02_Register_With_Invalid_Email is PASSED ------------
+[INFO][2022-08-09 22:52:34,372] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[DEBUG][2022-08-09 22:52:34,373] Before invocation of TC_03_Register_With_Valid_Data
+[INFO][2022-08-09 22:52:38,220] -----------FAILED----------
+[INFO][2022-08-09 22:52:38,316] -----------PASSED----------
+[DEBUG][2022-08-09 22:52:38,316] After invocation of TC_03_Register_With_Valid_Data
+[INFO][2022-08-09 22:52:38,329] ------------TC_03_Register_With_Valid_Data is PASSED ------------
+[INFO][2022-08-09 22:52:38,337] ------------TC_04_Register_With_Existing_Email is STARTED ------------
+[DEBUG][2022-08-09 22:52:38,338] Before invocation of TC_04_Register_With_Existing_Email
+[INFO][2022-08-09 22:52:42,420] -----------PASSED----------
+[DEBUG][2022-08-09 22:52:42,420] After invocation of TC_04_Register_With_Existing_Email
+[INFO][2022-08-09 22:52:42,423] ------------TC_04_Register_With_Existing_Email is PASSED ------------
+[INFO][2022-08-09 22:52:42,427] ------------TC_05_Register_With_Invalid_Password is STARTED ------------
+[DEBUG][2022-08-09 22:52:42,428] Before invocation of TC_05_Register_With_Invalid_Password
+[INFO][2022-08-09 22:52:44,130] -----------PASSED----------
+[DEBUG][2022-08-09 22:52:44,131] After invocation of TC_05_Register_With_Invalid_Password
+[INFO][2022-08-09 22:52:44,134] ------------TC_05_Register_With_Invalid_Password is PASSED ------------
+[INFO][2022-08-09 22:52:44,138] ------------TC_06_Register_With_Invalid_Confirm_Password is STARTED ------------
+[DEBUG][2022-08-09 22:52:44,139] Before invocation of TC_06_Register_With_Invalid_Confirm_Password
+[INFO][2022-08-09 22:52:46,464] -----------PASSED----------
+[DEBUG][2022-08-09 22:52:46,464] After invocation of TC_06_Register_With_Invalid_Confirm_Password
+[INFO][2022-08-09 22:52:46,468] ------------TC_06_Register_With_Invalid_Confirm_Password is PASSED ------------
+[DEBUG][2022-08-09 22:52:46,471] Before invocation of afterClass
+[INFO][2022-08-09 22:52:46,471] OS name = windows 10
+[INFO][2022-08-09 22:52:46,471] Driver instance name = firefoxdriver: firefox on windows (32d4adfb-6df3-4f1e-9637-ac70a0063075)
+[DEBUG][2022-08-09 22:52:47,860] After invocation of afterClass
+[INFO][2022-08-09 22:52:47,945] -------FINISHED TEST Run on Firefox------
+[DEBUG][2022-08-09 22:54:02,324] Before invocation of initBeforeSuite
+[DEBUG][2022-08-09 22:54:02,399] After invocation of initBeforeSuite
+[INFO][2022-08-09 22:54:02,408] -------STARTED TEST Run on Firefox------
+[DEBUG][2022-08-09 22:54:02,430] Before invocation of beforeTestAll
+[INFO][2022-08-09 22:54:08,892] Please add parameter in Maven command line
+[INFO][2022-08-09 22:54:11,984] Register new account with email = arnold.bailey@gmail.com and password = op05ewol5lg
+[DEBUG][2022-08-09 22:54:19,604] After invocation of beforeTestAll
+[DEBUG][2022-08-09 22:54:19,605] Before invocation of beforeTestUpdateAccount
+[INFO][2022-08-09 22:54:23,640] Please add parameter in Maven command line
+[INFO][2022-08-09 22:54:25,812] Register new account with email = eugene.mcclure@hotmail.com and password = ew7nfjz1z5
+[DEBUG][2022-08-09 22:54:33,423] After invocation of beforeTestUpdateAccount
+[DEBUG][2022-08-09 22:54:33,474] Before invocation of beforeClass
+[INFO][2022-08-09 22:54:37,365] Please add parameter in Maven command line
+[DEBUG][2022-08-09 22:54:41,391] After invocation of beforeClass
+[INFO][2022-08-09 22:54:41,484] ------------TC_01_Register_With_Empty_Required_Data is STARTED ------------
+[DEBUG][2022-08-09 22:54:41,855] Before invocation of TC_01_Register_With_Empty_Required_Data
+[INFO][2022-08-09 22:54:42,347] -----------PASSED----------
+[INFO][2022-08-09 22:54:42,411] -----------PASSED----------
+[INFO][2022-08-09 22:54:42,485] -----------PASSED----------
+[INFO][2022-08-09 22:54:42,549] -----------PASSED----------
+[INFO][2022-08-09 22:54:42,610] -----------PASSED----------
+[DEBUG][2022-08-09 22:54:42,612] After invocation of TC_01_Register_With_Empty_Required_Data
+[INFO][2022-08-09 22:54:42,616] ------------TC_01_Register_With_Empty_Required_Data is PASSED ------------
+[INFO][2022-08-09 22:54:42,885] ------------TC_02_Register_With_Invalid_Email is STARTED ------------
+[DEBUG][2022-08-09 22:54:42,889] Before invocation of TC_02_Register_With_Invalid_Email
+[INFO][2022-08-09 22:54:45,252] -----------PASSED----------
+[DEBUG][2022-08-09 22:54:45,253] After invocation of TC_02_Register_With_Invalid_Email
+[INFO][2022-08-09 22:54:45,254] ------------TC_02_Register_With_Invalid_Email is PASSED ------------
+[INFO][2022-08-09 22:54:45,263] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[DEBUG][2022-08-09 22:54:45,265] Before invocation of TC_03_Register_With_Valid_Data
+[INFO][2022-08-09 22:54:49,588] -----------FAILED----------
+[INFO][2022-08-09 22:54:49,683] -----------PASSED----------
+[DEBUG][2022-08-09 22:54:49,684] After invocation of TC_03_Register_With_Valid_Data
+[INFO][2022-08-09 22:54:49,687] ------------TC_03_Register_With_Valid_Data is PASSED ------------
+[INFO][2022-08-09 22:54:49,699] ------------TC_04_Register_With_Existing_Email is STARTED ------------
+[DEBUG][2022-08-09 22:54:49,703] Before invocation of TC_04_Register_With_Existing_Email
+[INFO][2022-08-09 22:54:53,870] -----------PASSED----------
+[DEBUG][2022-08-09 22:54:53,870] After invocation of TC_04_Register_With_Existing_Email
+[INFO][2022-08-09 22:54:53,872] ------------TC_04_Register_With_Existing_Email is PASSED ------------
+[INFO][2022-08-09 22:54:53,876] ------------TC_05_Register_With_Invalid_Password is STARTED ------------
+[DEBUG][2022-08-09 22:54:53,879] Before invocation of TC_05_Register_With_Invalid_Password
+[INFO][2022-08-09 22:54:55,733] -----------PASSED----------
+[DEBUG][2022-08-09 22:54:55,733] After invocation of TC_05_Register_With_Invalid_Password
+[INFO][2022-08-09 22:54:55,734] ------------TC_05_Register_With_Invalid_Password is PASSED ------------
+[INFO][2022-08-09 22:54:55,739] ------------TC_06_Register_With_Invalid_Confirm_Password is STARTED ------------
+[DEBUG][2022-08-09 22:54:55,743] Before invocation of TC_06_Register_With_Invalid_Confirm_Password
+[INFO][2022-08-09 22:54:57,968] -----------PASSED----------
+[DEBUG][2022-08-09 22:54:57,968] After invocation of TC_06_Register_With_Invalid_Confirm_Password
+[INFO][2022-08-09 22:54:57,970] ------------TC_06_Register_With_Invalid_Confirm_Password is PASSED ------------
+[DEBUG][2022-08-09 22:54:57,972] Before invocation of afterClass
+[INFO][2022-08-09 22:54:57,974] OS name = windows 10
+[INFO][2022-08-09 22:54:57,974] Driver instance name = firefoxdriver: firefox on windows (c4531366-be95-4132-94de-3f097d72015d)
+[DEBUG][2022-08-09 22:54:59,383] After invocation of afterClass
+[INFO][2022-08-09 22:54:59,433] -------FINISHED TEST Run on Firefox------
+[DEBUG][2022-08-10 22:02:03,738] Before invocation of initBeforeSuite
+[DEBUG][2022-08-10 22:02:03,773] After invocation of initBeforeSuite
+[INFO][2022-08-10 22:02:03,786] -------STARTED TEST Run on Firefox------
+[DEBUG][2022-08-10 22:02:03,803] Before invocation of beforeTestAll
+[INFO][2022-08-10 22:02:12,206] Please add parameter in Maven command line
+[INFO][2022-08-10 22:02:15,598] Register new account with email = bennie.kihn@gmail.com and password = l9me5cfl0vecu
+[DEBUG][2022-08-10 22:02:23,105] After invocation of beforeTestAll
+[DEBUG][2022-08-10 22:02:23,105] Before invocation of beforeTestUpdateAccount
+[INFO][2022-08-10 22:02:27,160] Please add parameter in Maven command line
+[INFO][2022-08-10 22:02:29,572] Register new account with email = brady.boyle@gmail.com and password = m0it7zazqxyei8q
+[DEBUG][2022-08-10 22:02:36,826] After invocation of beforeTestUpdateAccount
+[DEBUG][2022-08-10 22:02:36,870] Before invocation of beforeClass
+[INFO][2022-08-10 22:02:40,723] Please add parameter in Maven command line
+[DEBUG][2022-08-10 22:02:43,670] After invocation of beforeClass
+[INFO][2022-08-10 22:02:44,066] ------------TC_01_Register_With_Empty_Required_Data is STARTED ------------
+[DEBUG][2022-08-10 22:02:44,066] Before invocation of TC_01_Register_With_Empty_Required_Data
+[INFO][2022-08-10 22:02:44,576] -----------PASSED----------
+[INFO][2022-08-10 22:02:44,649] -----------PASSED----------
+[INFO][2022-08-10 22:02:44,732] -----------PASSED----------
+[INFO][2022-08-10 22:02:44,805] -----------PASSED----------
+[INFO][2022-08-10 22:02:44,881] -----------PASSED----------
+[DEBUG][2022-08-10 22:02:44,882] After invocation of TC_01_Register_With_Empty_Required_Data
+[INFO][2022-08-10 22:02:45,198] ------------TC_01_Register_With_Empty_Required_Data is PASSED ------------
+[INFO][2022-08-10 22:02:45,206] ------------TC_02_Register_With_Invalid_Email is STARTED ------------
+[DEBUG][2022-08-10 22:02:45,206] Before invocation of TC_02_Register_With_Invalid_Email
+[INFO][2022-08-10 22:02:47,301] -----------PASSED----------
+[DEBUG][2022-08-10 22:02:47,302] After invocation of TC_02_Register_With_Invalid_Email
+[INFO][2022-08-10 22:02:47,313] ------------TC_02_Register_With_Invalid_Email is PASSED ------------
+[INFO][2022-08-10 22:02:47,317] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[DEBUG][2022-08-10 22:02:47,317] Before invocation of TC_03_Register_With_Valid_Data
+[INFO][2022-08-10 22:02:51,192] -----------FAILED----------
+[INFO][2022-08-10 22:02:51,325] -----------PASSED----------
+[DEBUG][2022-08-10 22:02:51,325] After invocation of TC_03_Register_With_Valid_Data
+[INFO][2022-08-10 22:02:51,347] ------------TC_03_Register_With_Valid_Data is FAILED ------------
+[INFO][2022-08-10 22:02:51,481] ------------TC_04_Register_With_Existing_Email is STARTED ------------
+[DEBUG][2022-08-10 22:02:51,485] Before invocation of TC_04_Register_With_Existing_Email
+[INFO][2022-08-10 22:02:55,493] -----------PASSED----------
+[DEBUG][2022-08-10 22:02:55,493] After invocation of TC_04_Register_With_Existing_Email
+[INFO][2022-08-10 22:02:55,496] ------------TC_04_Register_With_Existing_Email is PASSED ------------
+[INFO][2022-08-10 22:02:55,501] ------------TC_05_Register_With_Invalid_Password is STARTED ------------
+[DEBUG][2022-08-10 22:02:55,501] Before invocation of TC_05_Register_With_Invalid_Password
+[INFO][2022-08-10 22:02:57,203] -----------PASSED----------
+[DEBUG][2022-08-10 22:02:57,203] After invocation of TC_05_Register_With_Invalid_Password
+[INFO][2022-08-10 22:02:57,207] ------------TC_05_Register_With_Invalid_Password is PASSED ------------
+[INFO][2022-08-10 22:02:57,212] ------------TC_06_Register_With_Invalid_Confirm_Password is STARTED ------------
+[DEBUG][2022-08-10 22:02:57,212] Before invocation of TC_06_Register_With_Invalid_Confirm_Password
+[INFO][2022-08-10 22:02:59,492] -----------PASSED----------
+[DEBUG][2022-08-10 22:02:59,493] After invocation of TC_06_Register_With_Invalid_Confirm_Password
+[INFO][2022-08-10 22:02:59,497] ------------TC_06_Register_With_Invalid_Confirm_Password is PASSED ------------
+[DEBUG][2022-08-10 22:02:59,499] Before invocation of afterClass
+[INFO][2022-08-10 22:02:59,499] OS name = windows 10
+[INFO][2022-08-10 22:02:59,499] Driver instance name = firefoxdriver: firefox on windows (c6c3661e-6a45-4245-9cf5-70b4e803ceb4)
+[DEBUG][2022-08-10 22:03:01,222] After invocation of afterClass
+[INFO][2022-08-10 22:03:01,313] -------FINISHED TEST Run on Firefox------
+[DEBUG][2022-08-10 22:39:14,513] Before invocation of initBeforeSuite
+[DEBUG][2022-08-10 22:39:14,577] After invocation of initBeforeSuite
+[INFO][2022-08-10 22:39:14,595] -------STARTED TEST Run on Firefox------
+[DEBUG][2022-08-10 22:39:14,612] Before invocation of beforeTestAll
+[INFO][2022-08-10 22:39:22,968] Please add parameter in Maven command line
+[INFO][2022-08-10 22:39:26,205] Register new account with email = sammie.mclaughlin@yahoo.com and password = oof61vtgw7p1k5h
+[DEBUG][2022-08-10 22:39:33,902] After invocation of beforeTestAll
+[DEBUG][2022-08-10 22:39:33,903] Before invocation of beforeTestUpdateAccount
+[INFO][2022-08-10 22:39:38,151] Please add parameter in Maven command line
+[INFO][2022-08-10 22:39:39,324] Register new account with email = robbie.moore@yahoo.com and password = cyrfe8gi0
+[DEBUG][2022-08-10 22:39:46,549] After invocation of beforeTestUpdateAccount
+[DEBUG][2022-08-10 22:39:46,594] Before invocation of beforeClass
+[INFO][2022-08-10 22:39:50,396] Please add parameter in Maven command line
+[DEBUG][2022-08-10 22:39:52,998] After invocation of beforeClass
+[INFO][2022-08-10 22:39:53,364] ------------TC_01_Register_With_Empty_Required_Data is STARTED ------------
+[DEBUG][2022-08-10 22:39:53,364] Before invocation of TC_01_Register_With_Empty_Required_Data
+[INFO][2022-08-10 22:39:53,866] -----------PASSED----------
+[INFO][2022-08-10 22:39:53,939] -----------PASSED----------
+[INFO][2022-08-10 22:39:54,012] -----------PASSED----------
+[INFO][2022-08-10 22:39:54,078] -----------PASSED----------
+[INFO][2022-08-10 22:39:54,153] -----------PASSED----------
+[DEBUG][2022-08-10 22:39:54,154] After invocation of TC_01_Register_With_Empty_Required_Data
+[INFO][2022-08-10 22:39:54,441] ------------TC_01_Register_With_Empty_Required_Data is PASSED ------------
+[INFO][2022-08-10 22:39:54,447] ------------TC_02_Register_With_Invalid_Email is STARTED ------------
+[DEBUG][2022-08-10 22:39:54,448] Before invocation of TC_02_Register_With_Invalid_Email
+[INFO][2022-08-10 22:39:56,459] -----------PASSED----------
+[DEBUG][2022-08-10 22:39:56,459] After invocation of TC_02_Register_With_Invalid_Email
+[INFO][2022-08-10 22:39:56,468] ------------TC_02_Register_With_Invalid_Email is PASSED ------------
+[INFO][2022-08-10 22:39:56,472] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[DEBUG][2022-08-10 22:39:56,472] Before invocation of TC_03_Register_With_Valid_Data
+[INFO][2022-08-10 22:40:00,316] -----------FAILED----------
+[INFO][2022-08-10 22:40:00,403] -----------PASSED----------
+[DEBUG][2022-08-10 22:40:00,403] After invocation of TC_03_Register_With_Valid_Data
+[INFO][2022-08-10 22:40:00,419] ------------TC_03_Register_With_Valid_Data is PASSED ------------
+[INFO][2022-08-10 22:40:00,428] ------------TC_04_Register_With_Existing_Email is STARTED ------------
+[DEBUG][2022-08-10 22:40:00,428] Before invocation of TC_04_Register_With_Existing_Email
+[INFO][2022-08-10 22:40:04,678] -----------PASSED----------
+[DEBUG][2022-08-10 22:40:04,678] After invocation of TC_04_Register_With_Existing_Email
+[INFO][2022-08-10 22:40:04,682] ------------TC_04_Register_With_Existing_Email is PASSED ------------
+[INFO][2022-08-10 22:40:04,685] ------------TC_05_Register_With_Invalid_Password is STARTED ------------
+[DEBUG][2022-08-10 22:40:04,685] Before invocation of TC_05_Register_With_Invalid_Password
+[INFO][2022-08-10 22:40:06,288] -----------PASSED----------
+[DEBUG][2022-08-10 22:40:06,289] After invocation of TC_05_Register_With_Invalid_Password
+[INFO][2022-08-10 22:40:06,292] ------------TC_05_Register_With_Invalid_Password is PASSED ------------
+[INFO][2022-08-10 22:40:06,297] ------------TC_06_Register_With_Invalid_Confirm_Password is STARTED ------------
+[DEBUG][2022-08-10 22:40:06,297] Before invocation of TC_06_Register_With_Invalid_Confirm_Password
+[INFO][2022-08-10 22:40:08,408] -----------PASSED----------
+[DEBUG][2022-08-10 22:40:08,409] After invocation of TC_06_Register_With_Invalid_Confirm_Password
+[INFO][2022-08-10 22:40:08,413] ------------TC_06_Register_With_Invalid_Confirm_Password is PASSED ------------
+[DEBUG][2022-08-10 22:40:08,415] Before invocation of afterClass
+[INFO][2022-08-10 22:40:08,415] OS name = windows 10
+[INFO][2022-08-10 22:40:08,416] Driver instance name = firefoxdriver: firefox on windows (ed782ec8-7a4f-4e20-a042-11dc8b10e477)
+[DEBUG][2022-08-10 22:40:09,773] After invocation of afterClass
+[INFO][2022-08-10 22:40:09,823] -------FINISHED TEST Run on Firefox------
+[DEBUG][2022-08-10 23:04:30,200] Before invocation of initBeforeSuite
+[DEBUG][2022-08-10 23:04:30,234] After invocation of initBeforeSuite
+[INFO][2022-08-10 23:04:30,247] -------STARTED TEST Run on Firefox------
+[DEBUG][2022-08-10 23:04:30,265] Before invocation of beforeTestAll
+[INFO][2022-08-10 23:04:38,558] Please add parameter in Maven command line
+[INFO][2022-08-10 23:04:41,770] Register new account with email = mark.tromp@yahoo.com and password = jkye7co7543do
+[DEBUG][2022-08-10 23:04:49,157] After invocation of beforeTestAll
+[DEBUG][2022-08-10 23:04:49,158] Before invocation of beforeTestUpdateAccount
+[INFO][2022-08-10 23:04:53,259] Please add parameter in Maven command line
+[INFO][2022-08-10 23:04:55,316] Register new account with email = kiera.deckow@gmail.com and password = e1nbvtuvo
+[DEBUG][2022-08-10 23:05:02,609] After invocation of beforeTestUpdateAccount
+[DEBUG][2022-08-10 23:05:02,650] Before invocation of beforeClass
+[INFO][2022-08-10 23:05:06,455] Please add parameter in Maven command line
+[DEBUG][2022-08-10 23:05:09,470] After invocation of beforeClass
+[INFO][2022-08-10 23:05:09,765] ------------TC_01_Register_With_Empty_Required_Data is STARTED ------------
+[DEBUG][2022-08-10 23:05:09,765] Before invocation of TC_01_Register_With_Empty_Required_Data
+[INFO][2022-08-10 23:05:10,255] -----------PASSED----------
+[INFO][2022-08-10 23:05:10,326] -----------PASSED----------
+[INFO][2022-08-10 23:05:10,401] -----------PASSED----------
+[INFO][2022-08-10 23:05:10,469] -----------PASSED----------
+[INFO][2022-08-10 23:05:10,543] -----------PASSED----------
+[DEBUG][2022-08-10 23:05:10,544] After invocation of TC_01_Register_With_Empty_Required_Data
+[INFO][2022-08-10 23:05:10,781] ------------TC_01_Register_With_Empty_Required_Data is PASSED ------------
+[INFO][2022-08-10 23:05:10,835] ------------TC_02_Register_With_Invalid_Email is STARTED ------------
+[DEBUG][2022-08-10 23:05:10,836] Before invocation of TC_02_Register_With_Invalid_Email
+[INFO][2022-08-10 23:05:12,799] -----------PASSED----------
+[DEBUG][2022-08-10 23:05:12,799] After invocation of TC_02_Register_With_Invalid_Email
+[INFO][2022-08-10 23:05:12,809] ------------TC_02_Register_With_Invalid_Email is PASSED ------------
+[INFO][2022-08-10 23:05:12,813] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[DEBUG][2022-08-10 23:05:12,813] Before invocation of TC_03_Register_With_Valid_Data
+[INFO][2022-08-10 23:05:16,721] -----------FAILED----------
+[INFO][2022-08-10 23:05:16,859] -----------PASSED----------
+[DEBUG][2022-08-10 23:05:16,860] After invocation of TC_03_Register_With_Valid_Data
+[INFO][2022-08-10 23:05:16,874] ------------TC_03_Register_With_Valid_Data is PASSED ------------
+[INFO][2022-08-10 23:05:16,879] ------------TC_04_Register_With_Existing_Email is STARTED ------------
+[DEBUG][2022-08-10 23:05:16,879] Before invocation of TC_04_Register_With_Existing_Email
+[INFO][2022-08-10 23:05:20,987] -----------PASSED----------
+[DEBUG][2022-08-10 23:05:20,987] After invocation of TC_04_Register_With_Existing_Email
+[INFO][2022-08-10 23:05:20,991] ------------TC_04_Register_With_Existing_Email is PASSED ------------
+[INFO][2022-08-10 23:05:20,996] ------------TC_05_Register_With_Invalid_Password is STARTED ------------
+[DEBUG][2022-08-10 23:05:20,996] Before invocation of TC_05_Register_With_Invalid_Password
+[INFO][2022-08-10 23:05:22,646] -----------PASSED----------
+[DEBUG][2022-08-10 23:05:22,646] After invocation of TC_05_Register_With_Invalid_Password
+[INFO][2022-08-10 23:05:22,650] ------------TC_05_Register_With_Invalid_Password is PASSED ------------
+[INFO][2022-08-10 23:05:22,654] ------------TC_06_Register_With_Invalid_Confirm_Password is STARTED ------------
+[DEBUG][2022-08-10 23:05:22,655] Before invocation of TC_06_Register_With_Invalid_Confirm_Password
+[INFO][2022-08-10 23:05:24,771] -----------PASSED----------
+[DEBUG][2022-08-10 23:05:24,771] After invocation of TC_06_Register_With_Invalid_Confirm_Password
+[INFO][2022-08-10 23:05:24,776] ------------TC_06_Register_With_Invalid_Confirm_Password is PASSED ------------
+[DEBUG][2022-08-10 23:05:24,778] Before invocation of afterClass
+[INFO][2022-08-10 23:05:24,778] OS name = windows 10
+[INFO][2022-08-10 23:05:24,779] Driver instance name = firefoxdriver: firefox on windows (a7a942d1-794e-47aa-b06e-da08a86e7e4e)
+[DEBUG][2022-08-10 23:05:26,028] After invocation of afterClass
+[INFO][2022-08-10 23:05:26,094] -------FINISHED TEST Run on Firefox------
+[DEBUG][2022-08-10 23:23:09,606] Before invocation of initBeforeSuite
+[DEBUG][2022-08-10 23:23:09,636] After invocation of initBeforeSuite
+[INFO][2022-08-10 23:23:09,645] -------STARTED TEST Run on Firefox------
+[DEBUG][2022-08-10 23:23:09,655] Before invocation of beforeTestAll
+[INFO][2022-08-10 23:23:16,144] Please add parameter in Maven command line
+[INFO][2022-08-10 23:23:19,395] Register new account with email = jaunita.damore@hotmail.com and password = 74sp7orfhc9m5
+[DEBUG][2022-08-10 23:23:26,898] After invocation of beforeTestAll
+[DEBUG][2022-08-10 23:23:26,899] Before invocation of beforeTestUpdateAccount
+[INFO][2022-08-10 23:23:30,635] Please add parameter in Maven command line
+[INFO][2022-08-10 23:23:32,590] Register new account with email = winford.jerde@hotmail.com and password = s4wt13uiowrpo2
+[DEBUG][2022-08-10 23:23:39,791] After invocation of beforeTestUpdateAccount
+[DEBUG][2022-08-10 23:23:39,840] Before invocation of beforeClass
+[INFO][2022-08-10 23:23:43,638] Please add parameter in Maven command line
+[DEBUG][2022-08-10 23:23:46,650] After invocation of beforeClass
+[INFO][2022-08-10 23:23:47,050] ------------TC_01_Register_With_Empty_Required_Data is STARTED ------------
+[DEBUG][2022-08-10 23:23:47,050] Before invocation of TC_01_Register_With_Empty_Required_Data
+[INFO][2022-08-10 23:23:47,666] -----------PASSED----------
+[INFO][2022-08-10 23:23:47,739] -----------PASSED----------
+[INFO][2022-08-10 23:23:47,816] -----------PASSED----------
+[INFO][2022-08-10 23:23:47,895] -----------PASSED----------
+[INFO][2022-08-10 23:23:47,971] -----------PASSED----------
+[DEBUG][2022-08-10 23:23:47,972] After invocation of TC_01_Register_With_Empty_Required_Data
+[INFO][2022-08-10 23:23:48,328] ------------TC_01_Register_With_Empty_Required_Data is PASSED ------------
+[INFO][2022-08-10 23:23:48,338] ------------TC_02_Register_With_Invalid_Email is STARTED ------------
+[DEBUG][2022-08-10 23:23:48,339] Before invocation of TC_02_Register_With_Invalid_Email
+[INFO][2022-08-10 23:23:50,240] -----------PASSED----------
+[DEBUG][2022-08-10 23:23:50,240] After invocation of TC_02_Register_With_Invalid_Email
+[INFO][2022-08-10 23:23:50,248] ------------TC_02_Register_With_Invalid_Email is PASSED ------------
+[INFO][2022-08-10 23:23:50,252] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[DEBUG][2022-08-10 23:23:50,252] Before invocation of TC_03_Register_With_Valid_Data
+[INFO][2022-08-10 23:23:54,190] -----------FAILED----------
+[INFO][2022-08-10 23:23:54,412] -----------PASSED----------
+[DEBUG][2022-08-10 23:23:54,412] After invocation of TC_03_Register_With_Valid_Data
+[INFO][2022-08-10 23:23:54,430] ------------TC_03_Register_With_Valid_Data is FAILED ------------
+[INFO][2022-08-10 23:23:54,511] ------------TC_04_Register_With_Existing_Email is STARTED ------------
+[DEBUG][2022-08-10 23:23:54,511] Before invocation of TC_04_Register_With_Existing_Email
+[INFO][2022-08-10 23:23:58,565] -----------PASSED----------
+[DEBUG][2022-08-10 23:23:58,565] After invocation of TC_04_Register_With_Existing_Email
+[INFO][2022-08-10 23:23:58,570] ------------TC_04_Register_With_Existing_Email is PASSED ------------
+[INFO][2022-08-10 23:23:58,578] ------------TC_05_Register_With_Invalid_Password is STARTED ------------
+[DEBUG][2022-08-10 23:23:58,578] Before invocation of TC_05_Register_With_Invalid_Password
+[INFO][2022-08-10 23:24:00,206] -----------PASSED----------
+[DEBUG][2022-08-10 23:24:00,207] After invocation of TC_05_Register_With_Invalid_Password
+[INFO][2022-08-10 23:24:00,210] ------------TC_05_Register_With_Invalid_Password is PASSED ------------
+[INFO][2022-08-10 23:24:00,216] ------------TC_06_Register_With_Invalid_Confirm_Password is STARTED ------------
+[DEBUG][2022-08-10 23:24:00,216] Before invocation of TC_06_Register_With_Invalid_Confirm_Password
+[INFO][2022-08-10 23:24:02,362] -----------PASSED----------
+[DEBUG][2022-08-10 23:24:02,362] After invocation of TC_06_Register_With_Invalid_Confirm_Password
+[INFO][2022-08-10 23:24:02,365] ------------TC_06_Register_With_Invalid_Confirm_Password is PASSED ------------
+[DEBUG][2022-08-10 23:24:02,367] Before invocation of afterClass
+[INFO][2022-08-10 23:24:02,368] OS name = windows 10
+[INFO][2022-08-10 23:24:02,368] Driver instance name = firefoxdriver: firefox on windows (8b2b5e9b-2a46-4add-b572-d91131e9fa95)
+[DEBUG][2022-08-10 23:24:03,653] After invocation of afterClass
+[INFO][2022-08-10 23:24:03,727] -------FINISHED TEST Run on Firefox------
+[DEBUG][2022-08-10 23:27:40,084] Before invocation of initBeforeSuite
+[DEBUG][2022-08-10 23:27:40,139] After invocation of initBeforeSuite
+[INFO][2022-08-10 23:27:40,147] -------STARTED TEST Run on Firefox------
+[DEBUG][2022-08-10 23:27:40,175] Before invocation of beforeTestAll
+[INFO][2022-08-10 23:27:46,250] Please add parameter in Maven command line
+[INFO][2022-08-10 23:27:49,584] Register new account with email = rosalba.huels@hotmail.com and password = uhkwutvw1
+[DEBUG][2022-08-10 23:27:57,009] After invocation of beforeTestAll
+[DEBUG][2022-08-10 23:27:57,010] Before invocation of beforeTestUpdateAccount
+[INFO][2022-08-10 23:28:00,966] Please add parameter in Maven command line
+[INFO][2022-08-10 23:28:03,311] Register new account with email = katherin.kessler@gmail.com and password = f7locvb8
+[DEBUG][2022-08-10 23:28:10,596] After invocation of beforeTestUpdateAccount
+[DEBUG][2022-08-10 23:28:10,638] Before invocation of beforeClass
+[INFO][2022-08-10 23:28:14,391] Please add parameter in Maven command line
+[DEBUG][2022-08-10 23:28:19,172] After invocation of beforeClass
+[INFO][2022-08-10 23:28:19,205] ------------TC_01_Update_Customer_Info is STARTED ------------
+[DEBUG][2022-08-10 23:28:19,533] Before invocation of TC_01_Update_Customer_Info
+[DEBUG][2022-08-10 23:28:20,135] After invocation of TC_01_Update_Customer_Info
+[INFO][2022-08-10 23:28:20,142] ------------TC_01_Update_Customer_Info is FAILED ------------
+[INFO][2022-08-10 23:28:20,666] ------------TC_02_Add_Customer_Address is STARTED ------------
+[DEBUG][2022-08-10 23:28:20,669] Before invocation of TC_02_Add_Customer_Address
+[DEBUG][2022-08-10 23:28:21,025] After invocation of TC_02_Add_Customer_Address
+[INFO][2022-08-10 23:28:21,028] ------------TC_02_Add_Customer_Address is FAILED ------------
+[INFO][2022-08-10 23:28:21,110] ------------TC_03_Change_Password is STARTED ------------
+[DEBUG][2022-08-10 23:28:21,112] Before invocation of TC_03_Change_Password
+[INFO][2022-08-10 23:28:22,910] -----------FAILED----------
+[INFO][2022-08-10 23:28:26,861] -----------FAILED----------
+[DEBUG][2022-08-10 23:28:57,673] After invocation of TC_03_Change_Password
+[INFO][2022-08-10 23:28:57,683] ------------TC_03_Change_Password is FAILED ------------
+[INFO][2022-08-10 23:28:57,755] ------------TC_04_View_Product_Review is STARTED ------------
+[DEBUG][2022-08-10 23:28:57,758] Before invocation of TC_04_View_Product_Review
+[DEBUG][2022-08-10 23:29:27,787] After invocation of TC_04_View_Product_Review
+[INFO][2022-08-10 23:29:27,789] ------------TC_04_View_Product_Review is FAILED ------------
+[DEBUG][2022-08-10 23:29:27,849] Before invocation of afterClass
+[INFO][2022-08-10 23:29:27,850] OS name = windows 10
+[INFO][2022-08-10 23:29:27,851] Driver instance name = firefoxdriver: firefox on windows (33a40a39-be62-4bd3-b6bf-c339837cf515)
+[DEBUG][2022-08-10 23:29:29,155] After invocation of afterClass
+[INFO][2022-08-10 23:29:29,198] -------FINISHED TEST Run on Firefox------
+[DEBUG][2022-08-10 23:38:17,039] Before invocation of initBeforeSuite
+[DEBUG][2022-08-10 23:38:17,079] After invocation of initBeforeSuite
+[INFO][2022-08-10 23:38:17,096] -------STARTED TEST Run on Firefox------
+[DEBUG][2022-08-10 23:38:17,111] Before invocation of beforeTestAll
+[INFO][2022-08-10 23:38:24,901] Please add parameter in Maven command line
+[INFO][2022-08-10 23:38:28,633] Register new account with email = emily.zulauf@hotmail.com and password = 07ht9s2szm0ssq
+[DEBUG][2022-08-10 23:38:36,506] After invocation of beforeTestAll
+[DEBUG][2022-08-10 23:38:36,507] Before invocation of beforeTestUpdateAccount
+[INFO][2022-08-10 23:38:40,970] Please add parameter in Maven command line
+[INFO][2022-08-10 23:38:43,174] Register new account with email = jeffry.hahn@yahoo.com and password = 7vv8jkv3tmc
+[DEBUG][2022-08-10 23:38:50,543] After invocation of beforeTestUpdateAccount
+[DEBUG][2022-08-10 23:38:50,588] Before invocation of beforeClass
+[INFO][2022-08-10 23:38:54,574] Please add parameter in Maven command line
+[DEBUG][2022-08-10 23:38:59,301] After invocation of beforeClass
+[INFO][2022-08-10 23:38:59,493] ------------TC_01_Update_Customer_Info is STARTED ------------
+[DEBUG][2022-08-10 23:38:59,494] Before invocation of TC_01_Update_Customer_Info
+[INFO][2022-08-10 23:39:04,226] -----------PASSED----------
+[INFO][2022-08-10 23:39:04,301] -----------PASSED----------
+[INFO][2022-08-10 23:39:04,382] -----------PASSED----------
+[INFO][2022-08-10 23:39:04,458] -----------PASSED----------
+[INFO][2022-08-10 23:39:04,548] -----------PASSED----------
+[INFO][2022-08-10 23:39:04,638] -----------PASSED----------
+[INFO][2022-08-10 23:39:04,710] -----------PASSED----------
+[DEBUG][2022-08-10 23:39:04,711] After invocation of TC_01_Update_Customer_Info
+[INFO][2022-08-10 23:39:05,016] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-08-10 23:39:05,031] ------------TC_02_Add_Customer_Address is STARTED ------------
+[DEBUG][2022-08-10 23:39:05,032] Before invocation of TC_02_Add_Customer_Address
+[INFO][2022-08-10 23:39:09,653] -----------PASSED----------
+[INFO][2022-08-10 23:39:09,736] -----------PASSED----------
+[INFO][2022-08-10 23:39:09,809] -----------PASSED----------
+[INFO][2022-08-10 23:39:09,885] -----------PASSED----------
+[INFO][2022-08-10 23:39:09,977] -----------PASSED----------
+[INFO][2022-08-10 23:39:10,039] -----------PASSED----------
+[INFO][2022-08-10 23:39:10,102] -----------PASSED----------
+[INFO][2022-08-10 23:39:10,151] -----------PASSED----------
+[INFO][2022-08-10 23:39:10,214] -----------PASSED----------
+[DEBUG][2022-08-10 23:39:10,214] After invocation of TC_02_Add_Customer_Address
+[INFO][2022-08-10 23:39:10,227] ------------TC_02_Add_Customer_Address is PASSED ------------
+[INFO][2022-08-10 23:39:10,232] ------------TC_03_Change_Password is STARTED ------------
+[DEBUG][2022-08-10 23:39:10,232] Before invocation of TC_03_Change_Password
+[INFO][2022-08-10 23:39:11,995] -----------FAILED----------
+[INFO][2022-08-10 23:39:15,984] -----------FAILED----------
+[DEBUG][2022-08-10 23:39:46,899] After invocation of TC_03_Change_Password
+[INFO][2022-08-10 23:39:46,918] ------------TC_03_Change_Password is FAILED ------------
+[INFO][2022-08-10 23:39:47,003] ------------TC_04_View_Product_Review is STARTED ------------
+[DEBUG][2022-08-10 23:39:47,004] Before invocation of TC_04_View_Product_Review
+[DEBUG][2022-08-10 23:40:17,017] After invocation of TC_04_View_Product_Review
+[INFO][2022-08-10 23:40:17,033] ------------TC_04_View_Product_Review is FAILED ------------
+[DEBUG][2022-08-10 23:40:17,105] Before invocation of afterClass
+[INFO][2022-08-10 23:40:17,105] OS name = windows 10
+[INFO][2022-08-10 23:40:17,105] Driver instance name = firefoxdriver: firefox on windows (c1116869-dbec-4199-be08-c4cd79897d98)
+[DEBUG][2022-08-10 23:40:18,398] After invocation of afterClass
+[INFO][2022-08-10 23:40:18,485] -------FINISHED TEST Run on Firefox------
+[DEBUG][2022-08-10 23:45:25,401] Before invocation of initBeforeSuite
+[DEBUG][2022-08-10 23:45:25,450] After invocation of initBeforeSuite
+[INFO][2022-08-10 23:45:25,460] -------STARTED TEST Run on Firefox------
+[DEBUG][2022-08-10 23:45:25,491] Before invocation of beforeTestAll
+[INFO][2022-08-10 23:45:31,712] Please add parameter in Maven command line
+[INFO][2022-08-10 23:45:34,900] Register new account with email = janette.kemmer@yahoo.com and password = u369g5wn
+[DEBUG][2022-08-10 23:45:42,577] After invocation of beforeTestAll
+[DEBUG][2022-08-10 23:45:42,578] Before invocation of beforeTestUpdateAccount
+[INFO][2022-08-10 23:45:46,582] Please add parameter in Maven command line
+[INFO][2022-08-10 23:45:48,505] Register new account with email = jamar.schmidt@hotmail.com and password = mwdh3pa4
+[DEBUG][2022-08-10 23:45:55,487] After invocation of beforeTestUpdateAccount
+[DEBUG][2022-08-10 23:45:55,509] Before invocation of beforeClass
+[INFO][2022-08-10 23:45:59,511] Please add parameter in Maven command line
+[DEBUG][2022-08-10 23:46:03,945] After invocation of beforeClass
+[INFO][2022-08-10 23:46:03,978] ------------TC_01_Update_Customer_Info is STARTED ------------
+[DEBUG][2022-08-10 23:46:04,230] Before invocation of TC_01_Update_Customer_Info
+[INFO][2022-08-10 23:46:09,023] -----------PASSED----------
+[INFO][2022-08-10 23:46:09,109] -----------PASSED----------
+[INFO][2022-08-10 23:46:09,223] -----------PASSED----------
+[INFO][2022-08-10 23:46:09,300] -----------PASSED----------
+[INFO][2022-08-10 23:46:09,377] -----------PASSED----------
+[INFO][2022-08-10 23:46:09,443] -----------PASSED----------
+[INFO][2022-08-10 23:46:09,523] -----------PASSED----------
+[DEBUG][2022-08-10 23:46:09,524] After invocation of TC_01_Update_Customer_Info
+[INFO][2022-08-10 23:46:09,532] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-08-10 23:46:09,814] ------------TC_02_Add_Customer_Address is STARTED ------------
+[DEBUG][2022-08-10 23:46:09,818] Before invocation of TC_02_Add_Customer_Address
+[INFO][2022-08-10 23:46:14,765] -----------PASSED----------
+[INFO][2022-08-10 23:46:14,863] -----------PASSED----------
+[INFO][2022-08-10 23:46:14,987] -----------PASSED----------
+[INFO][2022-08-10 23:46:15,101] -----------PASSED----------
+[INFO][2022-08-10 23:46:15,170] -----------PASSED----------
+[INFO][2022-08-10 23:46:15,236] -----------PASSED----------
+[INFO][2022-08-10 23:46:15,301] -----------PASSED----------
+[INFO][2022-08-10 23:46:15,375] -----------PASSED----------
+[INFO][2022-08-10 23:46:15,424] -----------PASSED----------
+[DEBUG][2022-08-10 23:46:15,424] After invocation of TC_02_Add_Customer_Address
+[INFO][2022-08-10 23:46:15,426] ------------TC_02_Add_Customer_Address is PASSED ------------
+[INFO][2022-08-10 23:46:15,446] ------------TC_03_Change_Password is STARTED ------------
+[DEBUG][2022-08-10 23:46:15,449] Before invocation of TC_03_Change_Password
+[INFO][2022-08-10 23:46:17,358] -----------PASSED----------
+[INFO][2022-08-10 23:46:21,293] -----------FAILED----------
+[DEBUG][2022-08-10 23:46:52,467] After invocation of TC_03_Change_Password
+[INFO][2022-08-10 23:46:52,469] ------------TC_03_Change_Password is FAILED ------------
+[INFO][2022-08-10 23:46:52,531] ------------TC_04_View_Product_Review is STARTED ------------
+[DEBUG][2022-08-10 23:46:52,534] Before invocation of TC_04_View_Product_Review
+[DEBUG][2022-08-10 23:47:22,544] After invocation of TC_04_View_Product_Review
+[INFO][2022-08-10 23:47:22,547] ------------TC_04_View_Product_Review is FAILED ------------
+[DEBUG][2022-08-10 23:47:22,621] Before invocation of afterClass
+[INFO][2022-08-10 23:47:22,622] OS name = windows 10
+[INFO][2022-08-10 23:47:22,623] Driver instance name = firefoxdriver: firefox on windows (ab380635-1645-429c-acba-0db07ede9bd1)
+[DEBUG][2022-08-10 23:47:23,967] After invocation of afterClass
+[INFO][2022-08-10 23:47:24,012] -------FINISHED TEST Run on Firefox------
+[DEBUG][2022-08-10 23:48:20,946] Before invocation of initBeforeSuite
+[DEBUG][2022-08-10 23:48:21,031] After invocation of initBeforeSuite
+[INFO][2022-08-10 23:48:21,038] -------STARTED TEST Run on Firefox------
+[DEBUG][2022-08-10 23:48:21,060] Before invocation of beforeTestAll
+[INFO][2022-08-10 23:48:27,279] Please add parameter in Maven command line
+[INFO][2022-08-10 23:48:30,474] Register new account with email = faustino.bernier@hotmail.com and password = qg5tqor8y3
+[DEBUG][2022-08-10 23:48:37,960] After invocation of beforeTestAll
+[DEBUG][2022-08-10 23:48:37,960] Before invocation of beforeTestUpdateAccount
+[INFO][2022-08-10 23:48:41,854] Please add parameter in Maven command line
+[INFO][2022-08-10 23:48:43,822] Register new account with email = stella.pagac@yahoo.com and password = 80bbgv25tj
+[DEBUG][2022-08-10 23:48:50,984] After invocation of beforeTestUpdateAccount
+[DEBUG][2022-08-10 23:48:51,021] Before invocation of beforeClass
+[INFO][2022-08-10 23:48:54,730] Please add parameter in Maven command line
+[DEBUG][2022-08-10 23:48:59,751] After invocation of beforeClass
+[INFO][2022-08-10 23:48:59,780] ------------TC_01_Update_Customer_Info is STARTED ------------
+[DEBUG][2022-08-10 23:48:59,964] Before invocation of TC_01_Update_Customer_Info
+[INFO][2022-08-10 23:49:04,634] -----------PASSED----------
+[INFO][2022-08-10 23:49:04,739] -----------PASSED----------
+[INFO][2022-08-10 23:49:04,818] -----------PASSED----------
+[INFO][2022-08-10 23:49:04,896] -----------PASSED----------
+[INFO][2022-08-10 23:49:04,967] -----------PASSED----------
+[INFO][2022-08-10 23:49:05,076] -----------PASSED----------
+[INFO][2022-08-10 23:49:05,137] -----------PASSED----------
+[DEBUG][2022-08-10 23:49:05,138] After invocation of TC_01_Update_Customer_Info
+[INFO][2022-08-10 23:49:05,143] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-08-10 23:49:05,526] ------------TC_02_Add_Customer_Address is STARTED ------------
+[DEBUG][2022-08-10 23:49:05,530] Before invocation of TC_02_Add_Customer_Address
+[INFO][2022-08-10 23:49:10,466] -----------PASSED----------
+[INFO][2022-08-10 23:49:10,539] -----------PASSED----------
+[INFO][2022-08-10 23:49:10,628] -----------PASSED----------
+[INFO][2022-08-10 23:49:10,715] -----------PASSED----------
+[INFO][2022-08-10 23:49:10,783] -----------PASSED----------
+[INFO][2022-08-10 23:49:10,853] -----------PASSED----------
+[INFO][2022-08-10 23:49:10,914] -----------PASSED----------
+[INFO][2022-08-10 23:49:10,963] -----------PASSED----------
+[INFO][2022-08-10 23:49:11,016] -----------PASSED----------
+[DEBUG][2022-08-10 23:49:11,017] After invocation of TC_02_Add_Customer_Address
+[INFO][2022-08-10 23:49:11,021] ------------TC_02_Add_Customer_Address is PASSED ------------
+[INFO][2022-08-10 23:49:11,034] ------------TC_03_Change_Password is STARTED ------------
+[DEBUG][2022-08-10 23:49:11,038] Before invocation of TC_03_Change_Password
+[INFO][2022-08-10 23:49:12,759] -----------PASSED----------
+[INFO][2022-08-10 23:49:16,655] -----------FAILED----------
+[DEBUG][2022-08-10 23:49:48,199] After invocation of TC_03_Change_Password
+[INFO][2022-08-10 23:49:48,201] ------------TC_03_Change_Password is FAILED ------------
+[INFO][2022-08-10 23:49:48,262] ------------TC_04_View_Product_Review is STARTED ------------
+[DEBUG][2022-08-10 23:49:48,264] Before invocation of TC_04_View_Product_Review
+[DEBUG][2022-08-10 23:50:18,287] After invocation of TC_04_View_Product_Review
+[INFO][2022-08-10 23:50:18,289] ------------TC_04_View_Product_Review is FAILED ------------
+[DEBUG][2022-08-10 23:50:18,346] Before invocation of afterClass
+[INFO][2022-08-10 23:50:18,348] OS name = windows 10
+[INFO][2022-08-10 23:50:18,348] Driver instance name = firefoxdriver: firefox on windows (db094a77-503f-4a0e-bc53-4db707d241e7)
+[DEBUG][2022-08-10 23:50:19,608] After invocation of afterClass
+[INFO][2022-08-10 23:50:19,646] -------FINISHED TEST Run on Firefox------
+[DEBUG][2022-08-10 23:50:35,193] Before invocation of initBeforeSuite
+[DEBUG][2022-08-10 23:50:35,243] After invocation of initBeforeSuite
+[INFO][2022-08-10 23:50:35,253] -------STARTED TEST Run on Firefox------
+[DEBUG][2022-08-10 23:50:35,273] Before invocation of beforeTestAll
+[INFO][2022-08-10 23:50:41,726] Please add parameter in Maven command line
+[INFO][2022-08-10 23:50:43,959] Register new account with email = cheyenne.okuneva@gmail.com and password = nwvp58r2r6ss
+[DEBUG][2022-08-10 23:50:51,538] After invocation of beforeTestAll
+[DEBUG][2022-08-10 23:50:51,539] Before invocation of beforeTestUpdateAccount
+[INFO][2022-08-10 23:50:55,441] Please add parameter in Maven command line
+[INFO][2022-08-10 23:50:57,325] Register new account with email = harland.hodkiewicz@hotmail.com and password = mio2qjod8c0nrpf
+[DEBUG][2022-08-10 23:51:04,420] After invocation of beforeTestUpdateAccount
+[DEBUG][2022-08-10 23:51:04,469] Before invocation of beforeClass
+[INFO][2022-08-10 23:51:08,512] Please add parameter in Maven command line
+[DEBUG][2022-08-10 23:51:13,737] After invocation of beforeClass
+[INFO][2022-08-10 23:51:13,768] ------------TC_01_Update_Customer_Info is STARTED ------------
+[DEBUG][2022-08-10 23:51:13,949] Before invocation of TC_01_Update_Customer_Info
+[INFO][2022-08-10 23:51:18,323] -----------PASSED----------
+[INFO][2022-08-10 23:51:18,396] -----------PASSED----------
+[INFO][2022-08-10 23:51:18,475] -----------PASSED----------
+[INFO][2022-08-10 23:51:18,569] -----------PASSED----------
+[INFO][2022-08-10 23:51:18,677] -----------PASSED----------
+[INFO][2022-08-10 23:51:18,749] -----------PASSED----------
+[INFO][2022-08-10 23:51:18,825] -----------PASSED----------
+[DEBUG][2022-08-10 23:51:18,826] After invocation of TC_01_Update_Customer_Info
+[INFO][2022-08-10 23:51:18,831] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-08-10 23:51:19,119] ------------TC_02_Add_Customer_Address is STARTED ------------
+[DEBUG][2022-08-10 23:51:19,123] Before invocation of TC_02_Add_Customer_Address
+[INFO][2022-08-10 23:51:24,044] -----------PASSED----------
+[INFO][2022-08-10 23:51:24,109] -----------PASSED----------
+[INFO][2022-08-10 23:51:24,185] -----------PASSED----------
+[INFO][2022-08-10 23:51:24,250] -----------PASSED----------
+[INFO][2022-08-10 23:51:24,313] -----------PASSED----------
+[INFO][2022-08-10 23:51:24,376] -----------PASSED----------
+[INFO][2022-08-10 23:51:24,436] -----------PASSED----------
+[INFO][2022-08-10 23:51:24,498] -----------PASSED----------
+[INFO][2022-08-10 23:51:24,563] -----------PASSED----------
+[DEBUG][2022-08-10 23:51:24,563] After invocation of TC_02_Add_Customer_Address
+[INFO][2022-08-10 23:51:24,565] ------------TC_02_Add_Customer_Address is PASSED ------------
+[INFO][2022-08-10 23:51:24,580] ------------TC_03_Change_Password is STARTED ------------
+[DEBUG][2022-08-10 23:51:24,584] Before invocation of TC_03_Change_Password
+[INFO][2022-08-10 23:51:26,406] -----------PASSED----------
+[INFO][2022-08-10 23:51:30,425] -----------PASSED----------
+[DEBUG][2022-08-10 23:52:01,887] After invocation of TC_03_Change_Password
+[INFO][2022-08-10 23:52:01,889] ------------TC_03_Change_Password is FAILED ------------
+[INFO][2022-08-10 23:52:01,963] ------------TC_04_View_Product_Review is STARTED ------------
+[DEBUG][2022-08-10 23:52:01,966] Before invocation of TC_04_View_Product_Review
+[DEBUG][2022-08-10 23:52:31,984] After invocation of TC_04_View_Product_Review
+[INFO][2022-08-10 23:52:31,988] ------------TC_04_View_Product_Review is FAILED ------------
+[DEBUG][2022-08-10 23:52:32,052] Before invocation of afterClass
+[INFO][2022-08-10 23:52:32,053] OS name = windows 10
+[INFO][2022-08-10 23:52:32,054] Driver instance name = firefoxdriver: firefox on windows (e0ba2ebb-27f9-41ab-b128-e10f52aabe66)
+[DEBUG][2022-08-10 23:52:33,293] After invocation of afterClass
+[INFO][2022-08-10 23:52:33,341] -------FINISHED TEST Run on Firefox------
+[DEBUG][2022-08-11 00:01:03,742] Before invocation of initBeforeSuite
+[DEBUG][2022-08-11 00:01:03,803] After invocation of initBeforeSuite
+[INFO][2022-08-11 00:01:03,809] -------STARTED TEST Run on Firefox------
+[DEBUG][2022-08-11 00:01:03,834] Before invocation of beforeTestAll
+[INFO][2022-08-11 00:01:10,196] Please add parameter in Maven command line
+[INFO][2022-08-11 00:01:13,693] Register new account with email = leighann.terry@hotmail.com and password = agqikygass8iawc
+[DEBUG][2022-08-11 00:01:21,056] After invocation of beforeTestAll
+[DEBUG][2022-08-11 00:01:21,057] Before invocation of beforeTestUpdateAccount
+[INFO][2022-08-11 00:01:25,027] Please add parameter in Maven command line
+[INFO][2022-08-11 00:01:27,093] Register new account with email = irwin.welch@yahoo.com and password = 2krlht72
+[DEBUG][2022-08-11 00:01:34,222] After invocation of beforeTestUpdateAccount
+[DEBUG][2022-08-11 00:01:34,249] Before invocation of beforeClass
+[INFO][2022-08-11 00:01:38,166] Please add parameter in Maven command line
+[DEBUG][2022-08-11 00:01:43,224] After invocation of beforeClass
+[INFO][2022-08-11 00:01:43,255] ------------TC_01_Update_Customer_Info is STARTED ------------
+[DEBUG][2022-08-11 00:01:43,429] Before invocation of TC_01_Update_Customer_Info
+[INFO][2022-08-11 00:01:47,600] -----------PASSED----------
+[INFO][2022-08-11 00:01:47,677] -----------PASSED----------
+[INFO][2022-08-11 00:01:47,756] -----------PASSED----------
+[INFO][2022-08-11 00:01:47,839] -----------PASSED----------
+[INFO][2022-08-11 00:01:47,910] -----------PASSED----------
+[INFO][2022-08-11 00:01:47,984] -----------PASSED----------
+[INFO][2022-08-11 00:01:48,055] -----------PASSED----------
+[DEBUG][2022-08-11 00:01:48,056] After invocation of TC_01_Update_Customer_Info
+[INFO][2022-08-11 00:01:48,060] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-08-11 00:01:48,396] ------------TC_02_Add_Customer_Address is STARTED ------------
+[DEBUG][2022-08-11 00:01:48,401] Before invocation of TC_02_Add_Customer_Address
+[INFO][2022-08-11 00:01:53,419] -----------PASSED----------
+[INFO][2022-08-11 00:01:53,486] -----------PASSED----------
+[INFO][2022-08-11 00:01:53,566] -----------PASSED----------
+[INFO][2022-08-11 00:01:53,640] -----------PASSED----------
+[INFO][2022-08-11 00:01:53,703] -----------PASSED----------
+[INFO][2022-08-11 00:01:53,764] -----------PASSED----------
+[INFO][2022-08-11 00:01:53,826] -----------PASSED----------
+[INFO][2022-08-11 00:01:53,890] -----------PASSED----------
+[INFO][2022-08-11 00:01:53,952] -----------PASSED----------
+[DEBUG][2022-08-11 00:01:53,952] After invocation of TC_02_Add_Customer_Address
+[INFO][2022-08-11 00:01:53,954] ------------TC_02_Add_Customer_Address is PASSED ------------
+[INFO][2022-08-11 00:01:53,966] ------------TC_03_Change_Password is STARTED ------------
+[DEBUG][2022-08-11 00:01:53,969] Before invocation of TC_03_Change_Password
+[INFO][2022-08-11 00:01:57,916] -----------PASSED----------
+[INFO][2022-08-11 00:02:01,914] -----------PASSED----------
+[DEBUG][2022-08-11 00:02:02,103] After invocation of TC_03_Change_Password
+[INFO][2022-08-11 00:02:02,109] ------------TC_03_Change_Password is FAILED ------------
+[INFO][2022-08-11 00:02:02,208] ------------TC_04_View_Product_Review is STARTED ------------
+[DEBUG][2022-08-11 00:02:02,210] Before invocation of TC_04_View_Product_Review
+[DEBUG][2022-08-11 00:02:32,240] After invocation of TC_04_View_Product_Review
+[INFO][2022-08-11 00:02:32,243] ------------TC_04_View_Product_Review is FAILED ------------
+[DEBUG][2022-08-11 00:02:32,313] Before invocation of afterClass
+[INFO][2022-08-11 00:02:32,314] OS name = windows 10
+[INFO][2022-08-11 00:02:32,314] Driver instance name = firefoxdriver: firefox on windows (77db6763-3d69-4112-9363-56efd7fb84e7)
+[DEBUG][2022-08-11 00:02:33,625] After invocation of afterClass
+[INFO][2022-08-11 00:02:33,668] -------FINISHED TEST Run on Firefox------
+[DEBUG][2022-08-11 00:07:42,831] Before invocation of initBeforeSuite
+[DEBUG][2022-08-11 00:07:42,863] After invocation of initBeforeSuite
+[INFO][2022-08-11 00:07:42,873] -------STARTED TEST Run on Firefox------
+[DEBUG][2022-08-11 00:07:42,884] Before invocation of beforeTestAll
+[INFO][2022-08-11 00:07:50,304] Please add parameter in Maven command line
+[INFO][2022-08-11 00:07:53,743] Register new account with email = quintin.abbott@gmail.com and password = rfpx3grlgswp5
+[DEBUG][2022-08-11 00:08:01,359] After invocation of beforeTestAll
+[DEBUG][2022-08-11 00:08:01,360] Before invocation of beforeTestUpdateAccount
+[INFO][2022-08-11 00:08:05,254] Please add parameter in Maven command line
+[INFO][2022-08-11 00:08:06,388] Register new account with email = sierra.hudson@hotmail.com and password = tg8z612x9u
+[DEBUG][2022-08-11 00:08:13,481] After invocation of beforeTestUpdateAccount
+[DEBUG][2022-08-11 00:08:13,517] Before invocation of beforeClass
+[INFO][2022-08-11 00:08:17,268] Please add parameter in Maven command line
+[DEBUG][2022-08-11 00:08:22,442] After invocation of beforeClass
+[INFO][2022-08-11 00:08:22,614] ------------TC_01_Update_Customer_Info is STARTED ------------
+[DEBUG][2022-08-11 00:08:22,614] Before invocation of TC_01_Update_Customer_Info
+[INFO][2022-08-11 00:08:27,146] -----------PASSED----------
+[INFO][2022-08-11 00:08:27,221] -----------PASSED----------
+[INFO][2022-08-11 00:08:27,302] -----------PASSED----------
+[INFO][2022-08-11 00:08:27,383] -----------PASSED----------
+[INFO][2022-08-11 00:08:27,457] -----------PASSED----------
+[INFO][2022-08-11 00:08:27,545] -----------PASSED----------
+[INFO][2022-08-11 00:08:27,608] -----------PASSED----------
+[DEBUG][2022-08-11 00:08:27,609] After invocation of TC_01_Update_Customer_Info
+[INFO][2022-08-11 00:08:27,945] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-08-11 00:08:27,951] ------------TC_02_Add_Customer_Address is STARTED ------------
+[DEBUG][2022-08-11 00:08:27,952] Before invocation of TC_02_Add_Customer_Address
+[INFO][2022-08-11 00:08:32,843] -----------PASSED----------
+[INFO][2022-08-11 00:08:32,907] -----------PASSED----------
+[INFO][2022-08-11 00:08:32,982] -----------PASSED----------
+[INFO][2022-08-11 00:08:33,047] -----------PASSED----------
+[INFO][2022-08-11 00:08:33,123] -----------PASSED----------
+[INFO][2022-08-11 00:08:33,187] -----------PASSED----------
+[INFO][2022-08-11 00:08:33,246] -----------PASSED----------
+[INFO][2022-08-11 00:08:33,311] -----------PASSED----------
+[INFO][2022-08-11 00:08:33,374] -----------PASSED----------
+[DEBUG][2022-08-11 00:08:33,374] After invocation of TC_02_Add_Customer_Address
+[INFO][2022-08-11 00:08:33,386] ------------TC_02_Add_Customer_Address is PASSED ------------
+[INFO][2022-08-11 00:08:33,391] ------------TC_03_Change_Password is STARTED ------------
+[DEBUG][2022-08-11 00:08:33,391] Before invocation of TC_03_Change_Password
+[INFO][2022-08-11 00:08:37,156] -----------PASSED----------
+[INFO][2022-08-11 00:08:41,100] -----------PASSED----------
+[DEBUG][2022-08-11 00:09:12,564] After invocation of TC_03_Change_Password
+[INFO][2022-08-11 00:09:12,580] ------------TC_03_Change_Password is FAILED ------------
+[DEBUG][2022-08-11 00:09:12,648] Before invocation of afterClass
+[INFO][2022-08-11 00:09:12,649] OS name = windows 10
+[INFO][2022-08-11 00:09:12,649] Driver instance name = firefoxdriver: firefox on windows (3cce05e8-1f6e-4895-a561-b1f97c674e7c)
+[DEBUG][2022-08-11 00:09:13,880] After invocation of afterClass
+[INFO][2022-08-11 00:09:13,930] -------FINISHED TEST Run on Firefox------
+[DEBUG][2022-08-11 00:15:53,278] Before invocation of initBeforeSuite
+[DEBUG][2022-08-11 00:15:53,350] After invocation of initBeforeSuite
+[INFO][2022-08-11 00:15:53,367] -------STARTED TEST Run on Firefox------
+[DEBUG][2022-08-11 00:15:53,389] Before invocation of beforeTestAll
+[INFO][2022-08-11 00:15:59,642] Please add parameter in Maven command line
+[INFO][2022-08-11 00:16:03,216] Register new account with email = monet.crooks@hotmail.com and password = bnimwmrq
+[DEBUG][2022-08-11 00:16:10,377] After invocation of beforeTestAll
+[DEBUG][2022-08-11 00:16:10,378] Before invocation of beforeTestUpdateAccount
+[INFO][2022-08-11 00:16:14,382] Please add parameter in Maven command line
+[INFO][2022-08-11 00:16:16,416] Register new account with email = joey.zemlak@hotmail.com and password = s78b82hea
+[DEBUG][2022-08-11 00:16:23,593] After invocation of beforeTestUpdateAccount
+[DEBUG][2022-08-11 00:16:23,633] Before invocation of beforeClass
+[INFO][2022-08-11 00:16:27,342] Please add parameter in Maven command line
+[DEBUG][2022-08-11 00:16:32,387] After invocation of beforeClass
+[INFO][2022-08-11 00:16:32,419] ------------TC_01_Update_Customer_Info is STARTED ------------
+[DEBUG][2022-08-11 00:16:32,672] Before invocation of TC_01_Update_Customer_Info
+[INFO][2022-08-11 00:16:37,187] -----------PASSED----------
+[INFO][2022-08-11 00:16:37,262] -----------PASSED----------
+[INFO][2022-08-11 00:16:37,360] -----------PASSED----------
+[INFO][2022-08-11 00:16:37,439] -----------PASSED----------
+[INFO][2022-08-11 00:16:37,509] -----------PASSED----------
+[INFO][2022-08-11 00:16:37,595] -----------PASSED----------
+[INFO][2022-08-11 00:16:37,658] -----------PASSED----------
+[DEBUG][2022-08-11 00:16:37,659] After invocation of TC_01_Update_Customer_Info
+[INFO][2022-08-11 00:16:37,663] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-08-11 00:16:37,988] ------------TC_02_Add_Customer_Address is STARTED ------------
+[DEBUG][2022-08-11 00:16:37,991] Before invocation of TC_02_Add_Customer_Address
+[INFO][2022-08-11 00:16:42,761] -----------PASSED----------
+[INFO][2022-08-11 00:16:42,841] -----------PASSED----------
+[INFO][2022-08-11 00:16:42,916] -----------PASSED----------
+[INFO][2022-08-11 00:16:42,995] -----------PASSED----------
+[INFO][2022-08-11 00:16:43,070] -----------PASSED----------
+[INFO][2022-08-11 00:16:43,132] -----------PASSED----------
+[INFO][2022-08-11 00:16:43,200] -----------PASSED----------
+[INFO][2022-08-11 00:16:43,271] -----------PASSED----------
+[INFO][2022-08-11 00:16:43,336] -----------PASSED----------
+[DEBUG][2022-08-11 00:16:43,336] After invocation of TC_02_Add_Customer_Address
+[INFO][2022-08-11 00:16:43,338] ------------TC_02_Add_Customer_Address is PASSED ------------
+[INFO][2022-08-11 00:16:43,350] ------------TC_03_Change_Password is STARTED ------------
+[DEBUG][2022-08-11 00:16:43,354] Before invocation of TC_03_Change_Password
+[INFO][2022-08-11 00:16:47,066] -----------PASSED----------
+[INFO][2022-08-11 00:16:50,998] -----------PASSED----------
+[DEBUG][2022-08-11 00:17:22,501] After invocation of TC_03_Change_Password
+[INFO][2022-08-11 00:17:22,504] ------------TC_03_Change_Password is FAILED ------------
+[DEBUG][2022-08-11 00:17:22,577] Before invocation of afterClass
+[INFO][2022-08-11 00:17:22,578] OS name = windows 10
+[INFO][2022-08-11 00:17:22,578] Driver instance name = firefoxdriver: firefox on windows (7852020c-a03d-451b-b9c9-f243fffb3652)
+[DEBUG][2022-08-11 00:17:23,891] After invocation of afterClass
+[INFO][2022-08-11 00:17:23,925] -------FINISHED TEST Run on Firefox------
+[DEBUG][2022-08-11 09:49:54,689] Before invocation of initBeforeSuite
+[DEBUG][2022-08-11 09:49:54,769] After invocation of initBeforeSuite
+[INFO][2022-08-11 09:49:54,776] -------STARTED TEST Run on Firefox------
+[DEBUG][2022-08-11 09:49:54,808] Before invocation of beforeTestAll
+[INFO][2022-08-11 09:50:03,544] Please add parameter in Maven command line
+[INFO][2022-08-11 09:50:06,861] Register new account with email = jettie.padberg@gmail.com and password = fl0b5pad
+[DEBUG][2022-08-11 09:50:14,463] After invocation of beforeTestAll
+[DEBUG][2022-08-11 09:50:14,464] Before invocation of beforeTestUpdateAccount
+[INFO][2022-08-11 09:50:18,232] Please add parameter in Maven command line
+[INFO][2022-08-11 09:50:20,421] Register new account with email = cesar.altenwerth@yahoo.com and password = cljiwxcl
+[DEBUG][2022-08-11 09:50:27,878] After invocation of beforeTestUpdateAccount
+[DEBUG][2022-08-11 09:50:27,917] Before invocation of beforeClass
+[INFO][2022-08-11 09:50:31,709] Please add parameter in Maven command line
+[DEBUG][2022-08-11 09:50:39,302] After invocation of beforeClass
+[INFO][2022-08-11 09:50:39,335] ------------TC_01_Update_Customer_Info is STARTED ------------
+[DEBUG][2022-08-11 09:50:39,530] Before invocation of TC_01_Update_Customer_Info
+[INFO][2022-08-11 09:50:44,915] -----------PASSED----------
+[INFO][2022-08-11 09:50:44,987] -----------PASSED----------
+[INFO][2022-08-11 09:50:45,068] -----------PASSED----------
+[INFO][2022-08-11 09:50:45,145] -----------PASSED----------
+[INFO][2022-08-11 09:50:45,225] -----------PASSED----------
+[INFO][2022-08-11 09:50:45,294] -----------PASSED----------
+[INFO][2022-08-11 09:50:45,354] -----------PASSED----------
+[DEBUG][2022-08-11 09:50:45,356] After invocation of TC_01_Update_Customer_Info
+[INFO][2022-08-11 09:50:45,359] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-08-11 09:50:45,679] ------------TC_02_Add_Customer_Address is STARTED ------------
+[DEBUG][2022-08-11 09:50:45,687] Before invocation of TC_02_Add_Customer_Address
+[INFO][2022-08-11 09:50:51,324] -----------PASSED----------
+[INFO][2022-08-11 09:50:51,403] -----------PASSED----------
+[INFO][2022-08-11 09:50:51,480] -----------PASSED----------
+[INFO][2022-08-11 09:50:51,553] -----------PASSED----------
+[INFO][2022-08-11 09:50:51,615] -----------PASSED----------
+[INFO][2022-08-11 09:50:51,678] -----------PASSED----------
+[INFO][2022-08-11 09:50:51,740] -----------PASSED----------
+[INFO][2022-08-11 09:50:51,803] -----------PASSED----------
+[INFO][2022-08-11 09:50:51,865] -----------PASSED----------
+[DEBUG][2022-08-11 09:50:51,866] After invocation of TC_02_Add_Customer_Address
+[INFO][2022-08-11 09:50:51,868] ------------TC_02_Add_Customer_Address is PASSED ------------
+[INFO][2022-08-11 09:50:51,880] ------------TC_03_Change_Password is STARTED ------------
+[DEBUG][2022-08-11 09:50:51,884] Before invocation of TC_03_Change_Password
+[INFO][2022-08-11 09:50:57,573] -----------PASSED----------
+[INFO][2022-08-11 09:51:01,481] -----------PASSED----------
+[DEBUG][2022-08-11 09:51:32,958] After invocation of TC_03_Change_Password
+[INFO][2022-08-11 09:51:32,977] ------------TC_03_Change_Password is FAILED ------------
+[DEBUG][2022-08-11 09:51:33,078] Before invocation of afterClass
+[INFO][2022-08-11 09:51:33,079] OS name = windows 10
+[INFO][2022-08-11 09:51:33,080] Driver instance name = firefoxdriver: firefox on windows (a3a30349-8f9e-4227-9fe3-ffb2dbdc09fa)
+[DEBUG][2022-08-11 09:51:34,252] After invocation of afterClass
+[INFO][2022-08-11 09:51:34,288] -------FINISHED TEST Run on Firefox------
+[DEBUG][2022-08-11 10:15:52,010] Before invocation of initBeforeSuite
+[DEBUG][2022-08-11 10:15:52,060] After invocation of initBeforeSuite
+[INFO][2022-08-11 10:15:52,069] -------STARTED TEST Run on Firefox------
+[DEBUG][2022-08-11 10:15:52,090] Before invocation of beforeTestAll
+[INFO][2022-08-11 10:15:59,133] Please add parameter in Maven command line
+[INFO][2022-08-11 10:16:02,709] Register new account with email = jann.corkery@yahoo.com and password = te81wii8us
+[DEBUG][2022-08-11 10:16:10,331] After invocation of beforeTestAll
+[DEBUG][2022-08-11 10:16:10,332] Before invocation of beforeTestUpdateAccount
+[INFO][2022-08-11 10:16:14,291] Please add parameter in Maven command line
+[INFO][2022-08-11 10:16:16,510] Register new account with email = german.koelpin@yahoo.com and password = sdvuak8h
+[DEBUG][2022-08-11 10:16:23,896] After invocation of beforeTestUpdateAccount
+[DEBUG][2022-08-11 10:16:23,951] Before invocation of beforeClass
+[INFO][2022-08-11 10:16:27,998] Please add parameter in Maven command line
+[DEBUG][2022-08-11 10:16:33,381] After invocation of beforeClass
+[INFO][2022-08-11 10:16:33,416] ------------TC_01_Update_Customer_Info is STARTED ------------
+[DEBUG][2022-08-11 10:16:33,667] Before invocation of TC_01_Update_Customer_Info
+[INFO][2022-08-11 10:16:38,025] -----------PASSED----------
+[INFO][2022-08-11 10:16:38,112] -----------PASSED----------
+[INFO][2022-08-11 10:16:38,221] -----------PASSED----------
+[INFO][2022-08-11 10:16:38,313] -----------PASSED----------
+[INFO][2022-08-11 10:16:38,402] -----------PASSED----------
+[INFO][2022-08-11 10:16:38,481] -----------PASSED----------
+[INFO][2022-08-11 10:16:38,557] -----------PASSED----------
+[DEBUG][2022-08-11 10:16:38,559] After invocation of TC_01_Update_Customer_Info
+[INFO][2022-08-11 10:16:38,563] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-08-11 10:16:38,912] ------------TC_02_Add_Customer_Address is STARTED ------------
+[DEBUG][2022-08-11 10:16:38,916] Before invocation of TC_02_Add_Customer_Address
+[INFO][2022-08-11 10:16:43,553] -----------PASSED----------
+[INFO][2022-08-11 10:16:43,629] -----------PASSED----------
+[INFO][2022-08-11 10:16:43,706] -----------PASSED----------
+[INFO][2022-08-11 10:16:43,787] -----------PASSED----------
+[INFO][2022-08-11 10:16:43,860] -----------PASSED----------
+[INFO][2022-08-11 10:16:43,924] -----------PASSED----------
+[INFO][2022-08-11 10:16:43,987] -----------PASSED----------
+[INFO][2022-08-11 10:16:44,049] -----------PASSED----------
+[INFO][2022-08-11 10:16:44,120] -----------PASSED----------
+[DEBUG][2022-08-11 10:16:44,120] After invocation of TC_02_Add_Customer_Address
+[INFO][2022-08-11 10:16:44,122] ------------TC_02_Add_Customer_Address is PASSED ------------
+[INFO][2022-08-11 10:16:44,140] ------------TC_03_Change_Password is STARTED ------------
+[DEBUG][2022-08-11 10:16:44,145] Before invocation of TC_03_Change_Password
+[INFO][2022-08-11 10:16:47,969] -----------PASSED----------
+[DEBUG][2022-08-11 10:17:22,149] After invocation of TC_03_Change_Password
+[INFO][2022-08-11 10:17:22,152] ------------TC_03_Change_Password is FAILED ------------
+[DEBUG][2022-08-11 10:17:22,266] Before invocation of afterClass
+[INFO][2022-08-11 10:17:22,268] OS name = windows 10
+[INFO][2022-08-11 10:17:22,268] Driver instance name = firefoxdriver: firefox on windows (17a7751a-bae6-4cd6-a14a-075fd3a0de83)
+[DEBUG][2022-08-11 10:17:23,408] After invocation of afterClass
+[INFO][2022-08-11 10:17:23,450] -------FINISHED TEST Run on Firefox------
+[DEBUG][2022-08-11 10:23:25,416] Before invocation of initBeforeSuite
+[DEBUG][2022-08-11 10:23:25,466] After invocation of initBeforeSuite
+[INFO][2022-08-11 10:23:25,477] -------STARTED TEST Run on Firefox------
+[DEBUG][2022-08-11 10:23:25,501] Before invocation of beforeTestAll
+[INFO][2022-08-11 10:23:31,874] Please add parameter in Maven command line
+[INFO][2022-08-11 10:23:35,093] Register new account with email = glennis.cormier@yahoo.com and password = comi8whu
+[DEBUG][2022-08-11 10:23:42,834] After invocation of beforeTestAll
+[DEBUG][2022-08-11 10:23:42,834] Before invocation of beforeTestUpdateAccount
+[INFO][2022-08-11 10:23:46,790] Please add parameter in Maven command line
+[INFO][2022-08-11 10:23:49,018] Register new account with email = mona.miller@hotmail.com and password = watn486563ew
+[DEBUG][2022-08-11 10:23:56,201] After invocation of beforeTestUpdateAccount
+[DEBUG][2022-08-11 10:23:56,246] Before invocation of beforeClass
+[INFO][2022-08-11 10:24:00,258] Please add parameter in Maven command line
+[DEBUG][2022-08-11 10:24:06,327] After invocation of beforeClass
+[INFO][2022-08-11 10:24:06,372] ------------TC_01_Update_Customer_Info is STARTED ------------
+[DEBUG][2022-08-11 10:24:06,550] Before invocation of TC_01_Update_Customer_Info
+[INFO][2022-08-11 10:24:11,092] -----------PASSED----------
+[INFO][2022-08-11 10:24:11,193] -----------PASSED----------
+[INFO][2022-08-11 10:24:11,282] -----------PASSED----------
+[INFO][2022-08-11 10:24:11,359] -----------PASSED----------
+[INFO][2022-08-11 10:24:11,432] -----------PASSED----------
+[INFO][2022-08-11 10:24:11,499] -----------PASSED----------
+[INFO][2022-08-11 10:24:11,564] -----------PASSED----------
+[DEBUG][2022-08-11 10:24:11,565] After invocation of TC_01_Update_Customer_Info
+[INFO][2022-08-11 10:24:11,570] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-08-11 10:24:11,839] ------------TC_02_Add_Customer_Address is STARTED ------------
+[DEBUG][2022-08-11 10:24:11,845] Before invocation of TC_02_Add_Customer_Address
+[INFO][2022-08-11 10:24:16,841] -----------PASSED----------
+[INFO][2022-08-11 10:24:16,930] -----------PASSED----------
+[INFO][2022-08-11 10:24:17,042] -----------PASSED----------
+[INFO][2022-08-11 10:24:17,110] -----------PASSED----------
+[INFO][2022-08-11 10:24:17,181] -----------PASSED----------
+[INFO][2022-08-11 10:24:17,254] -----------PASSED----------
+[INFO][2022-08-11 10:24:17,317] -----------PASSED----------
+[INFO][2022-08-11 10:24:17,381] -----------PASSED----------
+[INFO][2022-08-11 10:24:17,442] -----------PASSED----------
+[DEBUG][2022-08-11 10:24:17,442] After invocation of TC_02_Add_Customer_Address
+[INFO][2022-08-11 10:24:17,444] ------------TC_02_Add_Customer_Address is PASSED ------------
+[INFO][2022-08-11 10:24:17,459] ------------TC_03_Change_Password is STARTED ------------
+[DEBUG][2022-08-11 10:24:17,462] Before invocation of TC_03_Change_Password
+[INFO][2022-08-11 10:24:21,290] -----------PASSED----------
+[INFO][2022-08-11 10:24:25,188] -----------PASSED----------
+[INFO][2022-08-11 10:24:26,461] -----------PASSED----------
+[DEBUG][2022-08-11 10:24:26,461] After invocation of TC_03_Change_Password
+[INFO][2022-08-11 10:24:26,462] ------------TC_03_Change_Password is PASSED ------------
+[DEBUG][2022-08-11 10:24:26,466] Before invocation of afterClass
+[INFO][2022-08-11 10:24:26,468] OS name = windows 10
+[INFO][2022-08-11 10:24:26,468] Driver instance name = firefoxdriver: firefox on windows (2276b900-eb76-48d7-bac2-ca651af41a9c)
+[DEBUG][2022-08-11 10:24:27,710] After invocation of afterClass
+[INFO][2022-08-11 10:24:27,737] -------FINISHED TEST Run on Firefox------
+[DEBUG][2022-08-11 10:26:00,437] Before invocation of initBeforeSuite
+[DEBUG][2022-08-11 10:26:00,509] After invocation of initBeforeSuite
+[INFO][2022-08-11 10:26:00,517] -------STARTED TEST Run on Firefox------
+[DEBUG][2022-08-11 10:26:00,542] Before invocation of beforeTestAll
+[INFO][2022-08-11 10:26:06,846] Please add parameter in Maven command line
+[INFO][2022-08-11 10:26:09,389] Register new account with email = giuseppe.gusikowski@yahoo.com and password = dmbdx6a79t1j5p
+[DEBUG][2022-08-11 10:26:17,675] After invocation of beforeTestAll
+[DEBUG][2022-08-11 10:26:17,676] Before invocation of beforeTestUpdateAccount
+[INFO][2022-08-11 10:26:21,745] Please add parameter in Maven command line
+[INFO][2022-08-11 10:26:23,827] Register new account with email = hilario.corkery@gmail.com and password = tjald8wwptq
+[DEBUG][2022-08-11 10:26:30,909] After invocation of beforeTestUpdateAccount
+[DEBUG][2022-08-11 10:26:31,083] Before invocation of beforeClass
+[INFO][2022-08-11 10:26:34,923] Please add parameter in Maven command line
+[DEBUG][2022-08-11 10:26:37,923] After invocation of beforeClass
+[INFO][2022-08-11 10:26:38,004] ------------TC_01_Login_With_Empty_Data is STARTED ------------
+[DEBUG][2022-08-11 10:26:38,174] Before invocation of TC_01_Login_With_Empty_Data
+[DEBUG][2022-08-11 10:26:41,759] After invocation of TC_01_Login_With_Empty_Data
+[INFO][2022-08-11 10:26:41,766] ------------TC_01_Login_With_Empty_Data is PASSED ------------
+[INFO][2022-08-11 10:26:41,984] ------------TC_02_Login_With_Invalid_Email is STARTED ------------
+[DEBUG][2022-08-11 10:26:41,986] Before invocation of TC_02_Login_With_Invalid_Email
+[INFO][2022-08-11 10:26:46,710] -----------PASSED----------
+[DEBUG][2022-08-11 10:26:46,710] After invocation of TC_02_Login_With_Invalid_Email
+[INFO][2022-08-11 10:26:46,712] ------------TC_02_Login_With_Invalid_Email is PASSED ------------
+[INFO][2022-08-11 10:26:46,719] ------------TC_03_Login_With_Not_Registerd_Email is STARTED ------------
+[DEBUG][2022-08-11 10:26:46,726] Before invocation of TC_03_Login_With_Not_Registerd_Email
+[INFO][2022-08-11 10:26:48,300] -----------PASSED----------
+[DEBUG][2022-08-11 10:26:48,300] After invocation of TC_03_Login_With_Not_Registerd_Email
+[INFO][2022-08-11 10:26:48,302] ------------TC_03_Login_With_Not_Registerd_Email is PASSED ------------
+[INFO][2022-08-11 10:26:48,306] ------------TC_4_Login_With_Empty_Password is STARTED ------------
+[DEBUG][2022-08-11 10:26:48,309] Before invocation of TC_4_Login_With_Empty_Password
+[INFO][2022-08-11 10:26:49,719] -----------PASSED----------
+[DEBUG][2022-08-11 10:26:49,720] After invocation of TC_4_Login_With_Empty_Password
+[INFO][2022-08-11 10:26:49,721] ------------TC_4_Login_With_Empty_Password is PASSED ------------
+[INFO][2022-08-11 10:26:49,725] ------------TC_5_Login_With_Wrong_Password is STARTED ------------
+[DEBUG][2022-08-11 10:26:49,727] Before invocation of TC_5_Login_With_Wrong_Password
+[INFO][2022-08-11 10:26:51,275] -----------PASSED----------
+[DEBUG][2022-08-11 10:26:51,275] After invocation of TC_5_Login_With_Wrong_Password
+[INFO][2022-08-11 10:26:51,277] ------------TC_5_Login_With_Wrong_Password is PASSED ------------
+[INFO][2022-08-11 10:26:51,285] ------------TC_6_Login_With_Valid_Credential is STARTED ------------
+[DEBUG][2022-08-11 10:26:51,287] Before invocation of TC_6_Login_With_Valid_Credential
+[INFO][2022-08-11 10:26:53,193] -----------PASSED----------
+[DEBUG][2022-08-11 10:26:53,193] After invocation of TC_6_Login_With_Valid_Credential
+[INFO][2022-08-11 10:26:53,194] ------------TC_6_Login_With_Valid_Credential is PASSED ------------
+[DEBUG][2022-08-11 10:26:53,197] Before invocation of afterClass
+[INFO][2022-08-11 10:26:53,199] OS name = windows 10
+[INFO][2022-08-11 10:26:53,199] Driver instance name = firefoxdriver: firefox on windows (1829722c-f2e1-42fe-b6fc-41d3ed21bf7b)
+[DEBUG][2022-08-11 10:26:54,449] After invocation of afterClass
+[DEBUG][2022-08-11 10:26:54,450] Before invocation of beforeClass
+[INFO][2022-08-11 10:26:58,363] Please add parameter in Maven command line
+[DEBUG][2022-08-11 10:27:03,717] After invocation of beforeClass
+[INFO][2022-08-11 10:27:03,720] ------------TC_01_Update_Customer_Info is STARTED ------------
+[DEBUG][2022-08-11 10:27:03,723] Before invocation of TC_01_Update_Customer_Info
+[INFO][2022-08-11 10:27:08,426] -----------PASSED----------
+[INFO][2022-08-11 10:27:08,506] -----------PASSED----------
+[INFO][2022-08-11 10:27:08,586] -----------PASSED----------
+[INFO][2022-08-11 10:27:08,662] -----------PASSED----------
+[INFO][2022-08-11 10:27:08,742] -----------PASSED----------
+[INFO][2022-08-11 10:27:08,822] -----------PASSED----------
+[INFO][2022-08-11 10:27:08,887] -----------PASSED----------
+[DEBUG][2022-08-11 10:27:08,887] After invocation of TC_01_Update_Customer_Info
+[INFO][2022-08-11 10:27:08,888] ------------TC_01_Update_Customer_Info is PASSED ------------
+[INFO][2022-08-11 10:27:08,894] ------------TC_02_Add_Customer_Address is STARTED ------------
+[DEBUG][2022-08-11 10:27:08,899] Before invocation of TC_02_Add_Customer_Address
+[INFO][2022-08-11 10:27:13,830] -----------PASSED----------
+[INFO][2022-08-11 10:27:13,906] -----------PASSED----------
+[INFO][2022-08-11 10:27:13,968] -----------PASSED----------
+[INFO][2022-08-11 10:27:14,034] -----------PASSED----------
+[INFO][2022-08-11 10:27:14,109] -----------PASSED----------
+[INFO][2022-08-11 10:27:14,170] -----------PASSED----------
+[INFO][2022-08-11 10:27:14,233] -----------PASSED----------
+[INFO][2022-08-11 10:27:14,295] -----------PASSED----------
+[INFO][2022-08-11 10:27:14,357] -----------PASSED----------
+[DEBUG][2022-08-11 10:27:14,357] After invocation of TC_02_Add_Customer_Address
+[INFO][2022-08-11 10:27:14,359] ------------TC_02_Add_Customer_Address is PASSED ------------
+[INFO][2022-08-11 10:27:14,363] ------------TC_03_Change_Password is STARTED ------------
+[DEBUG][2022-08-11 10:27:14,367] Before invocation of TC_03_Change_Password
+[INFO][2022-08-11 10:27:18,317] -----------PASSED----------
+[INFO][2022-08-11 10:27:22,317] -----------PASSED----------
+[INFO][2022-08-11 10:27:23,650] -----------PASSED----------
+[DEBUG][2022-08-11 10:27:23,650] After invocation of TC_03_Change_Password
+[INFO][2022-08-11 10:27:23,651] ------------TC_03_Change_Password is PASSED ------------
+[INFO][2022-08-11 10:27:23,655] ------------TC_04_View_Product_Review is STARTED ------------
+[DEBUG][2022-08-11 10:27:23,658] Before invocation of TC_04_View_Product_Review
+[INFO][2022-08-11 10:27:31,069] -----------PASSED----------
+[INFO][2022-08-11 10:27:31,159] -----------PASSED----------
+[INFO][2022-08-11 10:27:32,376] -----------PASSED----------
+[INFO][2022-08-11 10:27:32,440] -----------PASSED----------
+[INFO][2022-08-11 10:27:32,501] -----------FAILED----------
+[DEBUG][2022-08-11 10:27:32,579] After invocation of TC_04_View_Product_Review
+[INFO][2022-08-11 10:27:32,581] ------------TC_04_View_Product_Review is FAILED ------------
+[DEBUG][2022-08-11 10:27:32,664] Before invocation of afterClass
+[INFO][2022-08-11 10:27:32,665] OS name = windows 10
+[INFO][2022-08-11 10:27:32,665] Driver instance name = firefoxdriver: firefox on windows (3a53443a-a585-4edc-8fd2-9538f97f6946)
+[DEBUG][2022-08-11 10:27:34,012] After invocation of afterClass
+[DEBUG][2022-08-11 10:27:34,015] Before invocation of beforeClass
+[INFO][2022-08-11 10:27:38,086] Please add parameter in Maven command line
+[DEBUG][2022-08-11 10:27:40,759] After invocation of beforeClass
+[INFO][2022-08-11 10:27:40,764] ------------TC_01_Register_With_Empty_Required_Data is STARTED ------------
+[DEBUG][2022-08-11 10:27:40,767] Before invocation of TC_01_Register_With_Empty_Required_Data
+[INFO][2022-08-11 10:27:41,408] -----------PASSED----------
+[INFO][2022-08-11 10:27:41,478] -----------PASSED----------
+[INFO][2022-08-11 10:27:41,542] -----------PASSED----------
+[INFO][2022-08-11 10:27:41,606] -----------PASSED----------
+[INFO][2022-08-11 10:27:41,666] -----------PASSED----------
+[DEBUG][2022-08-11 10:27:41,667] After invocation of TC_01_Register_With_Empty_Required_Data
+[INFO][2022-08-11 10:27:41,668] ------------TC_01_Register_With_Empty_Required_Data is PASSED ------------
+[INFO][2022-08-11 10:27:41,671] ------------TC_02_Register_With_Invalid_Email is STARTED ------------
+[DEBUG][2022-08-11 10:27:41,673] Before invocation of TC_02_Register_With_Invalid_Email
+[INFO][2022-08-11 10:27:43,608] -----------PASSED----------
+[DEBUG][2022-08-11 10:27:43,609] After invocation of TC_02_Register_With_Invalid_Email
+[INFO][2022-08-11 10:27:43,610] ------------TC_02_Register_With_Invalid_Email is PASSED ------------
+[INFO][2022-08-11 10:27:43,613] ------------TC_03_Register_With_Valid_Data is STARTED ------------
+[DEBUG][2022-08-11 10:27:43,615] Before invocation of TC_03_Register_With_Valid_Data
+[INFO][2022-08-11 10:27:47,372] -----------PASSED----------
+[INFO][2022-08-11 10:27:47,475] -----------PASSED----------
+[DEBUG][2022-08-11 10:27:47,475] After invocation of TC_03_Register_With_Valid_Data
+[INFO][2022-08-11 10:27:47,476] ------------TC_03_Register_With_Valid_Data is PASSED ------------
+[INFO][2022-08-11 10:27:47,481] ------------TC_04_Register_With_Existing_Email is STARTED ------------
+[DEBUG][2022-08-11 10:27:47,485] Before invocation of TC_04_Register_With_Existing_Email
+[INFO][2022-08-11 10:27:51,424] -----------PASSED----------
+[DEBUG][2022-08-11 10:27:51,424] After invocation of TC_04_Register_With_Existing_Email
+[INFO][2022-08-11 10:27:51,426] ------------TC_04_Register_With_Existing_Email is PASSED ------------
+[INFO][2022-08-11 10:27:51,429] ------------TC_05_Register_With_Invalid_Password is STARTED ------------
+[DEBUG][2022-08-11 10:27:51,430] Before invocation of TC_05_Register_With_Invalid_Password
+[INFO][2022-08-11 10:27:53,195] -----------PASSED----------
+[DEBUG][2022-08-11 10:27:53,195] After invocation of TC_05_Register_With_Invalid_Password
+[INFO][2022-08-11 10:27:53,196] ------------TC_05_Register_With_Invalid_Password is PASSED ------------
+[INFO][2022-08-11 10:27:53,200] ------------TC_06_Register_With_Invalid_Confirm_Password is STARTED ------------
+[DEBUG][2022-08-11 10:27:53,203] Before invocation of TC_06_Register_With_Invalid_Confirm_Password
+[INFO][2022-08-11 10:27:55,278] -----------PASSED----------
+[DEBUG][2022-08-11 10:27:55,278] After invocation of TC_06_Register_With_Invalid_Confirm_Password
+[INFO][2022-08-11 10:27:55,280] ------------TC_06_Register_With_Invalid_Confirm_Password is PASSED ------------
+[DEBUG][2022-08-11 10:27:55,291] Before invocation of afterClass
+[INFO][2022-08-11 10:27:55,292] OS name = windows 10
+[INFO][2022-08-11 10:27:55,292] Driver instance name = firefoxdriver: firefox on windows (da7b8bd6-f1e2-42b0-8f2a-93c3e95c71ea)
+[DEBUG][2022-08-11 10:27:56,574] After invocation of afterClass
+[DEBUG][2022-08-11 10:27:56,576] Before invocation of beforeClass
+[INFO][2022-08-11 10:28:00,366] Please add parameter in Maven command line
+[DEBUG][2022-08-11 10:28:03,077] After invocation of beforeClass
+[INFO][2022-08-11 10:28:03,079] ------------TC_01_Search_With_Empty_Data is STARTED ------------
+[DEBUG][2022-08-11 10:28:03,082] Before invocation of TC_01_Search_With_Empty_Data
+[INFO][2022-08-11 10:28:03,782] -----------PASSED----------
+[DEBUG][2022-08-11 10:28:03,782] After invocation of TC_01_Search_With_Empty_Data
+[INFO][2022-08-11 10:28:03,783] ------------TC_01_Search_With_Empty_Data is PASSED ------------
+[INFO][2022-08-11 10:28:03,788] ------------TC_02_Search_With_Not_Existing_Data is STARTED ------------
+[DEBUG][2022-08-11 10:28:03,789] Before invocation of TC_02_Search_With_Not_Existing_Data
+[INFO][2022-08-11 10:28:04,655] -----------PASSED----------
+[DEBUG][2022-08-11 10:28:04,655] After invocation of TC_02_Search_With_Not_Existing_Data
+[INFO][2022-08-11 10:28:04,656] ------------TC_02_Search_With_Not_Existing_Data is PASSED ------------
+[INFO][2022-08-11 10:28:04,692] -------FINISHED TEST Run on Firefox------
+[DEBUG][2022-08-11 11:17:22,389] Before invocation of initBeforeSuite
+[DEBUG][2022-08-11 11:17:22,437] After invocation of initBeforeSuite
+[INFO][2022-08-11 11:17:22,450] -------STARTED TEST Run on Firefox------
+[DEBUG][2022-08-11 11:17:22,476] Before invocation of beforeTestAll
+[INFO][2022-08-11 11:17:31,058] Please add parameter in Maven command line
+[INFO][2022-08-11 11:17:35,107] Register new account with email = jena.howell@yahoo.com and password = 0dk2knh2rp
+[DEBUG][2022-08-11 11:17:43,492] After invocation of beforeTestAll
+[DEBUG][2022-08-11 11:17:43,492] Before invocation of beforeTestUpdateAccount
+[INFO][2022-08-11 11:17:47,499] Please add parameter in Maven command line
+[INFO][2022-08-11 11:17:49,542] Register new account with email = rey.cummings@hotmail.com and password = lw9rv4056agyk
+[DEBUG][2022-08-11 11:17:56,854] After invocation of beforeTestUpdateAccount
+[DEBUG][2022-08-11 11:17:56,904] Before invocation of beforeClass
+[INFO][2022-08-11 11:18:00,814] Please add parameter in Maven command line
+[DEBUG][2022-08-11 11:18:05,833] After invocation of beforeClass
+[INFO][2022-08-11 11:18:05,864] ------------TC_04_View_Product_Review is STARTED ------------
+[DEBUG][2022-08-11 11:18:05,996] Before invocation of TC_04_View_Product_Review
+[DEBUG][2022-08-11 11:18:10,943] After invocation of TC_04_View_Product_Review
+[INFO][2022-08-11 11:18:10,947] ------------TC_04_View_Product_Review is FAILED ------------
+[DEBUG][2022-08-11 11:18:11,472] Before invocation of afterClass
+[INFO][2022-08-11 11:18:11,476] OS name = windows 10
+[INFO][2022-08-11 11:18:11,476] Driver instance name = firefoxdriver: firefox on windows (43744b9b-6eba-48dd-976a-d0246ed7d1eb)
+[DEBUG][2022-08-11 11:18:12,916] After invocation of afterClass
+[INFO][2022-08-11 11:18:12,955] -------FINISHED TEST Run on Firefox------
