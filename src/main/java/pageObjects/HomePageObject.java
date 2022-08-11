@@ -16,7 +16,6 @@ public class HomePageObject extends BasePage {
 	@Step("Click to Login link")
 	public void clickToLoginLink() {
 		waitForElementClickable(HomePageUI.LOGIN_LINK);
-	System.out.println("co chay vao day ko");
 		clickToElement(HomePageUI.LOGIN_LINK);
 	}
 
@@ -42,7 +41,6 @@ public class HomePageObject extends BasePage {
 	public void clickLogoutLink() {
 		waitForElementClickable(HomePageUI.LOGOUT_LINK);
 		clickToElementByJS(HomePageUI.LOGOUT_LINK);
-		sleepInSecond(2);
 	}
 
 	@Step("Click to product = {0} in Top menu")
@@ -59,8 +57,8 @@ public class HomePageObject extends BasePage {
 
 	@Step("Click to product = {0} in Sub menu")
 	public void clickProductSubMenuByProductName(String product) {
-		waitForElementClickable(HomePageUI.TOP_SUB_MENU_PRODUCT_LINK,product);
-		clickToElement(HomePageUI.TOP_SUB_MENU_PRODUCT_LINK,product);
+		waitForElementClickable(HomePageUI.TOP_SUB_MENU_PRODUCT_LINK, product);
+		clickToElement(HomePageUI.TOP_SUB_MENU_PRODUCT_LINK, product);
 	}
 
 	public void clickFooterLink(String linkName) {

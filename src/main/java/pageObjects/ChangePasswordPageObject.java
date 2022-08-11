@@ -28,7 +28,6 @@ public class ChangePasswordPageObject extends SidebarMyAccountPageObject {
 
 	@Step("After changing password, verify successful message is shown")
 	public String getSuccessfulMsg() {
-		sleepInSecond(2);
 		waitForElementVisible(ChangePasswordUI.CHANGE_SUCCESSFUL_MSG);
 		return getElementText(ChangePasswordUI.CHANGE_SUCCESSFUL_MSG);
 

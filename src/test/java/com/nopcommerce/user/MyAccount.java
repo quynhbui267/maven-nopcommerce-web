@@ -73,7 +73,7 @@ public class MyAccount extends BaseTest {
 
 	}
 
-	//@Test(description = "Verify customer info is updated correctly")
+	@Test(description = "Verify customer info is updated correctly")
 	public void TC_01_Update_Customer_Info() {
 		sidebarMyAccountPage.openCustomerInfoLink();
 		customerInfoPage.inputCustomerInfoByField(firstName, "FirstName");
@@ -95,7 +95,7 @@ public class MyAccount extends BaseTest {
 		verifyEquals(customerInfoPage.getDropdownListSelectedByField("DateOfBirthYear"), year);
 	}
 
-	//@Test(description = "Verify customer address is added successfully")
+	@Test(description = "Verify customer address is added successfully")
 	public void TC_02_Add_Customer_Address() {
 		sidebarMyAccountPage.openCustomerAddressLink();
 		customerAddressPage.clickAddNewBtn();
@@ -127,7 +127,7 @@ public class MyAccount extends BaseTest {
 		verifyEquals(customerAddressPage.getTextbyFieldName("country"), country);
 	}
 
-	//@Test(description = "Verify pasword is changed successfully")
+	@Test(description = "Verify pasword is changed successfully")
 	public void TC_03_Change_Password() {
 		sidebarMyAccountPage.openChangePasswordLink();
 		changePasswordPage.inputToChangePasswordField(PreconditionForUpdateAccount.password, "OldPassword");
