@@ -61,7 +61,7 @@ public class Login extends BaseTest {
 	}
 
 	@Test
-	public void TC_4_Login_With_Empty_Password() {
+	public void TC_04_Login_With_Empty_Password() {
 		homePage.clickToLoginLink();
 		loginPage.inputToEmailAddress(PreconditionForAll.email);
 		loginPage.clickToLoginBtn();
@@ -69,7 +69,7 @@ public class Login extends BaseTest {
 	}
 
 	@Test
-	public void TC_5_Login_With_Wrong_Password() {
+	public void TC_05_Login_With_Wrong_Password() {
 		homePage.clickToLoginLink();
 		loginPage.inputToEmailAddress(PreconditionForAll.email);
 		loginPage.inputToPassword(wrongPassword);
@@ -78,7 +78,7 @@ public class Login extends BaseTest {
 	}
 
 	@Test
-	public void TC_6_Login_With_Valid_Credential() {
+	public void TC_06_Login_With_Valid_Credential() {
 		homePage.clickToLoginLink();
 		loginPage.inputToEmailAddress(PreconditionForAll.email);
 		loginPage.inputToPassword(PreconditionForAll.password);

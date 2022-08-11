@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <suite parallel="false" name="NopCommerce">
-	<listeners> 
-	<listener class-name = 'utilities.AllureTestListener'/>
+	<listeners>
+		<listener class-name='utilities.AllureTestListener' />
 
 	</listeners>
 	<test name="Run on Firefox">
 		<parameter name="browser" value="firefox" />
 		<packages>
-		<package name="com.nopcommerce.precondition" />
-		<!-- <package name="com.nopcommerce.user.MyAccount" />	-->
+			<package name="com.nopcommerce.precondition" />
+			<package name="com.nopcommerce.user" />
 		</packages>
-		<classes>
+		<!-- <classes>
 		<class name="com.nopcommerce.user.MyAccount"/>
-		</classes>
+		</classes>-->
 	</test> <!-- Test -->
 
 
-  
 </suite> <!-- Suite -->
-
